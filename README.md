@@ -1,2 +1,2 @@
 <h1>Kamen Rider Decade Retranslation (dcd_eng)</h1>
-A Mod of <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1970442101">Kamen Rider Decade Mod by 红色有角三倍速 and 树</a> that edits the English translation so they are more readable and match terminology from other English mods.
+A Mod of <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1970442101">Kamen Rider Decade Mod by 红色有角三倍速 and 树</a> that edits the English translation of added cards so they are more readable and match terminology used in other English mods.
