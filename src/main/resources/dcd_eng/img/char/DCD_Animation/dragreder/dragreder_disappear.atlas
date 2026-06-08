@@ -1,0 +1,55 @@
+
+dragreder_disappear.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragreder_appear/4
+  rotate: false
+  xy: 1, 1
+  size: 602, 253
+  orig: 602, 253
+  offset: 0, 0
+  index: -1
+dragreder_appear/5
+  rotate: false
+  xy: 1, 384
+  size: 640, 153
+  orig: 640, 153
+  offset: 0, 0
+  index: -1
+dragreder_appear/2
+  rotate: false
+  xy: 605, 1
+  size: 304, 381
+  orig: 304, 381
+  offset: 0, 0
+  index: -1
+dragreder_appear/3
+  rotate: false
+  xy: 1, 849
+  size: 421, 195
+  orig: 421, 195
+  offset: 0, 0
+  index: -1
+dragreder_appear/11
+  rotate: false
+  xy: 1, 539
+  size: 640, 153
+  orig: 640, 153
+  offset: 0, 0
+  index: -1
+dragreder_appear/10
+  rotate: false
+  xy: 1, 694
+  size: 640, 153
+  orig: 640, 153
+  offset: 0, 0
+  index: -1
+dragreder_normal/1
+  rotate: false
+  xy: 643, 384
+  size: 206, 310
+  orig: 206, 310
+  offset: 0, 0
+  index: -1

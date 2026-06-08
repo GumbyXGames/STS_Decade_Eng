@@ -1,0 +1,517 @@
+
+kabuto_henshin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+henshin/kabuto_henshin034
+  rotate: false
+  xy: 233, 1029
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin042
+  rotate: false
+  xy: 1499, 1551
+  size: 156, 258
+  orig: 156, 258
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin002
+  rotate: false
+  xy: 1087, 1575
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin071
+  rotate: false
+  xy: 551, 1014
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin026
+  rotate: false
+  xy: 1550, 974
+  size: 156, 258
+  orig: 156, 258
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin005
+  rotate: false
+  xy: 119, 1270
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin004
+  rotate: false
+  xy: 655, 1270
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin089
+  rotate: false
+  xy: 1402, 935
+  size: 146, 306
+  orig: 146, 306
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin037
+  rotate: false
+  xy: 335, 1285
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin008
+  rotate: false
+  xy: 1708, 974
+  size: 132, 254
+  orig: 132, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin083
+  rotate: false
+  xy: 843, 389
+  size: 190, 328
+  orig: 190, 328
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin078
+  rotate: false
+  xy: 785, 1007
+  size: 150, 308
+  orig: 150, 308
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin050
+  rotate: false
+  xy: 109, 1782
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin053
+  rotate: false
+  xy: 443, 1295
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin048
+  rotate: false
+  xy: 227, 1541
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin045
+  rotate: false
+  xy: 597, 365
+  size: 244, 321
+  orig: 244, 321
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin020
+  rotate: false
+  xy: 979, 1319
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin074
+  rotate: false
+  xy: 1933, 1
+  size: 114, 284
+  orig: 114, 284
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin090
+  rotate: false
+  xy: 1402, 1243
+  size: 146, 306
+  orig: 146, 306
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin076
+  rotate: false
+  xy: 1758, 666
+  size: 128, 296
+  orig: 128, 296
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin018
+  rotate: false
+  xy: 1087, 1319
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin000
+  rotate: false
+  xy: 119, 1526
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin084
+  rotate: false
+  xy: 1222, 389
+  size: 182, 326
+  orig: 182, 326
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin069
+  rotate: false
+  xy: 340, 753
+  size: 105, 272
+  orig: 105, 272
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin040
+  rotate: false
+  xy: 1842, 1476
+  size: 132, 254
+  orig: 132, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin091
+  rotate: false
+  xy: 1197, 1033
+  size: 142, 306
+  orig: 142, 306
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin092
+  rotate: false
+  xy: 1197, 1341
+  size: 142, 304
+  orig: 142, 304
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin086
+  rotate: false
+  xy: 1687, 324
+  size: 213, 340
+  orig: 213, 340
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin055
+  rotate: false
+  xy: 1, 1014
+  size: 114, 254
+  orig: 114, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin023
+  rotate: false
+  xy: 117, 753
+  size: 114, 254
+  orig: 114, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin010
+  rotate: false
+  xy: 1550, 1234
+  size: 156, 258
+  orig: 156, 258
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin068
+  rotate: false
+  xy: 233, 753
+  size: 105, 274
+  orig: 105, 274
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin044
+  rotate: false
+  xy: 1406, 647
+  size: 198, 286
+  orig: 198, 286
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin072
+  rotate: false
+  xy: 1, 1647
+  size: 106, 276
+  orig: 106, 276
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin029
+  rotate: false
+  xy: 1441, 324
+  size: 244, 321
+  orig: 244, 321
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin028
+  rotate: false
+  xy: 1035, 717
+  size: 198, 286
+  orig: 198, 286
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin016
+  rotate: false
+  xy: 227, 1285
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin093
+  rotate: false
+  xy: 1902, 628
+  size: 134, 300
+  orig: 134, 300
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin075
+  rotate: false
+  xy: 1888, 930
+  size: 118, 288
+  orig: 118, 288
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin085
+  rotate: false
+  xy: 1235, 717
+  size: 165, 314
+  orig: 165, 314
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin073
+  rotate: false
+  xy: 1708, 1486
+  size: 110, 280
+  orig: 110, 280
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin067
+  rotate: false
+  xy: 1932, 1732
+  size: 106, 276
+  orig: 106, 276
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin052
+  rotate: false
+  xy: 1195, 1647
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin013
+  rotate: false
+  xy: 1687, 1
+  size: 244, 321
+  orig: 244, 321
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin095
+  rotate: false
+  xy: 335, 1541
+  size: 102, 260
+  orig: 102, 260
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin024
+  rotate: false
+  xy: 1842, 1220
+  size: 132, 254
+  orig: 132, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin047
+  rotate: false
+  xy: 1, 365
+  size: 296, 386
+  orig: 296, 386
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin056
+  rotate: false
+  xy: 1708, 1230
+  size: 132, 254
+  orig: 132, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin094
+  rotate: false
+  xy: 1820, 1732
+  size: 110, 280
+  orig: 110, 280
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin077
+  rotate: false
+  xy: 1902, 324
+  size: 142, 302
+  orig: 142, 302
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin065
+  rotate: false
+  xy: 551, 1286
+  size: 102, 260
+  orig: 102, 260
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin012
+  rotate: false
+  xy: 785, 719
+  size: 198, 286
+  orig: 198, 286
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin081
+  rotate: false
+  xy: 1, 1
+  size: 428, 362
+  orig: 428, 362
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin088
+  rotate: false
+  xy: 1606, 666
+  size: 150, 306
+  orig: 150, 306
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin087
+  rotate: false
+  xy: 1035, 389
+  size: 185, 324
+  orig: 185, 324
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin079
+  rotate: false
+  xy: 1035, 1005
+  size: 160, 312
+  orig: 160, 312
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin063
+  rotate: false
+  xy: 1, 1317
+  size: 116, 252
+  orig: 116, 252
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin058
+  rotate: false
+  xy: 1341, 1551
+  size: 156, 258
+  orig: 156, 258
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin060
+  rotate: false
+  xy: 1441, 1
+  size: 244, 321
+  orig: 244, 321
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin066
+  rotate: false
+  xy: 447, 1025
+  size: 102, 268
+  orig: 102, 268
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin021
+  rotate: false
+  xy: 871, 1317
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin062
+  rotate: false
+  xy: 1657, 1768
+  size: 117, 252
+  orig: 117, 252
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin032
+  rotate: false
+  xy: 655, 1014
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin031
+  rotate: false
+  xy: 1143, 1
+  size: 296, 386
+  orig: 296, 386
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin082
+  rotate: false
+  xy: 597, 688
+  size: 186, 324
+  orig: 186, 324
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin064
+  rotate: false
+  xy: 655, 1526
+  size: 102, 259
+  orig: 102, 259
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin015
+  rotate: false
+  xy: 845, 1
+  size: 296, 386
+  orig: 296, 386
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin061
+  rotate: false
+  xy: 299, 365
+  size: 296, 386
+  orig: 296, 386
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin039
+  rotate: false
+  xy: 117, 1014
+  size: 114, 254
+  orig: 114, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin080
+  rotate: false
+  xy: 431, 1
+  size: 412, 362
+  orig: 412, 362
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin007
+  rotate: false
+  xy: 1, 753
+  size: 114, 254
+  orig: 114, 254
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin070
+  rotate: false
+  xy: 447, 753
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+henshin/kabuto_henshin036
+  rotate: false
+  xy: 763, 1317
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1

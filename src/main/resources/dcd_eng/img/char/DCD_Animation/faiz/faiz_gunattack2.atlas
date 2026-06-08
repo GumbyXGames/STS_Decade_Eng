@@ -1,0 +1,55 @@
+
+faiz_gunattack2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faiz_gunattack/faiz_gunattack0000
+  rotate: false
+  xy: 309, 229
+  size: 110, 226
+  orig: 110, 226
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0003
+  rotate: false
+  xy: 1, 1
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0011
+  rotate: false
+  xy: 309, 1
+  size: 110, 226
+  orig: 110, 226
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0005
+  rotate: false
+  xy: 1, 225
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0001
+  rotate: false
+  xy: 421, 1
+  size: 110, 226
+  orig: 110, 226
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0002
+  rotate: false
+  xy: 181, 1
+  size: 126, 244
+  orig: 126, 244
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0010
+  rotate: false
+  xy: 181, 247
+  size: 126, 244
+  orig: 126, 244
+  offset: 0, 0
+  index: -1

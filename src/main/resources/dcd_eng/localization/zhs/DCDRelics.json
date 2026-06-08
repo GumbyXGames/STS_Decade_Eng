@@ -1,0 +1,30 @@
+{
+  "Decadriver": {
+    "NAME": "Decade驱动器",
+    "FLAVOR": "变身腰带。能够利用次元转换解放机将被封印在2次元（平面）内的骑士卡片的能量解放到3次元（立体）里。",
+    "DESCRIPTIONS": [
+       "每场战斗 #b1 次，右击遗物变身Decade。使用 #y形态卡片 使随机手牌耗能变为0"
+    ]
+  },
+    "MirrorWorldRelic": {
+    "NAME": "镜世界",
+    "FLAVOR": "镜世界",
+    "DESCRIPTIONS": [
+	"镜世界"
+    ]
+  },
+    "PhotonAccelerationRelic": {
+    "NAME": "超速光子",
+    "FLAVOR": "超速光子",
+    "DESCRIPTIONS": [
+	"镜世界"
+    ]
+  },
+  "TOEIDeficitBill": {
+    "NAME": "东大妈的赤字账单",
+    "FLAVOR": "资金有点紧缺啊，预算优先拨给战队系列吧...",
+    "DESCRIPTIONS": [
+      "右击本遗物关闭变身动画，攻击动画，BGM等，再次点击开启（每次使用扣除你648元）"
+    ]
+  }
+}

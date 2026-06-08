@@ -1,0 +1,146 @@
+
+kamenriderswitch.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kamenriderswitch/kamenriderswitch011
+  rotate: false
+  xy: 575, 1
+  size: 281, 279
+  orig: 281, 279
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch010
+  rotate: false
+  xy: 575, 282
+  size: 182, 251
+  orig: 182, 251
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch016
+  rotate: false
+  xy: 736, 706
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch006
+  rotate: false
+  xy: 858, 237
+  size: 113, 231
+  orig: 113, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch013
+  rotate: false
+  xy: 759, 470
+  size: 109, 234
+  orig: 109, 234
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch017
+  rotate: false
+  xy: 526, 535
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch000
+  rotate: false
+  xy: 631, 768
+  size: 103, 229
+  orig: 103, 229
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch019
+  rotate: false
+  xy: 106, 706
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch020
+  rotate: false
+  xy: 1, 706
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch012
+  rotate: false
+  xy: 1, 1
+  size: 572, 456
+  orig: 572, 456
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch004
+  rotate: false
+  xy: 870, 470
+  size: 107, 229
+  orig: 107, 229
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch024
+  rotate: false
+  xy: 870, 701
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch022
+  rotate: false
+  xy: 1, 459
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch009
+  rotate: false
+  xy: 858, 1
+  size: 133, 234
+  orig: 133, 234
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch030
+  rotate: false
+  xy: 106, 459
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch033
+  rotate: false
+  xy: 316, 459
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch028
+  rotate: false
+  xy: 526, 768
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch025
+  rotate: false
+  xy: 421, 459
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch027
+  rotate: false
+  xy: 211, 459
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1
+kamenriderswitch/kamenriderswitch032
+  rotate: false
+  xy: 631, 535
+  size: 103, 231
+  orig: 103, 231
+  offset: 0, 0
+  index: -1

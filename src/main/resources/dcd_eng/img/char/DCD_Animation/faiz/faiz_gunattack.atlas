@@ -1,0 +1,90 @@
+
+faiz_gunattack.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faiz_gunattack/faiz_gunattack0005
+  rotate: false
+  xy: 361, 1
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0008
+  rotate: false
+  xy: 361, 225
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0011
+  rotate: false
+  xy: 797, 229
+  size: 110, 226
+  orig: 110, 226
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0007
+  rotate: false
+  xy: 1, 225
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0004
+  rotate: false
+  xy: 181, 225
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0003
+  rotate: false
+  xy: 541, 1
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0002
+  rotate: false
+  xy: 669, 225
+  size: 126, 244
+  orig: 126, 244
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0006
+  rotate: false
+  xy: 1, 1
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0001
+  rotate: false
+  xy: 909, 1
+  size: 110, 226
+  orig: 110, 226
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0010
+  rotate: false
+  xy: 541, 225
+  size: 126, 244
+  orig: 126, 244
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0000
+  rotate: false
+  xy: 797, 1
+  size: 110, 226
+  orig: 110, 226
+  offset: 0, 0
+  index: -1
+faiz_gunattack/faiz_gunattack0009
+  rotate: false
+  xy: 181, 1
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1

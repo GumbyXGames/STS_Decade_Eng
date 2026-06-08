@@ -1,0 +1,90 @@
+
+dragon_finalattack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_finalattack/FAR_Dragon117
+  rotate: false
+  xy: 429, 193
+  size: 205, 242
+  orig: 205, 242
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon102
+  rotate: false
+  xy: 483, 448
+  size: 202, 237
+  orig: 202, 237
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon096
+  rotate: false
+  xy: 208, 437
+  size: 273, 177
+  orig: 273, 177
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon107
+  rotate: false
+  xy: 1, 443
+  size: 202, 238
+  orig: 202, 238
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon112
+  rotate: false
+  xy: 1, 200
+  size: 205, 241
+  orig: 205, 241
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon085
+  rotate: false
+  xy: 1, 1
+  size: 426, 197
+  orig: 426, 197
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon079
+  rotate: false
+  xy: 720, 1
+  size: 260, 202
+  orig: 260, 202
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon123
+  rotate: false
+  xy: 1, 683
+  size: 118, 229
+  orig: 118, 229
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon100
+  rotate: false
+  xy: 208, 200
+  size: 218, 213
+  orig: 218, 213
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon083
+  rotate: false
+  xy: 429, 1
+  size: 289, 190
+  orig: 289, 190
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon081
+  rotate: false
+  xy: 205, 616
+  size: 270, 174
+  orig: 270, 174
+  offset: 0, 0
+  index: -1
+dragon_finalattack/FAR_Dragon122
+  rotate: false
+  xy: 636, 205
+  size: 205, 241
+  orig: 205, 241
+  offset: 0, 0
+  index: -1

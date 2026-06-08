@@ -1,0 +1,223 @@
+
+pegasus_far-r2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pegasus_far-r_attack2/pegasus_far-r012
+  rotate: false
+  xy: 895, 741
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r030
+  rotate: false
+  xy: 895, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r023
+  rotate: false
+  xy: 1, 371
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r028
+  rotate: false
+  xy: 1491, 1481
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r008
+  rotate: false
+  xy: 597, 1481
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r019
+  rotate: false
+  xy: 597, 741
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r027
+  rotate: false
+  xy: 895, 371
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r007
+  rotate: false
+  xy: 1491, 371
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r022
+  rotate: false
+  xy: 299, 741
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r003
+  rotate: false
+  xy: 1, 1481
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r014
+  rotate: false
+  xy: 1789, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r021
+  rotate: false
+  xy: 1193, 1481
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r002
+  rotate: false
+  xy: 597, 371
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r020
+  rotate: false
+  xy: 299, 1481
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r010
+  rotate: false
+  xy: 1, 741
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r017
+  rotate: false
+  xy: 597, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r024
+  rotate: false
+  xy: 299, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r025
+  rotate: false
+  xy: 1491, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r005
+  rotate: false
+  xy: 1, 1111
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r015
+  rotate: false
+  xy: 299, 371
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r009
+  rotate: false
+  xy: 895, 1481
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r029
+  rotate: false
+  xy: 1193, 371
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r016
+  rotate: false
+  xy: 1491, 741
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r031
+  rotate: false
+  xy: 1193, 1111
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r001
+  rotate: false
+  xy: 299, 1111
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r004
+  rotate: false
+  xy: 597, 1111
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r013
+  rotate: false
+  xy: 1491, 1111
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r018
+  rotate: false
+  xy: 1193, 741
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r006
+  rotate: false
+  xy: 1193, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r011
+  rotate: false
+  xy: 1, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack2/pegasus_far-r026
+  rotate: false
+  xy: 895, 1111
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1

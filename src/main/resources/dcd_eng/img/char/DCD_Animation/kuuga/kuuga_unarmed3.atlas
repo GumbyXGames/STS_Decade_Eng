@@ -1,0 +1,55 @@
+
+kuuga_unarmed3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_unarmed3/Unarmed3085
+  rotate: false
+  xy: 1, 1
+  size: 208, 156
+  orig: 208, 156
+  offset: 0, 0
+  index: -1
+kuuga_unarmed3/Unarmed3079
+  rotate: false
+  xy: 369, 147
+  size: 124, 204
+  orig: 124, 204
+  offset: 0, 0
+  index: -1
+kuuga_unarmed3/Unarmed3090
+  rotate: false
+  xy: 211, 1
+  size: 210, 144
+  orig: 210, 144
+  offset: 0, 0
+  index: -1
+kuuga_unarmed3/Unarmed3081
+  rotate: false
+  xy: 211, 147
+  size: 156, 169
+  orig: 156, 169
+  offset: 0, 0
+  index: -1
+kuuga_unarmed3/Unarmed3094
+  rotate: false
+  xy: 147, 318
+  size: 130, 181
+  orig: 130, 181
+  offset: 0, 0
+  index: -1
+kuuga_unarmed3/Unarmed3083
+  rotate: false
+  xy: 1, 318
+  size: 144, 174
+  orig: 144, 174
+  offset: 0, 0
+  index: -1
+kuuga_unarmed3/Unarmed3092
+  rotate: false
+  xy: 1, 159
+  size: 121, 154
+  orig: 121, 154
+  offset: 0, 0
+  index: -1

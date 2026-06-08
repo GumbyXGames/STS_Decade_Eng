@@ -1,0 +1,216 @@
+
+kuuga_far_dragon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far_dragon/kuuga_far_dragon037
+  rotate: false
+  xy: 331, 1093
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon003
+  rotate: false
+  xy: 991, 1
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon009
+  rotate: false
+  xy: 1321, 365
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon072
+  rotate: false
+  xy: 1651, 729
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon019
+  rotate: false
+  xy: 1, 1093
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon001
+  rotate: false
+  xy: 331, 1457
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon054
+  rotate: false
+  xy: 661, 729
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon029
+  rotate: false
+  xy: 1, 1457
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon039
+  rotate: false
+  xy: 1, 1
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon025
+  rotate: false
+  xy: 331, 729
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon007
+  rotate: false
+  xy: 661, 1093
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon021
+  rotate: false
+  xy: 661, 1
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon017
+  rotate: false
+  xy: 1651, 1457
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon045
+  rotate: false
+  xy: 1651, 1
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon051
+  rotate: false
+  xy: 1321, 1
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon005
+  rotate: false
+  xy: 331, 1
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon015
+  rotate: false
+  xy: 1651, 365
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon013
+  rotate: false
+  xy: 661, 1457
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon033
+  rotate: false
+  xy: 1651, 1093
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon035
+  rotate: false
+  xy: 331, 365
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon057
+  rotate: false
+  xy: 991, 365
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon031
+  rotate: false
+  xy: 991, 729
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon042
+  rotate: false
+  xy: 991, 1093
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon064
+  rotate: false
+  xy: 991, 1457
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon027
+  rotate: false
+  xy: 1321, 729
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon068
+  rotate: false
+  xy: 1321, 1457
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon060
+  rotate: false
+  xy: 1, 365
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon023
+  rotate: false
+  xy: 1, 729
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon048
+  rotate: false
+  xy: 1321, 1093
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1
+kuuga_far_dragon/kuuga_far_dragon011
+  rotate: false
+  xy: 661, 365
+  size: 328, 362
+  orig: 328, 362
+  offset: 0, 0
+  index: -1

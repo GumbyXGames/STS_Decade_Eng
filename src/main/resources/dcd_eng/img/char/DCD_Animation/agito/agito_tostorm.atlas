@@ -1,0 +1,69 @@
+
+agito_tostorm.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_tostorm/agito_tostorm011
+  rotate: false
+  xy: 1029, 387
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm032
+  rotate: false
+  xy: 1543, 1
+  size: 114, 258
+  orig: 114, 258
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm012
+  rotate: false
+  xy: 1, 387
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm003
+  rotate: false
+  xy: 515, 387
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm008
+  rotate: false
+  xy: 1, 773
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm001
+  rotate: false
+  xy: 1659, 1
+  size: 114, 258
+  orig: 114, 258
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm010
+  rotate: false
+  xy: 1029, 1
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm009
+  rotate: false
+  xy: 515, 1
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+agito_tostorm/agito_tostorm002
+  rotate: false
+  xy: 1, 1
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1

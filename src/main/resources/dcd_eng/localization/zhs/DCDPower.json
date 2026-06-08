@@ -1,0 +1,611 @@
+{
+  "KamenRideDecadePower": {
+    "NAME": "假面驾驭:Decade",
+    "DESCRIPTIONS": [
+      	"RideBooker中加入拭剑及射击，每回合重置"
+    ]
+  },
+  "Rollpower": {
+    "NAME": "翻滚",
+    "DESCRIPTIONS": [
+		"获得 #b3 层或以上时触发特殊效果"
+    ]
+  },
+  "SwordFormPower": {
+    "NAME": "Ride Booker:剑模式",
+    "DESCRIPTIONS": [
+		"每使用3张拭剑，将1张幻影剑加入你的手牌。现在已使用 #b",
+		" 次"
+    ]
+  },
+  "GunFormPower": {
+    "NAME": "Ride Booker:枪模式",
+    "DESCRIPTIONS": [
+		"每使用3张射击，可以搜寻1张幻影射击到手牌。现在已使用 #b",
+		" 次"
+    ]
+  },
+  "KamenRideKuugaPower": {
+    "NAME": "假面驾驭:Kuuga",
+    "DESCRIPTIONS": [
+		"使用徒手攻击卡或专属攻击卡攻击时给予敌方1层 #r封印能量 ，不进入其他形态时，超再生不会衰减,徒手攻击卡伤害+2"
+    ]
+  },
+  "KuugaSpecialPower": {
+    "NAME": "封印能量",
+    "DESCRIPTIONS": [
+		"敌人受到的伤害增加",
+		"，最高叠加15层",
+		"，最高叠加3层"
+    ]
+  },
+  "SuperRegenPower": {
+    "NAME": "超再生",
+    "DESCRIPTIONS": [
+		"每回合结束回复 #g",
+		" 点生命",
+		"每回合开始-1层",
+		""
+    ]
+  },
+  "KuugaDragonPower": {
+    "NAME": "青龙形态",
+    "DESCRIPTIONS": [
+		"封印能量叠加上限上升为15层。每造成伤害8次，获得1层侧闪。每有1层敏捷就有2%几率闪避攻击，无法从手牌获得格挡"
+    ]
+  },
+  "KuugaTitanPower": {
+    "NAME": "泰坦形态",
+    "DESCRIPTIONS": [
+		"获得护甲值翻倍，每使用1张卡受到1真实伤害，每受到1未被格挡的伤害获得1护甲，使用的卡为攻击卡时清空护甲值。现在为止受到了 #r",
+		" 点伤害"
+    ]
+  },
+  "KuugaPegasusPower": {
+    "NAME": "天马形态",
+    "DESCRIPTIONS": [
+		"徒手攻击卡造成的伤害变为真实伤害，每使用一次攻击卡将去除所有防御型增益及清空护甲值。受到未被格挡的伤害增加50%"
+    ]
+  },
+  "PegasusDefendPower": {
+    "NAME": "超级五感",
+    "DESCRIPTIONS": [
+		"完全回避1次攻击"
+    ]
+  },
+  "RisingMightyPower": {
+    "NAME": "升华全能形态",
+    "DESCRIPTIONS": [
+		"攻击时附带的 #r封印能量 +1,拥有此状态时超再生不会衰减，不进入其他形态时，使用徒手攻击卡获得1层 #r连击 "
+    ]
+  },
+  "RisingDragonPower": {
+    "NAME": "升华青龙形态",
+    "DESCRIPTIONS": [
+		"封印能量叠加无上限。每攻击6次，获得1层侧闪。每有1层敏捷就有3%几率闪避攻击，无法从手牌获得格挡"
+    ]
+  },
+  "RisingPegasusPower": {
+    "NAME": "升华天马形态",
+    "DESCRIPTIONS": [
+		"状态持续期间徒手攻击卡造成的伤害视为真实伤害，并使受到伤害减低为0，每回合给予1张升华疾风天马到你的手牌。回合开始-1，退出该形态时退回Decade状态"
+    ]
+  },
+  "RisingTitanPower": {
+    "NAME": "升华泰坦形态",
+    "DESCRIPTIONS": [
+		"获得护甲值翻倍，每使用1张卡受到2伤害，每受到1未被格挡的伤害获得2护甲，使用的卡为攻击卡时清空护甲值。现在为止受到了 #r",
+		" 点伤害"
+    ]
+  },
+  "TimeVentPower": {
+    "NAME": "时间降临",
+    "DESCRIPTIONS": [
+		"本场战斗你已重置时间线 #r",
+		" 次"
+    ]
+  },
+  "Decade_Dash1Power": {
+    "NAME": "闪避",
+    "DESCRIPTIONS": [
+		"闪避指定敌人的攻击一次"
+    ]
+  },
+  "Decade_Dash2Power": {
+    "NAME": "极限闪避",
+    "DESCRIPTIONS": [
+		"闪避指定敌人的攻击一回合"
+    ]
+  },
+  "AutoVajinPower": {
+    "NAME": "机动天马",
+    "DESCRIPTIONS": [
+		"使用攻击卡时附带随机3次3点伤害，回合结束时给予8点格挡 ，人物受到伤害时免除该伤害并提前结束召唤"
+    ]
+  },
+  "KamenRideAgitoPower": {
+    "NAME": "假面驾驭:AgitΩ",
+    "DESCRIPTIONS": [
+		"每回合开始减少15点护甲而不是清零，打出5张技能/攻击卡时大地等级+1，从卡组中搜寻1张相关形态卡加入手牌，已打出攻击卡 #y",
+		" 张，打出技能卡 #y",
+		" 张"
+    ]
+  },
+  "AgitoLevelPower": {
+    "NAME": "大地等级",
+    "DESCRIPTIONS": [
+		"现等级 #yLv",
+		" 提升到下一等级将获得:",
+		" NL 力量+1,敏捷+1",
+		" NL 将一张颚门加入手牌",
+		" NL 右键消耗4等级，使用一张光之力"
+    ]
+  },
+  "DecadeBlockPower": {
+    "NAME": "精巧格挡",
+    "DESCRIPTIONS": [
+		"在格挡不为0并受到大于等于格挡值的伤害时，减少50%受到的伤害并减少1层 "
+    ]
+  },
+  "AgitoPowerPower": {
+    "NAME": "颚门",
+    "DESCRIPTIONS": [
+		"下一次攻击造成的伤害变为2倍"
+    ]
+  },
+  "AgitoStormPower": {
+    "NAME": "风暴形态",
+    "DESCRIPTIONS": [
+		"该状态下根据风暴等级获得特殊效果，每打出5张攻击卡使风暴等级+1，现已打出 #b",
+		" 张攻击卡"
+    ]
+  },
+  "StormLevelPower": {
+    "NAME": "风暴等级",
+    "DESCRIPTIONS": [
+		"现等级 #yLv",
+		" 提升到下一等级将获得: NL ",
+		"Lv2：敏捷+1",
+		"Lv3：将1张超越精神的风暴加入手牌",
+		"Lv4：力量+1，敏捷+2",
+		"Lv5：解锁三位一体形态，可以与火焰形态同时存在",
+		"Lv6：攻击时可叠加风暴之力",
+		"Lv7：敏捷+1",
+		"Lv8：力量+1，敏捷+2",
+		"Lv9：将1张鄂门加入手牌",
+		"Lv10：解锁燃烧形态(需遗物支持，未完成)",
+		"无法再提高等级"
+    ]
+  },
+  "StormSpecialPower": {
+    "NAME": "超越精神的风暴",
+    "DESCRIPTIONS": [
+		"下一次攻击追加 #r",
+		" 段力量层数2倍的伤害"
+    ]
+  },
+  "SpecialStormPower": {
+    "NAME": "风暴之力",
+    "DESCRIPTIONS": [
+		"卡牌造成的伤害受敏捷加成"
+    ]
+  },
+  "AgitoFlamePower": {
+    "NAME": "火焰形态",
+    "DESCRIPTIONS": [
+		"该状态下根据火焰等级获得特殊效果，每打出5张技能卡使火焰等级+1，现已打出 #r",
+		" 张技能卡"
+    ]
+  },
+  "FlameLevelPower": {
+    "NAME": "火焰等级",
+    "DESCRIPTIONS": [
+		"现等级 #yLv",
+		" 提升到下一等级将获得: NL ",
+		"Lv2：力量+1，将1张超越感觉的烈火加入手牌",
+		"Lv3：无效果",
+		"Lv4：力量+2，敏捷+1",
+		"Lv5：解锁三位一体形态，可以与暴风形态同时存在",
+		"Lv6：力量+1",
+		"Lv7：受到伤害获得烈火之力",
+		"Lv8：力量+2，敏捷+1",
+		"Lv9：将1张鄂门加入手牌",
+		"Lv10：解锁燃烧形态(需遗物支持，未完成)",
+		"无法再提高等级"
+    ]
+  },
+  "SpecialFlamePower": {
+    "NAME": "烈火之力",
+    "DESCRIPTIONS": [
+		"对敌人造成力量层数 #r",
+		" 倍的反伤"
+    ]
+  },
+  "UnarmedAttack3Power": {
+    "NAME": "击倒",
+    "DESCRIPTIONS": [
+		"无法叠加，造成伤害减少60%，回合开始消失"
+    ]
+  },
+  "XuanyunPower": {
+    "NAME": "眩晕",
+    "DESCRIPTIONS": [
+		"敌人将无法行动"
+    ]
+  },
+  "FlameSpecialPower": {
+    "NAME": "超越感觉的烈火",
+    "DESCRIPTIONS": [
+		"使下一次受到的伤害降为0并让攻击方受到敏捷3倍的反伤，使用卡牌将失去该效果"
+    ]
+  },
+  "KamenRideRyukiPower": {
+    "NAME": "假面驾驭:龙骑",
+    "DESCRIPTIONS": [
+		"RideBooker中加入降临衍生卡，每场战斗重置"
+    ]
+  },
+  "DragClawPower": {
+    "NAME": "龙烈焰",
+    "DESCRIPTIONS": [
+		"可加强龙骑相关攻击卡及最终攻击驾驭"
+    ]
+  },
+  "DragShieldPower": {
+    "NAME": "龙护盾",
+    "DESCRIPTIONS": [
+		"可加强龙军刀及重击降临。免疫6点以下攻击，超过6点减少5点，每起效1次减少1层",
+        "，无双龙给予的格挡数值翻倍",
+        "，与无双龙配合配合反击时，伤害取值提高",
+        "%"
+    ]
+  },
+  "DragrederPower": {
+    "NAME": "无双龙",
+    "DESCRIPTIONS": [
+		"每回合结束将对所有敌人造成10点伤害并获得10点格挡，攻击到的每个敌人使龙烈焰+1，拥有龙护盾时，对攻击方造成自己血量上限10%的反伤",
+		"每回合结束将对所有敌人造成20点伤害并获得10点格挡，攻击到的每个敌人使龙烈焰+2，拥有龙护盾时，对攻击方造成自己血量上限20%的反伤",
+        " NL 龙烈焱：追击伤害翻倍，通过追击获得的龙烈焰层数翻倍",
+        " NL 龙截击：使用非龙骑的攻击卡，消耗2层龙烈焰进行一次追击"
+    ]
+  },
+  "MirrorWorldPower": {
+    "NAME": "镜世界",
+    "DESCRIPTIONS": [
+		"每回合结束扣除所有人其血量上限10%的HP，龙骑相关卡牌加强，龙骑状态中每杀死1名敌人恢复自身10%HP，并让无双龙持续回合+1"
+    ]
+  },
+  "KuugaRollpower": {
+    "NAME": "封印反制",
+    "DESCRIPTIONS": [
+		"本回合每被攻击1次给予攻击方1层封印能量"
+    ]
+  },
+  "Flex1": {
+    "NAME": "临时力量",
+    "DESCRIPTIONS": [
+		"回合结束失去 #r",
+		" 点力量"
+    ]
+  },
+  "Flex2": {
+    "NAME": "临时敏捷",
+    "DESCRIPTIONS": [
+		"回合结束失去 #g",
+		" 点敏捷"
+    ]
+  },
+  "KamenRideFaizPower": {
+    "NAME": "假面驾驭:Faiz",
+    "DESCRIPTIONS": [
+		"回合结束获得 #r1 点光子血液，",
+		"点击充能按键即可激发或恢复插件"
+    ]
+  },
+  "KamenRideBladePower": {
+    "NAME": "假面驾驭:Blade",
+    "DESCRIPTIONS": [
+		"RideBooker中加入觉醒衍生卡，每场战斗重置 NL 回合结束时若没有护甲获得 #b5 点护甲"
+    ]
+  },
+  "BladeSlashPower": {
+    "NAME": "强化斩击",
+    "DESCRIPTIONS": [
+      "使武器类攻击卡伤害上升 #r",
+      " 点。",
+      " 点。并且在使用这些攻击卡时有 #r",
+      "0% 几率对相同敌人再使用一次此卡(最高50%几率)"
+    ]
+  },
+  "BladeBeatPower": {
+    "NAME": "强化拳力",
+    "DESCRIPTIONS": [
+		"使徒手类攻击卡伤害上升 #r",
+		" 点。",
+		" 点。并且在使用这些攻击卡时有 #r",
+		"0% 几率使敌人眩晕(最高50%几率)"
+    ]
+  },
+  "BladeKickPower": {
+    "NAME": "强化踢力",
+    "DESCRIPTIONS": [
+		"使特定的最终攻击驾驭伤害变为2倍，无法叠加层数。"
+    ]
+  },
+  "BladeMachPower": {
+    "NAME": "超音速移动",
+    "DESCRIPTIONS": [
+		"使用技能卡时抽1张牌，持续1回合，无法叠加层数。"
+    ]
+  },
+  "BladeThunderPower": {
+    "NAME": "雷属性加成",
+    "DESCRIPTIONS": [
+		"每层使所有攻击卡伤害上升1点，雷电伤害上升3点，使用非Blade衍生卡的其他卡牌时，该状态消失"
+    ]
+  },
+  "BladeJackPower": {
+    "NAME": "杰克形态",
+    "DESCRIPTIONS": [
+		"觉醒衍生卡每回合重置2张（优先重置花色较小的），回合结束无护甲时获得护甲值+3。"
+    ]
+  },
+  "JackFlightPower": {
+    "NAME": "飞行能力",
+    "DESCRIPTIONS": [
+		"受到的伤害降低50%。"
+    ]
+  },
+  "KamenRideHibikiPower": {
+    "NAME": "假面驾驭:响鬼",
+    "DESCRIPTIONS": [
+		"每回合恢复鼓动所需AP（行动点数）1点"
+    ]
+  },
+  "FeverPower": {
+    "NAME": "FEVER!!",
+    "DESCRIPTIONS": [
+		"鼓动时无法通过自动触发获得特殊效果及CP，鼓动的特殊效果提升，新增鼓动的特殊效果，触发失败CP减半，每使用1张非响鬼相关的攻击卡时CP-1,CP降至10以下时取消该状态"
+    ]
+  },
+  "HibikiRollPower": {
+    "NAME": "回响",
+    "DESCRIPTIONS": [
+		"本回合每被攻击1次50%几率获得1点AP",
+		"本回合每被攻击1次获得1点AP"
+    ]
+  },
+  "HibikiBurnPower": {
+    "NAME": "灼伤",
+    "DESCRIPTIONS": [
+		"伤害减少25%，回合开始减少",
+		"点生命（总生命值1/16，最少1点）",
+		"伤害减少25%，下回合减少",
+		"点生命（总生命值1/16，最少1点）"
+    ]
+  },
+  "HibikiKurenaiSpecialPower": {
+    "NAME": "真红",
+    "DESCRIPTIONS": [
+		"使攻击卡伤害+1，每使用1张攻击卡减少1层，回合开始减少1层，层数消耗完毕时取消响鬼红形态"
+    ]
+  },
+  "HibikiKurenaiPower": {
+    "NAME": "响鬼红",
+    "DESCRIPTIONS": [
+		"取消鼓动面板的使用，强化响鬼相关攻击卡，回合结束给予所有敌方真红层数一半的灼热，真红状态消耗完毕退出此形态"
+    ]
+  },
+  "KamenRideKabutoPower": {
+    "NAME": "假面驾驭：Kabuto",
+    "DESCRIPTIONS": [
+		"每使用1张卡抽2弃2，弃置的牌都为攻击卡时下一张卡造成伤害X4，都为技能卡时下一张卡获得格挡X4，否则抽1张卡"
+    ]
+  },
+  "KabutoStrengthPower": {
+    "NAME": "快子加速：力",
+    "DESCRIPTIONS": [
+		"造成伤害X4，使用1张卡后失效"
+    ]
+  },
+  "KabutoDexterityPower": {
+    "NAME": "快子加速：敏",
+    "DESCRIPTIONS": [
+		"获得格挡X4，使用1张卡后失效"
+    ]
+  },
+  "PhotonAccelerationPower": {
+    "NAME": "超速快子",
+    "DESCRIPTIONS": [
+		"每抽到1张快子时，再抽1张卡，快子被消耗时回复1点能量，累计手动弃置或消耗3张快子时，将1张ClockUp放到抽牌堆顶"
+    ]
+  },
+  "KabutoMaskedPower": {
+    "NAME": "假面形态",
+    "DESCRIPTIONS": [
+		"使Kabuto形态的特殊效果无效，免疫5点以下伤害，5点以上的伤害减少3点，累计手动弃置3张快子时将1张PutOn加入手牌，无法使用ClockUp"
+    ]
+  },
+  "Phone_Mark": {
+    "NAME": "标记",
+    "DESCRIPTIONS": [
+		"攻击该目标使光子血液+1，并移除此状态"
+    ]
+  },
+  "DragonDashPower": {
+    "NAME": "侧闪",
+    "DESCRIPTIONS": [
+      "完全回避1次攻击"
+    ]
+  },
+  "RisingMightySpecialPower": {
+    "NAME": "连击",
+    "DESCRIPTIONS": [
+      "每层有30%几率在使用攻击卡时选择卡组中的1张攻击卡在使用前降为0费加入手牌，最高3层，触发后清零。"
+    ]
+  },
+  "DecadeViolentEmotionPower": {
+    "NAME": "激情态",
+    "DESCRIPTIONS": [
+      "该状态下你能从RiderBooker中取出任意一位骑士相关的衍生卡并让其在使用前降为0费，拥有限定强化效果的卡其强化效果激活"
+    ]
+  },
+  "KamenRideDenOPower": {
+    "NAME": "假面驾驭：电王",
+    "DESCRIPTIONS": [
+      "RideBooker中加入异魔神衍生卡，每回合重置 NL 状态计数达到5时，将1张超顶级加入手牌，达到7时下一张电王相关卡可必定触发效果及特殊效果，同时清零计数",
+      " NL 手牌获得 #r保留 特性持续 #y",
+      " 回合"
+    ]
+  },
+  "DenOAwePower": {
+    "NAME": "震慑",
+    "DESCRIPTIONS": [
+      "造成伤害减少",
+      "0%，敌人回合结束层数减半,最高10层"
+    ]
+  },
+  "DrawCardUpPower": {
+    "NAME": "轨道加速",
+    "DESCRIPTIONS": [
+      "每回合开始多抽",
+      "张牌"
+    ]
+  },
+  "CardMaxSizeUpPower": {
+    "NAME": "次元车厢",
+    "DESCRIPTIONS": [
+      "手牌上增加",
+      "张，现在手牌上限为",
+      "张"
+    ]
+  },
+  "XuanyunResistancePower": {
+    "NAME": "眩晕抗性",
+    "DESCRIPTIONS": [
+      "层数达到3时，怪物将在接下来的3回合内无法被眩晕",
+      "眩晕抗性时间还剩",
+      "回合"
+    ]
+  },
+  "DenOSpecialPower": {
+    "NAME": "特异点",
+    "DESCRIPTIONS": [
+      "拥有此状态时，回合开始将清除所有非骑士状态及本状态之外的增益及负面状态，最后使用的电王相关卡将改变清除状态时的效果",
+      "获得清除的增益状态种类之和3倍的力量和敏捷",
+      "获得清除的增益及负面状态种类之和5倍的格挡",
+      "恢复清除的负面状态种类之和15倍的生命",
+      "清除的负面状态多于增益状态，眩晕所有敌人，反之每下攻击获得2点电王状态计数",
+      "马上清除所有负面状态，选择一项超顶级的效果即刻触发，回合开始仅清除负面状态,并翻倍力量及敏捷层数",
+      " #y本回合效果：  NL ",
+      " NL  #r下回合效果：  NL ",
+      "无触发效果"
+    ]
+  },
+  "DenORodSpecialPower": {
+    "NAME": "反击",
+    "DESCRIPTIONS": [
+      "持续1回合，对攻击方造成自身格挡2倍的伤害"
+    ]
+  },
+  "KamenRideKivaPower": {
+    "NAME": "假面驾驭:Kiva",
+    "DESCRIPTIONS": [
+      "Kiva相关卡牌效果变更，在费用不足时可使用魔皇力代替费用使用卡牌，徒手卡牌伤害+2，退出Kiva状态时 #r扣除 已损失魔皇力值2倍的血量"
+    ]
+  },
+  "KivaHungryPower": {
+    "NAME": "忍饥受饿",
+    "DESCRIPTIONS": [
+      "每回合开始获得1层易伤，每回合减少5点生命，造成伤害的20%治疗自己"
+    ]
+  },
+  "KivaHungry2Power": {
+    "NAME": "饥火烧肠",
+    "DESCRIPTIONS": [
+      "回合开始获得1层易伤并将抽到的所有攻击卡打出，造成伤害的30%治疗自己"
+    ]
+  },
+  "KivaHungry3Power": {
+    "NAME": "食髓知味",
+    "DESCRIPTIONS": [
+      "回合开始扣除所有敌人5点生命上限转移给自己，每当生命值上限提高时获得等量的魔皇力，造成伤害的40%治疗自己"
+    ]
+  },
+  "KivaLacerationPower": {
+    "NAME": "裂伤",
+    "DESCRIPTIONS": [
+      "回合开始对其造成",
+      "点伤害，向其攻击时，每有5层提供10%伤害吸血，最高30%。",
+      "现在对其攻击将获得",
+      "0%吸血"
+    ]
+  },
+  "KivaGaruruPower": {
+    "NAME": "加鲁鲁形态",
+    "DESCRIPTIONS": [
+      "你每次攻击将给予敌人3层裂伤",
+      "，食髓知味状态下给予敌人裂伤+2，裂伤给予的吸血效果翻倍"
+    ]
+  },
+  "KivaBasshaaPower": {
+    "NAME": "巴夏形态",
+    "DESCRIPTIONS": [
+      "回合开始给予所有敌人2层裂伤，使用技能卡时给予所有敌人1层裂伤",
+      "，食髓知味状态下每回合开始给予随机敌人5点护甲及冰结"
+    ]
+  },
+  "KivaDoggaPower": {
+    "NAME": "德加形态",
+    "DESCRIPTIONS": [
+      "受到伤害的一半将由魔皇力承受，同时给予攻击方5层裂伤",
+      "，食髓知味状态下每恢复1次生命获得3点魔皇力"
+    ]
+  },
+  "KivaFrozenPower": {
+    "NAME": "冰结",
+    "DESCRIPTIONS": [
+      "破除该敌人格挡时，给予所有敌人其裂伤层数2倍的伤害并给予3层裂伤，现可造成",
+      "点伤害，触发后消失，该敌人回合开始后消失"
+    ]
+  },
+  "RemoveFormRidePower": {
+    "NAME": "形态时限",
+    "DESCRIPTIONS": [
+      "经过",
+      "回合后将会取消当前形态"
+    ]
+  },
+  "RideBookerAttackPower": {
+    "NAME": "拭剑",
+    "DESCRIPTIONS": [
+      "你使用武器攻击卡时回复1点能量"
+    ]
+  },
+  "DecadeSpecialSkillPower": {
+    "NAME": "收集",
+    "DESCRIPTIONS": [
+      "战斗胜利获得卡牌奖励+1，不可叠加"
+    ]
+  },
+  "DecadeHungryPower": {
+    "NAME": "伤害吸取",
+    "DESCRIPTIONS": [
+      "造成伤害的20%治疗自己"
+    ]
+  },
+  "KivaFARFrozenPower": {
+    "NAME": "冰结",
+    "DESCRIPTIONS": [
+      "破除该敌人格挡时，给予所有敌人其裂伤层数2倍的伤害并给予3层裂伤，现可造成",
+      "点伤害，触发后消失，该敌人回合开始后消失"
+    ]
+  },
+  "DragrederFlightPower": {
+    "NAME": "龙之舞",
+    "DESCRIPTIONS": [
+      "召唤无双龙时对全体敌人造成20点伤害1次，获得3层龙烈焰，触发后消失"
+    ]
+  }
+
+}

@@ -1,0 +1,48 @@
+
+agito_FAR2_t.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_far2_t/2
+  rotate: false
+  xy: 1, 268
+  size: 121, 138
+  orig: 121, 138
+  offset: 0, 0
+  index: -1
+agito_far2_t/4
+  rotate: false
+  xy: 167, 267
+  size: 121, 138
+  orig: 121, 138
+  offset: 0, 0
+  index: -1
+agito_far2_t/3
+  rotate: false
+  xy: 290, 267
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+agito_far2_t/1
+  rotate: false
+  xy: 281, 1
+  size: 136, 264
+  orig: 136, 264
+  offset: 0, 0
+  index: -1
+agito_far2_t/6
+  rotate: false
+  xy: 1, 1
+  size: 278, 145
+  orig: 278, 145
+  offset: 0, 0
+  index: -1
+agito_far2_t/5
+  rotate: false
+  xy: 1, 148
+  size: 164, 118
+  orig: 164, 118
+  offset: 0, 0
+  index: -1

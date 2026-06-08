@@ -1,0 +1,118 @@
+
+titan_defend.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titan_defend/titan_defend014
+  rotate: false
+  xy: 1, 1
+  size: 329, 259
+  orig: 329, 259
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend011
+  rotate: false
+  xy: 303, 262
+  size: 290, 271
+  orig: 290, 271
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend001
+  rotate: false
+  xy: 228, 799
+  size: 106, 248
+  orig: 106, 248
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend018
+  rotate: false
+  xy: 559, 787
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend008
+  rotate: false
+  xy: 1, 538
+  size: 234, 247
+  orig: 234, 247
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend004
+  rotate: false
+  xy: 1, 1019
+  size: 105, 232
+  orig: 105, 232
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend016
+  rotate: false
+  xy: 559, 550
+  size: 182, 235
+  orig: 182, 235
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend006
+  rotate: false
+  xy: 743, 785
+  size: 194, 214
+  orig: 194, 214
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend019
+  rotate: false
+  xy: 872, 272
+  size: 122, 226
+  orig: 122, 226
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend007
+  rotate: false
+  xy: 1, 787
+  size: 225, 230
+  orig: 225, 230
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend009
+  rotate: false
+  xy: 303, 535
+  size: 254, 262
+  orig: 254, 262
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend010
+  rotate: false
+  xy: 595, 272
+  size: 275, 276
+  orig: 275, 276
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend015
+  rotate: false
+  xy: 332, 1
+  size: 326, 259
+  orig: 326, 259
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend012
+  rotate: false
+  xy: 1, 262
+  size: 300, 274
+  orig: 300, 274
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend013
+  rotate: false
+  xy: 660, 1
+  size: 311, 269
+  orig: 311, 269
+  offset: 0, 0
+  index: -1
+titan_defend/titan_defend017
+  rotate: false
+  xy: 743, 550
+  size: 179, 233
+  orig: 179, 233
+  offset: 0, 0
+  index: -1

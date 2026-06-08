@@ -1,0 +1,48 @@
+
+pegasus_far-r1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pegasus_far-r_attack1/1
+  rotate: false
+  xy: 895, 1
+  size: 89, 260
+  orig: 89, 260
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack1/6
+  rotate: false
+  xy: 597, 362
+  size: 296, 359
+  orig: 296, 359
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack1/4
+  rotate: false
+  xy: 299, 1
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack1/5
+  rotate: false
+  xy: 1, 1
+  size: 296, 378
+  orig: 296, 378
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack1/3
+  rotate: false
+  xy: 1, 381
+  size: 296, 368
+  orig: 296, 368
+  offset: 0, 0
+  index: -1
+pegasus_far-r_attack1/7
+  rotate: false
+  xy: 597, 1
+  size: 296, 359
+  orig: 296, 359
+  offset: 0, 0
+  index: -1

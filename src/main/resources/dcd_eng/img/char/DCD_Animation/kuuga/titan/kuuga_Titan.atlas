@@ -1,0 +1,76 @@
+
+kuuga_Titan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_Titan/2
+  rotate: false
+  xy: 506, 244
+  size: 114, 241
+  orig: 114, 241
+  offset: 0, 0
+  index: -1
+kuuga_Titan/7
+  rotate: false
+  xy: 262, 244
+  size: 122, 241
+  orig: 122, 241
+  offset: 0, 0
+  index: -1
+kuuga_Titan/1
+  rotate: false
+  xy: 386, 244
+  size: 118, 239
+  orig: 118, 239
+  offset: 0, 0
+  index: -1
+kuuga_Titan/6
+  rotate: false
+  xy: 136, 244
+  size: 124, 239
+  orig: 124, 239
+  offset: 0, 0
+  index: -1
+kuuga_Titan/5
+  rotate: false
+  xy: 1, 1
+  size: 138, 241
+  orig: 138, 241
+  offset: 0, 0
+  index: -1
+kuuga_Titan/10
+  rotate: false
+  xy: 1, 244
+  size: 133, 241
+  orig: 133, 241
+  offset: 0, 0
+  index: -1
+kuuga_Titan/4
+  rotate: false
+  xy: 733, 1
+  size: 106, 241
+  orig: 106, 241
+  offset: 0, 0
+  index: -1
+kuuga_Titan/9
+  rotate: false
+  xy: 733, 244
+  size: 105, 241
+  orig: 105, 241
+  offset: 0, 0
+  index: -1
+kuuga_Titan/3
+  rotate: false
+  xy: 840, 244
+  size: 104, 241
+  orig: 104, 241
+  offset: 0, 0
+  index: -1
+kuuga_Titan/8
+  rotate: false
+  xy: 622, 244
+  size: 109, 241
+  orig: 109, 241
+  offset: 0, 0
+  index: -1

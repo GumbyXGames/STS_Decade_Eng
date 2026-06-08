@@ -1,0 +1,83 @@
+
+decade_victory.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_victory/3
+  rotate: false
+  xy: 1, 757
+  size: 362, 250
+  orig: 362, 250
+  offset: 0, 0
+  index: -1
+decade_victory/2
+  rotate: false
+  xy: 365, 757
+  size: 341, 250
+  orig: 341, 250
+  offset: 0, 0
+  index: -1
+decade_victory/11
+  rotate: false
+  xy: 814, 757
+  size: 90, 236
+  orig: 90, 236
+  offset: 0, 0
+  index: -1
+decade_victory/6
+  rotate: false
+  xy: 1, 1
+  size: 1078, 250
+  orig: 1078, 250
+  offset: 0, 0
+  index: -1
+decade_victory/7
+  rotate: false
+  xy: 1081, 1
+  size: 931, 250
+  orig: 931, 250
+  offset: 0, 0
+  index: -1
+decade_victory/9
+  rotate: false
+  xy: 708, 757
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+decade_victory/10
+  rotate: false
+  xy: 906, 757
+  size: 90, 236
+  orig: 90, 236
+  offset: 0, 0
+  index: -1
+decade_victory/4
+  rotate: false
+  xy: 1, 505
+  size: 591, 250
+  orig: 591, 250
+  offset: 0, 0
+  index: -1
+decade_victory/5
+  rotate: false
+  xy: 1, 253
+  size: 1003, 250
+  orig: 1003, 250
+  offset: 0, 0
+  index: -1
+decade_victory/1
+  rotate: false
+  xy: 594, 505
+  size: 322, 250
+  orig: 322, 250
+  offset: 0, 0
+  index: -1
+decade_victory/8
+  rotate: false
+  xy: 1006, 253
+  size: 993, 250
+  orig: 993, 250
+  offset: 0, 0
+  index: -1

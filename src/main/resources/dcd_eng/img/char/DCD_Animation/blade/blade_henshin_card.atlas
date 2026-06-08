@@ -1,0 +1,55 @@
+
+blade_henshin_card.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blade_henshin_card/kamenride_bladecard0005
+  rotate: false
+  xy: 1, 1
+  size: 410, 598
+  orig: 410, 598
+  offset: 0, 0
+  index: -1
+blade_henshin_card/kamenride_bladecard0010
+  rotate: false
+  xy: 1, 601
+  size: 206, 302
+  orig: 206, 302
+  offset: 0, 0
+  index: -1
+blade_henshin_card/kamenride_bladecard0000
+  rotate: false
+  xy: 754, 1
+  size: 206, 302
+  orig: 206, 302
+  offset: 0, 0
+  index: -1
+kamenride/kamenride0
+  rotate: false
+  xy: 209, 601
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+blade_henshin_card/kamenride_bladecard0002
+  rotate: false
+  xy: 413, 497
+  size: 308, 450
+  orig: 308, 450
+  offset: 0, 0
+  index: -1
+blade_henshin_card/kamenride_bladecard0008
+  rotate: false
+  xy: 723, 497
+  size: 308, 450
+  orig: 308, 450
+  offset: 0, 0
+  index: -1
+blade_henshin_card/kamenride_bladecard0004
+  rotate: false
+  xy: 413, 1
+  size: 339, 494
+  orig: 339, 494
+  offset: 0, 0
+  index: -1

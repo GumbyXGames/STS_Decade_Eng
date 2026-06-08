@@ -1,0 +1,48 @@
+
+deno_henshin_P.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+henshin_card/kamenride0
+  rotate: false
+  xy: 1, 1
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+henshin_p/4
+  rotate: false
+  xy: 109, 1
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+henshin_p/5
+  rotate: false
+  xy: 165, 159
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+henshin_p/2
+  rotate: false
+  xy: 109, 159
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+henshin_p/1
+  rotate: false
+  xy: 109, 215
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+henshin_p/3
+  rotate: false
+  xy: 109, 80
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

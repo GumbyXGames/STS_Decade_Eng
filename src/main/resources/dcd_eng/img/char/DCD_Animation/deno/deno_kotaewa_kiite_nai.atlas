@@ -1,0 +1,34 @@
+
+deno_kotaewa_kiite_nai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kotaewa_kiite_nai/3
+  rotate: false
+  xy: 311, 257
+  size: 150, 254
+  orig: 150, 254
+  offset: 0, 0
+  index: -1
+kotaewa_kiite_nai/2
+  rotate: false
+  xy: 1, 1
+  size: 153, 256
+  orig: 153, 256
+  offset: 0, 0
+  index: -1
+kotaewa_kiite_nai/1
+  rotate: false
+  xy: 156, 1
+  size: 153, 256
+  orig: 153, 256
+  offset: 0, 0
+  index: -1
+kotaewa_kiite_nai/4
+  rotate: false
+  xy: 311, 1
+  size: 150, 254
+  orig: 150, 254
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Kuuga_FAR-R7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far/32
+  rotate: false
+  xy: 223, 245
+  size: 93, 241
+  orig: 93, 241
+  offset: 0, 0
+  index: -1
+kuuga_far/33
+  rotate: false
+  xy: 128, 245
+  size: 93, 241
+  orig: 93, 241
+  offset: 0, 0
+  index: -1
+kuuga_far/6
+  rotate: false
+  xy: 232, 1
+  size: 114, 164
+  orig: 114, 164
+  offset: 0, 0
+  index: -1
+kuuga_far/30
+  rotate: false
+  xy: 1, 1
+  size: 113, 229
+  orig: 113, 229
+  offset: 0, 0
+  index: -1
+kuuga_far/5
+  rotate: false
+  xy: 1, 232
+  size: 125, 204
+  orig: 125, 204
+  offset: 0, 0
+  index: -1
+kuuga_far/31
+  rotate: false
+  xy: 128, 1
+  size: 102, 242
+  orig: 102, 242
+  offset: 0, 0
+  index: -1

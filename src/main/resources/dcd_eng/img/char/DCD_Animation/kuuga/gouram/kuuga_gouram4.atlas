@@ -1,0 +1,27 @@
+
+kuuga_gouram4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far/18
+  rotate: false
+  xy: 173, 1
+  size: 164, 140
+  orig: 164, 140
+  offset: 0, 0
+  index: -1
+kuuga_far/17
+  rotate: false
+  xy: 339, 1
+  size: 162, 141
+  orig: 162, 141
+  offset: 0, 0
+  index: -1
+kuuga_far/16
+  rotate: false
+  xy: 1, 1
+  size: 170, 182
+  orig: 170, 182
+  offset: 0, 0
+  index: -1

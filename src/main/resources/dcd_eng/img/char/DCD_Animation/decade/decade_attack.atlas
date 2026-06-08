@@ -1,0 +1,27 @@
+
+decade_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_attack/Deacd_Attack002
+  rotate: false
+  xy: 1, 1
+  size: 206, 241
+  orig: 206, 241
+  offset: 0, 0
+  index: -1
+decade_attack/Deacd_Attack001
+  rotate: false
+  xy: 1, 244
+  size: 202, 241
+  orig: 202, 241
+  offset: 0, 0
+  index: -1
+decade_attack/Deacd_Attack000
+  rotate: false
+  xy: 205, 244
+  size: 134, 246
+  orig: 134, 246
+  offset: 0, 0
+  index: -1

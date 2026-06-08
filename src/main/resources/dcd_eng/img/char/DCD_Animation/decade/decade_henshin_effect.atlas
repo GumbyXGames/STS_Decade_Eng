@@ -1,0 +1,167 @@
+
+decade_henshin_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+henshin/decade_henshin062
+  rotate: false
+  xy: 425, 1
+  size: 422, 421
+  orig: 422, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin054
+  rotate: false
+  xy: 815, 1270
+  size: 403, 421
+  orig: 403, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin060
+  rotate: false
+  xy: 1, 847
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin048
+  rotate: false
+  xy: 1559, 847
+  size: 355, 399
+  orig: 355, 399
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin050
+  rotate: false
+  xy: 1202, 847
+  size: 355, 421
+  orig: 355, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin046
+  rotate: false
+  xy: 1220, 1559
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin045
+  rotate: false
+  xy: 1565, 1559
+  size: 323, 308
+  orig: 323, 308
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin043
+  rotate: false
+  xy: 1, 1693
+  size: 201, 285
+  orig: 201, 285
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin061
+  rotate: false
+  xy: 849, 1
+  size: 422, 421
+  orig: 422, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin057
+  rotate: false
+  xy: 410, 1270
+  size: 403, 421
+  orig: 403, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin049
+  rotate: false
+  xy: 1579, 424
+  size: 355, 399
+  orig: 355, 399
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin058
+  rotate: false
+  xy: 1, 1270
+  size: 407, 421
+  orig: 407, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin063
+  rotate: false
+  xy: 1273, 1
+  size: 422, 421
+  orig: 422, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin047
+  rotate: false
+  xy: 1559, 1248
+  size: 355, 309
+  orig: 355, 309
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin065
+  rotate: false
+  xy: 1697, 1
+  size: 326, 378
+  orig: 326, 378
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin055
+  rotate: false
+  xy: 424, 847
+  size: 403, 421
+  orig: 403, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin051
+  rotate: false
+  xy: 1222, 424
+  size: 355, 421
+  orig: 355, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin053
+  rotate: false
+  xy: 829, 424
+  size: 391, 421
+  orig: 391, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin044
+  rotate: false
+  xy: 1220, 1270
+  size: 235, 285
+  orig: 235, 285
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin064
+  rotate: false
+  xy: 1, 1
+  size: 422, 421
+  orig: 422, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin056
+  rotate: false
+  xy: 424, 424
+  size: 403, 421
+  orig: 403, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin059
+  rotate: false
+  xy: 1, 424
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+henshin/decade_henshin052
+  rotate: false
+  xy: 829, 847
+  size: 371, 421
+  orig: 371, 421
+  offset: 0, 0
+  index: -1

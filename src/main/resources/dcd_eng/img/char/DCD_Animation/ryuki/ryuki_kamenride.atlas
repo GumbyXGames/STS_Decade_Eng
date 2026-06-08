@@ -1,0 +1,55 @@
+
+ryuki_kamenride.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rieder_kamenride/rider_kamenride030
+  rotate: false
+  xy: 111, 1
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride001
+  rotate: false
+  xy: 209, 255
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride026
+  rotate: false
+  xy: 215, 1
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride011
+  rotate: false
+  xy: 1, 255
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride075
+  rotate: false
+  xy: 1, 1
+  size: 108, 252
+  orig: 108, 252
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride085
+  rotate: false
+  xy: 105, 255
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride093
+  rotate: false
+  xy: 313, 255
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Kuuga_FAR-R1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far/1
+  rotate: false
+  xy: 1, 1
+  size: 146, 214
+  orig: 146, 214
+  offset: 0, 0
+  index: -1
+kuuga_far/5
+  rotate: false
+  xy: 894, 205
+  size: 125, 204
+  orig: 125, 204
+  offset: 0, 0
+  index: -1
+kuuga_far/2
+  rotate: false
+  xy: 751, 1
+  size: 142, 202
+  orig: 142, 202
+  offset: 0, 0
+  index: -1
+kuuga_far/27
+  rotate: false
+  xy: 301, 199
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/6
+  rotate: false
+  xy: 895, 1
+  size: 114, 164
+  orig: 114, 164
+  offset: 0, 0
+  index: -1
+kuuga_far/22
+  rotate: false
+  xy: 599, 1
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/4
+  rotate: false
+  xy: 151, 199
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/29
+  rotate: false
+  xy: 149, 1
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/28
+  rotate: false
+  xy: 601, 199
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/3
+  rotate: false
+  xy: 751, 205
+  size: 141, 202
+  orig: 141, 202
+  offset: 0, 0
+  index: -1
+kuuga_far/25
+  rotate: false
+  xy: 449, 1
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/23
+  rotate: false
+  xy: 299, 1
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/24
+  rotate: false
+  xy: 1, 217
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+kuuga_far/26
+  rotate: false
+  xy: 451, 199
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1

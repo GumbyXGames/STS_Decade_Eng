@@ -1,0 +1,62 @@
+
+ryuki_henshin_effect.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_henshin_effect/ryuki_henshin_effect001
+  rotate: false
+  xy: 1, 1
+  size: 598, 671
+  orig: 598, 671
+  offset: 0, 0
+  index: -1
+ryuki_henshin_effect/ryuki_henshin_effect013
+  rotate: false
+  xy: 1, 674
+  size: 222, 280
+  orig: 222, 280
+  offset: 0, 0
+  index: -1
+ryuki_henshin_effect/ryuki_henshin_effect011
+  rotate: false
+  xy: 1089, 653
+  size: 302, 271
+  orig: 302, 271
+  offset: 0, 0
+  index: -1
+ryuki_henshin_effect/ryuki_henshin_effect009
+  rotate: false
+  xy: 1531, 558
+  size: 337, 379
+  orig: 337, 379
+  offset: 0, 0
+  index: -1
+ryuki_henshin_effect/ryuki_henshin_effect005
+  rotate: false
+  xy: 601, 1
+  size: 486, 671
+  orig: 486, 671
+  offset: 0, 0
+  index: -1
+ryuki_henshin_effect/ryuki_henshin_effect015
+  rotate: false
+  xy: 1393, 653
+  size: 102, 251
+  orig: 102, 251
+  offset: 0, 0
+  index: -1
+ryuki_henshin_effect/ryuki_henshin_effect003
+  rotate: false
+  xy: 1089, 1
+  size: 440, 650
+  orig: 440, 650
+  offset: 0, 0
+  index: -1
+ryuki_henshin_effect/ryuki_henshin_effect007
+  rotate: false
+  xy: 1531, 1
+  size: 401, 555
+  orig: 401, 555
+  offset: 0, 0
+  index: -1

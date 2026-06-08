@@ -1,0 +1,20 @@
+
+deno_ryutaros.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deno_ryutaros/1
+  rotate: false
+  xy: 1, 1
+  size: 182, 178
+  orig: 182, 178
+  offset: 0, 0
+  index: -1
+deno_ryutaros/2
+  rotate: false
+  xy: 1, 181
+  size: 182, 178
+  orig: 182, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+FAR_decade_card2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FAR_card2/8
+  rotate: false
+  xy: 221, 323
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/5
+  rotate: false
+  xy: 331, 1
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/2
+  rotate: false
+  xy: 331, 323
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/7
+  rotate: false
+  xy: 331, 645
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/9
+  rotate: false
+  xy: 111, 1
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/4
+  rotate: false
+  xy: 111, 645
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/3
+  rotate: false
+  xy: 221, 1
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/1
+  rotate: false
+  xy: 1, 645
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/12
+  rotate: false
+  xy: 111, 323
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/11
+  rotate: false
+  xy: 1, 323
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/10
+  rotate: false
+  xy: 221, 645
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1
+FAR_card2/6
+  rotate: false
+  xy: 1, 1
+  size: 108, 320
+  orig: 108, 320
+  offset: 0, 0
+  index: -1

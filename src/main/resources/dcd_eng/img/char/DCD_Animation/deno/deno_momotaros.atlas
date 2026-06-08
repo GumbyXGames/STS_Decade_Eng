@@ -1,0 +1,20 @@
+
+deno_momotaros.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deno_momotaros/1
+  rotate: false
+  xy: 120, 1
+  size: 117, 244
+  orig: 117, 244
+  offset: 0, 0
+  index: -1
+deno_momotaros/2
+  rotate: false
+  xy: 1, 1
+  size: 117, 244
+  orig: 117, 244
+  offset: 0, 0
+  index: -1

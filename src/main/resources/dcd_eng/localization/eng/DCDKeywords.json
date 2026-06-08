@@ -1,0 +1,336 @@
+﻿[
+	{
+		"PROPER_NAME": "Form Limitation",
+		"NAMES": [
+			"formlimitation",
+			"formlimitation"
+		],
+		"DESCRIPTION": "You must use it at the right Form/Status"
+	},{
+	"PROPER_NAME": "Form Card",
+	"NAMES": [
+		"formcard",
+		"formcard"
+	],
+	"DESCRIPTION": "FormCard include all KamenRide and FormRide cards that can change your Status"
+},{
+	"PROPER_NAME": "Blade Mode",
+	"NAMES": [
+		"blademode",
+		"blademode"
+	],
+	"DESCRIPTION": " Strength + #r1 ,add 3 Wipe Sword to draw pile"
+},{
+	"PROPER_NAME": "Gun Mode",
+	"NAMES": [
+		"gunmode",
+		"gunmode"
+	],
+	"DESCRIPTION": " Dexterity + #g1 ,add 3 Shot and 1 Blast to draw pile"
+},{
+	"PROPER_NAME": "Limit",
+	"NAMES": [
+		"limit",
+		"limit"
+	],
+	"DESCRIPTION": "You can play this card when the mark on it matches your current Status."
+},{
+	"PROPER_NAME": "Super Regen",
+	"NAMES": [
+		"superregen",
+		"superregen"
+	],
+	"DESCRIPTION": "At end of every round ,heal Hp"
+},{
+	"PROPER_NAME": "Seal Energy",
+	"NAMES": [
+		"sealenergy",
+		"sealenergy"
+	],
+	"DESCRIPTION": "Attacks at Kuuga Status will apply SealEnergy, every SealEnergy increases damage by 10% (Max increase 30%)"
+},{
+	"PROPER_NAME": "Form",
+	"NAMES": [
+		"form",
+		"form"
+	],
+	"DESCRIPTION": "Using it to change Form will halve the Strength and Dexterity"
+},{
+	"NAMES": [
+		"remove",
+		"remove"
+	],
+	"DESCRIPTION": "This card is removed from your deck after use."
+},{
+	"PROPER_NAME": "Auto Vajin",
+	"NAMES": [
+		"autovajin",
+		"autovajin"
+	],
+	"DESCRIPTION": "Using Attacks with 3 random damage 3 times, at end of the round gain Block, prevent next life damage and end summon instantly"
+
+},{
+	"PROPER_NAME": "Accurate Block",
+	"NAMES": [
+		"accurateblock",
+		"accurateblock"
+	],
+	"DESCRIPTION": "If you would receive damage that is greater than you Block, decrease the damage by 50% and lose 1 Accurate Block"
+},{
+	"PROPER_NAME": "Strike Down",
+	"NAMES": [
+		"strikedown",
+		"strikedown"
+	],
+	"DESCRIPTION": "Decrease damage by 60% (max 1)"
+},{
+	"PROPER_NAME": "Axel Form",
+	"NAMES": [
+		"axelform",
+		"axelform"
+	],
+	"DESCRIPTION": "At AxelForm Status, Gear effects change, using without PhotonStream(Phone is not included),after Status all Driver cold,PhotonStream to 0"
+},{
+	"PROPER_NAME": "Metallicize",
+	"NAMES": [
+		"metallicize",
+		"metallicize"
+	],
+	"DESCRIPTION": "At end of your turn, gain Block equal to your Metallicize level"
+},{
+	"PROPER_NAME": "Thunder",
+	"NAMES": [
+		"thunder",
+		"thunder"
+	],
+	"DESCRIPTION": "Every level increase damage by 1, lighting damage +3, eliminate after using non-blade card"
+},{
+	"NAMES": [
+		"slashenhance",
+		"slashenhance"
+	],
+	"DESCRIPTION": "Increase the damage of your Armed Attacks by 2"
+},{
+	"NAMES": [
+		"kickenhance",
+		"kickenhance"
+	],
+	"DESCRIPTION": "Next Final Attack deals double damage (some Final are not included)"
+},{
+	"PROPER_NAME": "Jack Form",
+	"NAMES": [
+		"jackform",
+		"jackform"
+	],
+	"DESCRIPTION": "Reset 2 Undead cards every round(small numbers first), gain more Block, receive less damage"
+},{
+	"PROPER_NAME": "Burning",
+	"NAMES": [
+		"burning",
+		"burning"
+	],
+	"DESCRIPTION": "Decrease 50% enemy damage, at start of round lose Hp, decrease level by 1 every round"
+},{
+	"NAMES": [
+		"fever",
+		"fever"
+	],
+	"DESCRIPTION": "Hibiki Kurenai(FEVER)Status,CP 10 to enter,increase drum effect,add new drum"
+
+},{
+	"PROPER_NAME": "Photon Acceleration",
+	"NAMES": [
+		"photonacceleration",
+		"photonacceleration"
+	],
+	"DESCRIPTION": "When drew Photon, draw another card. Exhaust Photon to gain 1 energy, discard or, Exhaust 5 Photon, add 1 Clock Up on the top of your draw pile "
+},{
+	"PROPER_NAME": "Masked Form",
+	"NAMES": [
+		"maskedform",
+		"maskedform"
+	],
+	"DESCRIPTION": "Eliminate Kabuto effect, enhance Attacks, receieve less damage"
+},{
+	"NAMES": [
+		"truedamage",
+		"truedamage"
+	],
+	"DESCRIPTION": "Directly deal life damage, without triggering Thorns"
+},{
+
+	"NAMES": [
+		"cp",
+		"cp"
+	],
+	"DESCRIPTION": "ComboPoint, activate drum effects to add ComboPoints. NL 10 CP triggers FEVER Status, which enhances drum effect"
+},{
+	"NAMES": [
+		"ap",
+		"ap"
+	],
+	"DESCRIPTION": "ActionPoint, you need AP to use the drum "
+},{
+	"PROPER_NAME": "Seal Counter",
+	"NAMES": [
+		"sealcounter",
+		"sealcounter"
+	],
+	"DESCRIPTION": "Every 1 receieve damage, apply 1 SealEnergy"
+},{
+	"NAMES": [
+		"stun",
+		"stun"
+	],
+	"DESCRIPTION": "Stun enemy, Max 1"
+},{
+	"NAMES": [
+		"dragclaw",
+		"dragclaw"
+	],
+	"DESCRIPTION": "Dragreder, DragClaw attacks will save special energy to, Exhaust at next Attack or FinalAttack"
+},{
+	"PROPER_NAME": "DragShield",
+	"NAMES": [
+		"dragshield",
+		"dragshield"
+	],
+	"DESCRIPTION": "If you would take damage that is 5 or lower: Prevent it. Reduce all other damage by 5. Enhance Attacks、DragClaw、Dragreder"
+},{
+	"PROPER_NAME": "Dragreder",
+	"NAMES": [
+		"dragreder",
+		"dragreder"
+	],
+	"DESCRIPTION": "At end of every round, deal damage to all enemies and gain Block, DragonFire, in occasion counter damage"
+},{
+	"PROPER_NAME": "Mirror World",
+	"NAMES": [
+		"mirrorworld",
+		"mirrorworld"
+	],
+	"DESCRIPTION": "At end of the round, all combatants lose 10% of their Maax HP. NL Enhance Ryuki card, kill 1 enemy heal 10%HP at RyukiStatus and extend Dragreder round+1"
+},{
+	"PROPER_NAME": "Roll",
+	"NAMES": [
+		"roll",
+		"roll"
+	],
+	"DESCRIPTION": "When you reach 3 Roll, choose 1 card from pile to cost 0"
+},{
+	"NAMES": [
+		"kamenride",
+		"kamenride"
+	],
+	"DESCRIPTION": "Use KamenRide or FormRide to change Status"
+},{
+	"PROPER_NAME": "Armed",
+	"NAMES": [
+		"armed",
+		"armed"
+	],
+	"DESCRIPTION": "Weapon-based attacks, affect by SlashEnhance"
+},{
+	"PROPER_NAME": "Unarmed",
+	"NAMES": [
+		"unarmed",
+		"unarmed"
+	],
+	"DESCRIPTION": "Punches/Kicks/etc., affect by PunchEnhance"
+},{
+	"PROPER_NAME": "Photon Mark",
+	"NAMES": [
+		"photonmark",
+		"photonmark"
+	],
+	"DESCRIPTION": "When attack Marked enemy,gain 1 PhotonStream"
+},{
+	"PROPER_NAME": "Echo",
+	"NAMES": [
+		"echo",
+		"echo"
+	],
+	"DESCRIPTION": "When receive damage, every 1Echo 50% to AP+1"
+},{
+	"NAMES": [
+		"decadevioletform",
+		"decadevioletform"
+	],
+	"DESCRIPTION": "Enhance RideBooker and change some card effects"
+},{
+	"NAMES": [
+		"overawe",
+		"overawe"
+	],
+	"DESCRIPTION": "Decrease attack by 10% for every level of Overawe. Overawe decreases by half at the end of each round."
+},{
+	"PROPER_NAME": "Extra Card",
+	"NAMES": [
+		"extracard",
+		"extracards"
+	],
+	"DESCRIPTION": "A card you placed in the RideBooker, this does not include cards that are automatically added to the RideBooker."
+},{
+	"NAMES": [
+		"freeze",
+		"freeze"
+	],
+	"DESCRIPTION": "Break it Block ,deal damage equal to twice its Laceration, then apply 3 Laceration"
+},{
+	"NAMES": [
+		"laceration",
+		"laceration"
+	],
+	"DESCRIPTION": "At start of round, pay Hp equal to Laceration, this attack will heal Hp"
+},{
+	"PROPER_NAME": "Emperor Power",
+	"NAMES": [
+		"emperorpower",
+		"emperorpower"
+	],
+	"DESCRIPTION": "Kiva's special power, can be used instead of Energy to play cards (4 EmperorPower=1 Energy)"
+},{
+	"PROPER_NAME": "Legendary Advent",
+	"NAMES": [
+		"legendaryadvent",
+		"legendaryadvent"
+	],
+	"DESCRIPTION": "When Dragreder is summoned, deal 20 damage to all enemies, then gain 3 Dragon Fire"
+},{
+	"PROPER_NAME": "Dragon Order",
+	"NAMES": [
+		"dragonorder",
+		"dragonorder"
+	],
+	"DESCRIPTION": "While Dragreder is in the battle, gain 1 Dragon Order attack/defence randomly"
+},{
+	"PROPER_NAME": "Dragon Will",
+	"NAMES": [
+		"dragonwill",
+		"dragonwill"
+	],
+	"DESCRIPTION": "Cooperate with Dragreder to counter, every level increases damage by 3%."
+},{
+	"PROPER_NAME": "Dragon Armor",
+	"NAMES": [
+		"dragonarmor",
+		"dragonarmor"
+	],
+	"DESCRIPTION": "Gain double Block by Dragreder."
+},{
+	"PROPER_NAME": "Original Flame",
+	"NAMES": [
+		"originalflame",
+		"originalflame"
+	],
+	"DESCRIPTION": "Double Dragreder's damage and gain double DragonFire"
+},{
+	"PROPER_NAME": "Dragon Strike",
+	"NAMES": [
+		"dragonstrike",
+		"dragonstrike"
+	],
+	"DESCRIPTION": "Exhaust 2 DragonFire to deal 10 damage when you play non-Ryuki Attacks"
+}
+
+]

@@ -1,0 +1,20 @@
+
+Kuuga_FAR5.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far/14
+  rotate: false
+  xy: 1, 1
+  size: 222, 164
+  orig: 222, 164
+  offset: 0, 0
+  index: -1
+kuuga_far/13
+  rotate: false
+  xy: 1, 167
+  size: 142, 167
+  orig: 142, 167
+  offset: 0, 0
+  index: -1

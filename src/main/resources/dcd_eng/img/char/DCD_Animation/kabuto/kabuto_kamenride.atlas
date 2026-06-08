@@ -1,0 +1,55 @@
+
+kabuto_kamenride.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rieder_kamenride/rider_kamenride075
+  rotate: false
+  xy: 313, 1
+  size: 102, 258
+  orig: 102, 258
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride030
+  rotate: false
+  xy: 615, 1
+  size: 97, 258
+  orig: 97, 258
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride026
+  rotate: false
+  xy: 417, 1
+  size: 97, 258
+  orig: 97, 258
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride011
+  rotate: false
+  xy: 209, 1
+  size: 102, 258
+  orig: 102, 258
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride085
+  rotate: false
+  xy: 516, 1
+  size: 97, 258
+  orig: 97, 258
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride001
+  rotate: false
+  xy: 1, 1
+  size: 102, 258
+  orig: 102, 258
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride093
+  rotate: false
+  xy: 105, 1
+  size: 102, 258
+  orig: 102, 258
+  offset: 0, 0
+  index: -1

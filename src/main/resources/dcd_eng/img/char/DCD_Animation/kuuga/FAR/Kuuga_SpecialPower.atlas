@@ -1,0 +1,167 @@
+
+Kuuga_SpecialPower.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_specialpower/kuuga_specialpower098
+  rotate: false
+  xy: 87, 87
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower096
+  rotate: false
+  xy: 87, 173
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower087
+  rotate: false
+  xy: 1, 173
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower101
+  rotate: false
+  xy: 173, 259
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower081
+  rotate: false
+  xy: 173, 173
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower080
+  rotate: false
+  xy: 1, 345
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower099
+  rotate: false
+  xy: 1, 259
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower082
+  rotate: false
+  xy: 259, 173
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower090
+  rotate: false
+  xy: 345, 173
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower083
+  rotate: false
+  xy: 259, 259
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower094
+  rotate: false
+  xy: 87, 1
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower079
+  rotate: false
+  xy: 259, 1
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower100
+  rotate: false
+  xy: 173, 87
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower085
+  rotate: false
+  xy: 1, 87
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower093
+  rotate: false
+  xy: 259, 87
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower084
+  rotate: false
+  xy: 259, 345
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower086
+  rotate: false
+  xy: 87, 259
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower095
+  rotate: false
+  xy: 87, 345
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower092
+  rotate: false
+  xy: 345, 87
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower089
+  rotate: false
+  xy: 173, 1
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower088
+  rotate: false
+  xy: 173, 345
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower097
+  rotate: false
+  xy: 1, 1
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+kuuga_specialpower/kuuga_specialpower091
+  rotate: false
+  xy: 345, 1
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

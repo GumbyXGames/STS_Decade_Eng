@@ -1,0 +1,41 @@
+
+decade_henshin_P.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_henshin_P/decade_henshin_P004
+  rotate: false
+  xy: 1, 1
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+decade_henshin_P/decade_henshin_P001
+  rotate: false
+  xy: 200, 1
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+decade_henshin_P/decade_henshin_P002
+  rotate: false
+  xy: 175, 67
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+decade_henshin_P/decade_henshin_P003
+  rotate: false
+  xy: 112, 1
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+FAR0/FAR_faiz0000
+  rotate: false
+  xy: 112, 67
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1

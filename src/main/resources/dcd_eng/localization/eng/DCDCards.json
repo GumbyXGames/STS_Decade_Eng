@@ -1,0 +1,1435 @@
+﻿{
+"Decade_Attack":{
+"NAME": "Punch",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy",
+"EXTENDED_DESCRIPTION":[
+"Unarmed, deal !D! damage to one enemy, apply !M! Vulnerable ",
+"Limit reinforce",
+"Enhanced effect at KamenRide:Decade",
+"Unarmed, cause !D! point truly damage to one enemy"
+]
+},
+"Decade_Defend":{
+"NAME": "Roll",
+"DESCRIPTION": "Gain !B! Block and one Roll. "
+},
+"FinalAttackRide":{
+"NAME": "Final Attack Ride",
+"DESCRIPTION": "Deal !D! damage twice(different effects will be applied according to the KamenRide), Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Deal !D! ",//0
+"Damage twice to one enemy, every played card in this battle will add,damage+1, Exhaust ",//1
+"(+",//2
+")",//3
+"Deal !D! damage 1 time for every SealEnergy, then remove all SealEnergy, Exhaust ",//4
+"Enemy SealEnergy is not high enough",//5
+"Deal !D! damage 2 times, if SealEnergy 3 or more deal damage 1.5 times,  all SealEnergy, Exhaust ",//6
+"Deal !D! damage, deal addition damage equal to damage you received,damage+1, Remove all SealEnergy, Exhaust ",//7
+"Splash Dragon",//8
+"Calamity Titan",//8
+"Mighty Form",//10
+"Blast Pegasus",//11
+"Rising Calamity Titan",//12
+"Rising Mighty Kick",//13
+"Rising Blast Pegasus",//14
+"Rising Splash Dragon",//15
+"Deal triple !D! true damage to all enemies, Exhaust ",//16
+"Deal !D! damage twice, if enemy has 3 or more SealEnergy,cause double damage, Remove all SealEnergy, Exhaust ",//17
+"Deal !D! damage(damage you received and Block will affect this card), Remove all SealEnergy, Exhaust ",//18
+"Halberd Spin",//19
+"Deal !D! damage 2 times to one enemy, plus one more time for every 3 StormPower, Exhaust all StormPower, Exhaust ",//20
+"Dimension Kick",//21
+"Rider Kick",//22
+"Saber Slash",//23
+"Deal !D! damage twice to one enemy, Exhaust ",//24
+"Trinity Kick",//25
+"Deal !D! damage twice to one enemy,enter Decade, Exhaust ",//26
+"Deal !D! true damage twice to all enemies, Exhaust ",//27
+"Dragon Rider Kick",//28
+"Deal !D! damage to one enemy,Exhaust all DragonFire each increase damage+6, Exhaust ",//29
+"Special effect",//30
+"When Dragreder is summoned: Exhaust DragonFire, if Fatal to Minion, raise your MAX HP 10",//31
+"Crimson Smash",//32
+"Deal 5 Innate damage 3 times to one enemy,and deal  !D! truly damage 5 times, Exhaust ",//33
+"AxelForm end with 5 InnateDamage and !D! truly damage 5 times to one random enemy, Exhaust ",//34
+"Axel Crimson Smash",//35
+"You must use EnhanceSlash or EnhanceKick before you use Blade FinalAttack",//36
+"Slash(blade)",//37
+"Deal !D! damage to all enemies",//38
+"Lightning Slash",//39
+"Deal !D! damage to all enemies, every Thunder increase damage +6",//40
+"Sonic Slash",//41
+"Deal !D! damage 5 times to random enemy,Exhaust all EnhanceSlash each increase damage +1",//42
+"Lightning Blast",//43
+"Deal !D! damage to one enemy, increase damage by 3 for every Thunder",//44
+"Lightning Sonic",//45
+"Deal !D! damage to one enemy, increase damage by 4 for every Thunder ",//46
+"Deal !D! damage to one enemy",//47
+"Ongeki Da Kaenrenda",//48
+"Exhaust 10 CP deal !D! damage10 to all enemies(damage based on CP divide 3),only use has fever, Exhaust ",//49
+"Your CP is not 10！",//50
+"Deal !D! damage to one enemy,has PhotonAccelerate:Power/Swift, gain 1 Photon,PhotonAccelerate:Swift gain 1 Intangible, Exhaust ",//51
+"Double Rising Calamity Titan",//52
+"Deal !D! damage 2 times to one enemy(increase damage by the amount you received),Remove all SealEnergy, Exhaust ",//53
+"Special Limit",//54
+"If chosen from RideBooker,Exhaust all usable times",//55
+"Extreme Slash:Part2!",//56
+"Exhaust all non-CardPile at hand, deal !D! to one enemy(+",//57
+")damage twice (increase damage by 1 for every Exhausted card), Exhaust ",//58
+"Darkness Moon Break",//59
+"Deal damage equal to its Block, deal !D! to all enemies(+",//60
+")damage, increase bamage by 1 for each Laceration",//61
+"Finish ",//62
+"If this is the last card in hand,d eal damage twice",//63
+"Garuru Howling Slash",//64
+"Deal !D! damage 2 times to one enemy, then deal damage equal to laceration (",//65
+")",//66
+"Basshaa Aqua Tornado",//67
+"Deal !D! damage 8 times to one enemy, apply 10 Block and Freeze ",//68
+"Dogga Thunder Slap",//69
+"Deal !D! damage to all enemies, eliminate all enemies buff and Block, and stun unblocked enemy"//70
+]
+},
+"KamenRide":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Choose one KamenRide Card and add it to your hand, Exhaust "
+},
+"KamenRideDecade":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Strength + !M!, Dexterity + !M!, enter KamenRide:KamenRide: Decade",
+"UPGRADE_DESCRIPTION": "Innate, Strength + !M!, Dexterity + !M!, enter KamenRide:Decade",
+"EXTENDED_DESCRIPTION":[
+"You're already in KamenRide: Decade"
+]
+},
+"RideBooker":{
+"NAME": "Ride Booker",
+"DESCRIPTION": "Choose BladeMode or GunMode to gain its special effect (only one mode at a time) "
+},
+"RideBooker_Attack":{
+"NAME": "Wipe Sword",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy"
+},
+"Decade_Slash":{
+"NAME": "Slash",
+"DESCRIPTION": "Armed, deal !D! damage 5 times to one enemy, Exhaust "
+},
+"RideBooker_Shoot":{
+"NAME": "Shot",
+"DESCRIPTION": "Armed, deal !D! damage to all enemies"
+},
+"Decade_Blast":{
+"NAME": "Blast",
+"DESCRIPTION": "Armed, deal !D! damage and apply 1 Weak 5 times to a random enemy "
+},
+"Decade_Invisible":{
+"NAME": "Invisible",
+"DESCRIPTION": "Gain !B! Block, Dexterity affects this card 2 times,can't play Attacks this round",
+"EXTENDED_DESCRIPTION":[
+"Gain !B! Block, Dexterity affects this card 3 times,can't play Attacks this round",
+"(+",
+")",
+"Gain !B! ",
+"Block, Dexterity affects this card 2 times, can't play Attacks this round",
+"Block, Dexterity affects this card 3 times, can't play Attacks this round"
+]
+},
+"Decade_Illusion":{
+"NAME": "Illusion",
+"DESCRIPTION": "Prevent next life damage you received., Exhaust "
+},
+"KamenRideKuuga":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Strength + !M!, SuperRegen +5(MAX 5),enter draw 1 card ",
+"UPGRADE_DESCRIPTION": "Innate, Strength + !M!, SuperRegen +5(MAX 5),enter draw 1 card ",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"This effect will change at Decade Violent Form",
+"You can only play this card while at KamenRide: Decade",
+"You're already in KamenRide: Kuuga",
+"Gain 1 Strength, 3 superregen ",
+"Innate, gain 1 Strength, 3 SuperRegen "
+]
+},
+"FormRideDragon":{
+"NAME": "Dragon Form",
+"DESCRIPTION": "Form. Limit. enter DragonForm, Dexterity + !M! ",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Kuuga ",
+"Form, Limit. enter RisingDragonForm, Dexterity + !M! ",
+"Gain 2 Side, Exhaust "
+]
+},
+"FormRideTitan":{
+"NAME": "Titan Form",
+"DESCRIPTION": "Form. Limit. enter TitanForm, Dexterity + !M!, gain Barricade ",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Kuuga",
+"Form, Limit. enter RisingTitanForm, Dexterity + !M!, gain Barricade ",
+"Gain Barricade, Exhaust "
+]
+},
+"FormRidePegasus":{
+"NAME": "Pegasus Form",
+"DESCRIPTION": "Form. Limit. enter PegasusForm, Shuffle SuperSense into your draw pile and your hand",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Kuuga",
+"Form, Limit. enter Rising PegasusForm 3 rounds,S huffle SuperSense into your draw pile and your hand",
+"Add SuperSense in to your hand,gain 2 Roll"
+]
+},
+"PegasusDefend":{
+"NAME": "Super Sense",
+"DESCRIPTION": "Completely avoid next damage once., Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while in Pegasus Form"
+]
+},
+"Kuuga_Rising":{
+"NAME": "Rising",
+"DESCRIPTION": "Limit. enhanced current KamenRideKuuga:Kuuga, Exhaust ",
+"UPGRADE_DESCRIPTION": "Limit. enhanced current KamenRideKuuga:Kuuga ",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Kuuga",
+"Strength +2, SuperRegen +3, Exhaust ",
+"Strength +2, SuperRegen +3"
+]
+},
+"PegasusAttack":{
+"NAME": "Rising Blast Pegasus",
+"DESCRIPTION": "Deal !D! damage 3 times to all enemies., Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card in Rising Pegasus Form"
+]
+},
+"TimeVent":{
+"NAME": "Time Vent",
+"DESCRIPTION": "Every time you restart, gain Strength +2, Dexterity +2, remove ",
+"UPGRADE_DESCRIPTION": "Every time you restart,gain Strength +2, Dexterity +2, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"This battle already used TimeVent"
+]
+},
+"NMDAZYYGL":{
+"NAME": "You are my master!",
+"DESCRIPTION": "Make a Minion target to defeat, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can't use it to a BOSS",
+"It's so cute that you must kill them brutally"
+
+]
+},
+"Decade_Dash1":{
+"NAME": "Dodge",
+"DESCRIPTION": "If one's intend is attack,lost 3 Dexterity prevent next damage",
+"EXTENDED_DESCRIPTION":[
+"His intend is not attack",
+"You can only dodge from one enemy",
+"Usage limitation"
+]
+},
+"Decade_Dash2":{
+"NAME": "Completely Dodge",
+"DESCRIPTION": "If the target's intent is to attack, you lose 3 Dexterity and gain 1 weak, then prevent damage until next turn",
+"EXTENDED_DESCRIPTION":[
+"His intends is not attack",
+"You can only dodge from one enemy",
+"Using limitation"
+]
+},
+"AutoVajin":{
+"NAME": "Auto Vajin",
+"DESCRIPTION": "Summon AutoVajin 3 rounds,if SB-555H is not in Cool gain additional 2 Dexterity ",
+"EXTENDED_DESCRIPTION":[
+"You already have AutoVajin"
+]
+},
+"Decade_Defend2":{
+"NAME": "Defend",
+"DESCRIPTION": "Gain !B! Block, for each ArmedCard in your hand, Block +3,gain 1 AccurateBlock "
+},
+"Decade_Defend3":{
+"NAME": "Armed Response",
+"DESCRIPTION": "Gain !B! Block, gain 1 AccurateBlock, NL Discard 1 card,if it is ArmedCard ,Add a copy of the ArmedCard into your draw pile."
+},
+"KamenRideAgito":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Enter KamenRide: Agito ",
+"UPGRADE_DESCRIPTION": "Innate, enter KamenRide: Agito ",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"Change effect when use it at Decade Violent Form",
+"You can only play this card while at KamenRide: Decade",
+"You're already in KamenRide: Agito",
+"Strength +1, Dexterity +1",
+"Innate, Strength +1, Dexterity +1"
+]
+},
+"AgitoPower":{
+"NAME": "Agito",
+"DESCRIPTION": "Next Attack will double its damage, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at KamenRide: Agito"
+]
+},
+"FormRideStorm":{
+"NAME": "Storm Form",
+"DESCRIPTION": "Form. Limit. enter StormForm. This card can be upgrade multiple times(Max Lv10). You can't gain this card effect more than once per turn.",
+"EXTENDED_DESCRIPTION":[
+"Storm Level",
+"Lv1:Dexterity+1",
+"NL Lv2:Dexterity+1",
+"NL Lv3:add 1 StormThatBeyondSpirit to hand ",
+"NL Lv4:Strength+1,Dexterity+2",
+"NL Lv5:unlock Trinity Form,coexist with Flame Form, gain Dexterity+1",
+"NL Lv6:attack will increase Storm Power",
+"NL Lv7:Dexterity+1",
+"NL Lv8:Strength+1,Dexterity+2",
+"NL Lv9:add 1 Agito to hand",
+"NL Lv10:unlock Burning Form(incomplete)",
+"You can only play this card while at KamenRide: Agito",
+"Gain !MDexterity, Exhaust "
+]
+},
+"StormSpecialCard":{
+"NAME": "Storm That Beyond Spirit",
+"DESCRIPTION": "Next attack will deal additional damage that Strength affect 2 times, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while in Storm Form"
+]
+},
+"FormRideFlame":{
+"NAME": "Flame Form",
+"DESCRIPTION": "Form. Limit. enter FlameForm, This card can be upgrade multiple times (Max Lv10). You can't gain this card effect more than once per turn.",
+"EXTENDED_DESCRIPTION":[
+"Flame Level",
+"Lv1:Strength+1",
+"NL Lv2:Strength+1,add 1 FlameThatBeyondSense to hand ",
+"NL Lv3:no",
+"NL Lv4:Strength+2,Dexterity+1",
+"NL Lv5:unlock Trinity Form, coexist with Storm Form gain Strength+1",
+"NL Lv6:Strength+1",
+"NL Lv7:damage you received will increase FlamePower",
+"NL Lv8:Strength+2,Dexterity+1",
+"NL Lv9:add 1 Agito to hand",
+"NL Lv10:unlock Burning Form(incomplete)",
+"You can only play this card while at KamenRide: Agito",
+"Gain !MStrength, Exhaust "
+]
+},
+"FlameSpecialCard":{
+"NAME": "Flame That Beyond Sense",
+"DESCRIPTION": "Next attack damage will be replaced by damage that Dexterity affect 3 times, use other card will cancel effect, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while in Flame Form"
+]
+},
+"UnarmedAttack1":{
+"NAME": "Upper cut",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy,Strength affect this card !M! times"
+},
+"UnarmedAttack3":{
+"NAME": "Whip leg",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy,apply 1 StrikeDown ",
+"UPGRADE_DESCRIPTION": "Unarmed, deal !D! damage to all enemies, apply 1 StrikeDown "
+},
+"UnarmedAttack4":{
+"NAME": "Straight punch",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy, has a 5% chance to stun the enemy for every 1 Strength(Max 50%)every 1 Strength",
+"UPGRADE_DESCRIPTION": "Unarmed, deal !D! damage to one enemy, has a 5% chance to stun the enemy for every 1 Strength(Max 80%)"
+},
+"UnarmedAttack6":{
+"NAME": "Roundhouse kick",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy, has a 5% chance to be played again for every 1 Dexterity(Max 80%)",
+"UPGRADE_DESCRIPTION": "Unarmed, deal !D! damage to one enemy, has a 10% chance to be played again for every 1 Dexterity(Max 80%)"
+},
+"UnarmedAttack5":{
+"NAME": "Side kick",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy,every 1  Dexterity + !M! damage"
+},
+"UnarmedAttack7":{
+"NAME": "Elbow",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy, if they are Blocking, deal damage 1.5 times",
+"UPGRADE_DESCRIPTION": "Unarmed, deal !D! damage to one enemy, if they are Blocking, deal damage 2 times"
+},
+"UnarmedAttack8":{
+"NAME": "Knee attack",
+"DESCRIPTION": "Unarmed, deal !D! damage to one enemy, increase damage 1.5 times for every 1 debuff",
+"UPGRADE_DESCRIPTION": "Unarmed, deal !D! damage to one enemy, increase damage 1.5 times for every 1 debuff"
+},
+"UnarmedAttack9":{
+"NAME": "Unstoppable!",
+"DESCRIPTION": "Unarmed, every 1 Strength, increase MaxHp 2%  damage to one enemy, Exhaust ",
+"UPGRADE_DESCRIPTION": "Unarmed, every 1 Strength or 1 Dexterity, increase MaxHp 2%  damage to one enemy, Exhaust "
+},
+"PrometheusPower":{
+"NAME": "Prometheus Power",
+"DESCRIPTION": "Upgrade all cards at hand,Agito Level+1,card pile Flame/StormForm grade+1"
+},
+"Decade_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideDecade",
+"KamenRider Decade,Inherited the power of KamenRiders in parallel worlds,henshin to every KamenRider ."
+]
+},
+"Kuuga_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideKuuga",
+"KamenRider Kuuga,It is equipped with the transformation belt of nimbus yamadam, which can make the user wish to have the materialized spirit stone. The invincible warrior transformed after yakuru."
+]
+},
+"Agito_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideAgito",
+"KamenRider Agito,Inheriting the power of ancient light -- the warrior of promes Strength, with infinite possibility of evolution."
+]
+},
+"Dragon_s":{
+"EXTENDED_DESCRIPTION":[
+"Dragon Form(Kuuga)",
+"跳跃能力与灵活性方面极高,擅长流水般流畅的战法.因此削弱了攻击力和防御力."
+]
+},
+"Pegasus_s":{
+"EXTENDED_DESCRIPTION":[
+"Pegasus Form(Kuuga)",
+"全身神经到达极限的紧张,Enhance了六感的特殊Form,能使攻击百发百中.因此受到攻击也会感受到剧烈的疼痛."
+]
+},
+"Titan_s":{
+"EXTENDED_DESCRIPTION":[
+"Titan Form(Kuuga)",
+"Enhance了全身的肌肉和装甲的特殊Form,Strength与攻击力、防御力都非常优秀.但由于沉重的生物铠甲,所以主要使用不回避对方攻击正面硬怼的战术."
+]
+},
+"Flame_s":{
+"EXTENDED_DESCRIPTION":[
+"Flame Form(Agito)",
+"超越感知的 #r红 ——火焰Form.寄宿着炎之力,Agito的刚力Form.这个Form的Strength比较强,视力和听力等感觉都很敏锐."
+]
+},
+"Storm_s":{
+"EXTENDED_DESCRIPTION":[
+"Storm Form(Agito)",
+"超越精神的 #b蓝 ——风暴Form.寄宿着风之力,Agito的DexterityForm.风暴Form虽然速度比较快,但Strength就比其他两种Form稍低些."
+]
+},
+"Axel_s":{
+"EXTENDED_DESCRIPTION":[
+"Axel Form(Faiz)",
+"Extra SB-555W(FaizAxel)能瞬间提升变身者的速度和Strength,开启加速Form.只要在10秒钟之内就可以平时1000倍的速度完成想要做的事."
+]
+},
+"Jack_s":{
+"EXTENDED_DESCRIPTION":[
+"Jack Form(Blade)",
+"在通常Form的基础上,将♠Q“Absorb Capricorn”觉醒卡片装填于“觉醒融合器”中,再刷下♠J“Fusion Eagle”觉醒卡片后所获得的高机动性的EnhanceForm."
+]
+},
+"Garuru_s":{
+"EXTENDED_DESCRIPTION":[
+"Garuru Form(Kiva)",
+"KivaForm时Kivat蝙蝠Ⅲ世吹起“加鲁鲁笛哨”后穿戴“Kiva之铠”的魔兽派生Form.以“加鲁鲁军刀”为Armed"
+]
+},
+"Basshaa_s":{
+"EXTENDED_DESCRIPTION":[
+"Basshaa Form(Kiva)",
+"KivaForm时Kivat蝙蝠Ⅲ世吹起“巴夏笛哨”后穿戴“Kiva之铠”的半鱼人派生Form.以“巴夏麦林枪”为Armed."
+]
+},
+"Dogga_s":{
+"EXTENDED_DESCRIPTION":[
+"Dogga Form(Kiva)",
+"KivaForm时Kivat蝙蝠Ⅲ世吹起“德伽笛哨”后穿戴“Kiva之铠”的刚腕战士派生Form.以“德伽重锤”为Armed."
+]
+},
+"FormRide":{
+"NAME": "Form Ride",
+"DESCRIPTION": "Change your Form according to your current KamenRide, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at a KamenRide Status",
+"Choose 1 FormCard,cost 0, Exhaust ",
+"Choose Dragon/Pegasus/TitanForm, Exhaust ",
+"Choose Flame/StormForm, Exhaust ",
+"No Form to change",
+"You can't use it at KamenRide: Ryuki",
+"Choose Rising Dragon/Pegasus/TitanForm, Exhaust ",
+"10 PhotonStream  enter to AxelForm 10 seconds, Exhaust ",
+"Already at Form",
+"Enter JackForm, Exhaust ",
+"Already JackForm",//10
+"Limit. enter Cast On Form, add 1 Cast Off to hand, Exhaust ",//11
+"Limit. eliminate MaskedForm, discard all card,according to cards type cast, Exhaust ",//12
+"Special effect",//13
+"Attacks: draw cards equal to discard NL skills:deal double damage equal to discard NL Ability: add 1 PutOn to hand NL Status: gain Strength equal to discaed NL Cursed:, Exhaust it, receive damage equal to discard 3 times, add 3 Photon to card pile",//14
+"Choose Garuru/Basshaa/DoggaForm, Exhaust "//15
+]
+},
+"KamenRideRyuki":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Strength + !M!, enter KamenRide: Ryuki ",
+"UPGRADE_DESCRIPTION": "Innate, Strength + !M!, enter KamenRide: Ryuki ",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"Using this card at Decade Violent Form will change its effect",
+"You can only play this card while at KamenRide: Decade",
+"You're already in KamenRide: Ryuki",
+"Dragreder summoned,extend it 2 rounds,or summon it 2 rounda, add 1 Replica to draw pile",
+"Innate, Dragreder summoned,extend it 2 rounds,or summon it 2 rounda, add 1 Replica to draw pile"
+]
+},
+"Ryuki_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideRyuki",
+"KamenRider Ryuki,以东方龙与西方铠甲为主题,是为了阻止骑士战争而战斗的KamenRider .“不战斗的话就无法生存下去”"
+]
+},
+"Faiz_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideFaiz",
+"KamenRider Faiz,是由SMART BRAIN公司秘密研制三条腰带中最后一条腰带,是三条腰带中最稳定的一条,且配属了许多Driver使用."
+]
+},
+"Blade_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideBlade",
+"KamenRider Blade,以使用封印了的Undead的Strength进行战斗.需要通过各种花色的类别A卡进行变身(融合),Blade是由♠A“Change Beetle”觉醒卡片变身的."
+]
+},
+"Hibiki_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideHibiki",
+"KamenRider Hibiki,由受过严格锻炼之后得到获得“鬼”之能力的人所“变震”而成.强壮的肉体和头上长角的外表,真正给人这就是“鬼”的感觉,跟一般所谓的“KamenRider ”形象远远有别."
+]
+},
+"Kabuto_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideKabuto",
+"KamenRider Kabuto,拥有Clock Up的特殊能力与Worm作战.被称为“太阳神”,是以独角仙为原型设计的KamenRider "
+]
+},
+"DenO_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRide Den-O",
+"KamenRider  Den-O,使用“电王腰带”变身.可通过被伙伴异魔神附身变换不同Form展开不同风格的战斗方式,并可乘坐时之列车“DenLiner”穿越时空."
+]
+},
+"Kiva_s":{
+"EXTENDED_DESCRIPTION":[
+"KamenRideKiva",
+"KamenRider Kiva,通过Kivat-batⅢ世咬在变身者的手腕上注入名为魔皇力的Strength进行变身.另外, 脸部造型取自“蝙蝠”和“万圣节的南瓜灯"
+]
+},
+"DragClaw":{
+"NAME": "Strike Vent",
+"DESCRIPTION": "Deal !D! damage to one enemy and Sputtering others",
+"EXTENDED_DESCRIPTION":[
+", Exhaust ",
+"Deal !D! damage to one enemy,Sputtering",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire ",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire, Exhaust 2 Fire Wall, gain Block equal to damage",
+"Half damage to others, attacked every 1 enemy, additional gain 2 DragonFire ",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire, Exhaust 2 Fire Wall, gain Block equal to damage",
+"Limit Enhance",
+"Basic damage +3 at KamenRide: Ryuki",
+"EnhanceFatal",//8
+"Fatal damage at Ryuki Form will increase Level+1,damage+1,all DragClaw share this effect",//9
+"NL  OriginalFlame ",//10
+", DragonStrike "//11
+]
+},
+"DragClaw_s":{
+"NAME": "Strike Vent",
+"DESCRIPTION": "Deal !D! damage to one enemy and Sputtering others, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+", Exhaust ",
+"Deal !D! damage to one enemy,Sputtering",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire ",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire, Exhaust 2 Fire Wall gain  Block  equal to damage",
+"Half damage to others, attacked every 1 enemy, additional gain 2 DragonFire ",
+"Half damage to others, attacked every 1 enemy, additional gain 2 DragonFire, Exhaust 2 Fire Wall gain  Block  equal to damage",
+"Limit Enhance",
+"Basic damage +3 at KamenRide: Ryuki",
+"EnhanceFatal",//8
+"Fatal damage at Ryuki Form will increase Level+1,damage+1,all DragClaw share this effect",//9
+", OriginalFlame ",//10
+", DragonStrike "//11
+]
+},
+"DragShield":{
+"NAME": "Guard Vent",
+"DESCRIPTION": "Apply !M! DragShield ",
+"EXTENDED_DESCRIPTION":[
+", Exhaust ",
+"Limit Enhance",
+"Fire Wall+1 at KamenRide: Ryuki",
+"EnhanceFatal",//3
+"Fatal damage by DragShield or Dragreder at Ryuki Form will increase Level+1,all DragShield share this effect",//4
+", DragonWill ",
+", DragonArmor "
+]
+},
+"DragShield_s":{
+"NAME": "Guard Vent",
+"DESCRIPTION": "Apply !M! DragShield, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+", Exhaust ",
+"Limit Enhance",
+"Fire Wall+1 at KamenRide: Ryuki",
+"EnhanceFatal",//3
+"Fatal damage by DragShield or Dragreder at Ryuki Form will increase Level+1,all DragShield share this effect",//4
+", DragonWill ",
+", DragonArmor "
+]
+},
+"Dragreder":{
+"NAME": "Advent",
+"DESCRIPTION": "Summon Dragreder for !M! rounds NL, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Already summoned Dragreder",
+"Limit Enhance",
+"Round+1 at KamenRide: Ryuki"
+]
+},
+"MirrorWorld":{
+"NAME": "Mirror World",
+"DESCRIPTION": "Apply mirrorworld, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Already has Mirror World"
+]
+},
+"KamenRideFaiz":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Enter KamenRide: Faiz, gain Driver",
+"UPGRADE_DESCRIPTION": "Innate, enter KamenRide: Faiz, gain Driver",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"Using this card at Decade Violent Form will change its effect",
+"You need to use this at KamenRide: Decade",
+"You're already at KamenRide: Faiz",
+"Add Crimson Smash、Punching Unit、Sparkle Cut to the draw pile",
+"Innate, add Crimson Smash、Punching Unit、 Sparkle Cut to the draw pile"
+]
+},
+"FaizPhone_s":{
+"EXTENDED_DESCRIPTION":[
+"SB-555P Faiz Phone",
+"Faiz的翻盖手机,键入『555』并按动『Enter』键后插在腰带上即可变身,平时可作为普通手机使用."
+]
+},
+"FaizPointer_s":{
+"EXTENDED_DESCRIPTION":[
+"SB-555L Faiz Pointer",
+"Faiz的手电筒型腿部锁定器,插入能量晶片后启动,安装在右脚上,便可准备发动必杀技.平时便是性能超高的手电筒."
+]
+},
+"FaizShot_s":{
+"EXTENDED_DESCRIPTION":[
+"SB-555C Faiz Shot",
+"Faiz的数码相机型拳套,插入能量晶片后启动,用于发动必杀技.平时便是像素最高达到120万画素的数码相机."
+]
+},
+"FaizEdge_s":{
+"EXTENDED_DESCRIPTION":[
+"SB-555H Faiz Edge",
+"Faiz的能量剑,平时伪装成“SB-555V AutoVajin”的车把手,插入能量晶片后启动."
+]
+},
+"CrimsonSmash":{
+"NAME": "Crimson Smash",
+"DESCRIPTION": "Deal 15 InnateDamage and  !D! true damage 5 times to one enemy, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at KamenRide: Faiz",
+"Deal !D! true damage to one enemy 5 times, Exhaust "
+]
+},
+"PunchingUnit":{
+"NAME": "Punching Unit",
+"DESCRIPTION": "Deal 17 InnateDamage and  !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times), Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"This card can only be used while in KamenRide: KamenRide: Faiz",
+"Deal !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times), Exhaust "
+]
+},
+"SparkleCut":{
+"NAME": "Sparkle Cut",
+"DESCRIPTION": "Deal 18 InnateDamage and  !D! damage stun enemy, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at KamenRide: Faiz",
+"Deal !D! damage to one enemy and stun them, Exhaust "
+]
+},
+"FormRideAxel":{
+"NAME": "Axel Form",
+"DESCRIPTION": "Limit. 10 PhotonStream to limit enter AxelForm 10 second, apply 3 Vulnerable, Whenever you play a Driver, draw 1 cards, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at KamenRide: Faiz",
+"Already at Axel Form",
+"Draw 5 cards, gain 5 energy, Exhaust (played only once in a round)",
+"Played only once in a round",
+"Not enough PhotonStream"
+]
+},
+"KamenRideBlade":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Strength + !M!, Dexterity + !M!, enter KamenRide: Blade ",
+"UPGRADE_DESCRIPTION": "Innate, Strength + !M!, Dexterity + !M!, enter KamenRide: Blade ",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"Using this card at Decade Violent Form will change its effect",
+"You may only use this card at KamenRide: Decade",
+"You're already in KamenRide: Blade",
+"RideBooker MaxUsage +1(Max 3)",
+"Innate RideBooker MaxUsage +1(Max 3)",
+"RideBooker usage is Max,can't use it"
+]
+},
+"BladeSlash_s":{
+"EXTENDED_DESCRIPTION":[
+"Slash Lizard",
+"♠2 Lizard Undead, Enhances Armed damage."
+]
+},
+"BladeBeat_s":{
+"EXTENDED_DESCRIPTION":[
+"Beat Lion",
+"♠3 Lion Undead, Enhances Unarmed damage."
+]
+},
+"BladeKick_s":{
+"EXTENDED_DESCRIPTION":[
+"Kick Locust",
+"♠5 Locust Undead, Enhances RiderKick damage."
+]
+},
+"BladeThunder_s":{
+"EXTENDED_DESCRIPTION":[
+"Thunder Deer",
+"♠6 Deer Undead, Applies Thunder power."
+]
+},
+"BladeMetal_s":{
+"EXTENDED_DESCRIPTION":[
+"Metal Trilobite",
+"♠7 Trilobite Undead, Applies Metallicize."
+]
+},
+"BladeMach_s":{
+"EXTENDED_DESCRIPTION":[
+"Mach Jaguar",
+"♠9 Jaguar Undead, Applies Dexterity."
+]
+},
+"Blade_Slash":{
+"NAME": "Enhance Slash",
+"DESCRIPTION": "Armed card damage+2, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: Armed cards have a probability chance to be played twice (only 1 EnhanceStatus at a time)"
+]
+},
+"Blade_Beat":{
+"NAME": "Enhance Punch",
+"DESCRIPTION": "Unarmed cards damage+2, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: Unarmed cards have a probability chance of stunning the enemy (only 1 EnhanceStatus at a time)"
+]
+},
+"Blade_Kick":{
+"NAME": "Enhance Kick ",
+"DESCRIPTION": "Next Final Attack deals double damage (some Final Attacks are not included), Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: if no Final Attack is in your hand, add 1 to your hand (only 1 EnhanceStatus at a time)"
+]
+},
+"Blade_Mach":{
+"NAME": "Mach Speed",
+"DESCRIPTION": "Dexterity +2, draw 1 card, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: When you play this card, for the rest of the turn  draw 1 card when you play a Skill"
+]
+},
+"Blade_Metal":{
+"NAME": "Metallicize",
+"DESCRIPTION": "At the end of your turn, gain !M! Block metallicize, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: Gain 1 Strength and 1 Dexterity "
+]
+},
+"Blade_Slash_s":{
+"NAME": "Enhance Slash",
+"DESCRIPTION": "Armed card damage+2,if 2 or more will add non-derivative same-named card to hand, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: Armed cards have a probability chance to be played twice (only 1 EnhanceStatus at a time)"
+]
+},
+"Blade_Beat_s":{
+"NAME": "Enhance Punch",
+"DESCRIPTION": "Unarmed cards damage+2,if 2 or more will add non-derivative same-named card to hand, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: Unarmed cards have a probability chance of stunning the enemy (only 1 EnhanceStatus at a time))"
+]
+},
+"Blade_Kick_s":{
+"NAME": "KickEnhance",
+"DESCRIPTION": "Next Final Attack deal double damage (some Final are not included), Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: if no Final Attackis in your hand,add 1 to hand(only 1 EnhanceStatus at a time)"
+]
+},
+"Blade_Mach_s":{
+"NAME": "Mach",
+"DESCRIPTION": "Dexterity +2,draw 1 card,if 16 Dexterity or more will add non-derivative same-named card to hand, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: When you play this card, for the rest of the turn  draw 1 card when you play a Skill"
+]
+},
+"Blade_Metal_s":{
+"NAME": "Metal",
+"DESCRIPTION": "Apply 5 metallicize, if 35 metallicize or more will add non-derivative same-named card to hand, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Blade: Gain 1 Strength and Dexterity"
+]
+},
+"Blade_Thunder":{
+"NAME": "Thunder",
+"DESCRIPTION": "Deal !D! damage to one enemy,apply 1 Thunder, Max 6, Exhaust "
+},
+"FormRideJack":{
+"NAME": "JackForm",
+"DESCRIPTION": "Form. Limit. enter JackForm ",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Blade",
+"RideBooker usage recover, Exhaust (only once in a round)",
+"RideBooker usage already recovered",
+"You may only use this card once per round!"
+]
+},
+"KamenRideHibiki":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Strength + !M!, enter KamenRide: Hibiki ",
+"UPGRADE_DESCRIPTION": "Innate, Strength + !M!, enter KamenRide: Hibiki ",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"Using this card at Decade Violent Form will change its effect",
+"You may only use this card at KamenRide: Decade",
+"You're already in KamenRide: Hibiki",
+"Apply 5 RagingFlames ",
+"Innate, apply 5 RagingFlames "
+]
+},
+"Hibiki_Attack1":{
+"NAME": "Kigen Jutsu Onibi(fire)",
+"DESCRIPTION": "Deal !D! damage to all enemies, apply !MBurning ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at Hibiki Kurenai Status: every RagingFlames increase 1% to double Burning",
+"Deal !D! damage to all enemies, apply !MBurning, every Strength increase 5% to double Burning "
+]
+},
+"Hibiki_Attack2":{
+"NAME": "Kibou Jutsu Rekkadan(Flame Shot) ",
+"DESCRIPTION": "Deal !D! damage to one enemy half damage to othera, apply !MBurning ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at Hibiki Kurenai Status: deal damage to all enemies,50% add 1 Kibou Jutsu Rekkaken(flame blade) to hand(if already in pile, cost 0)",
+"Deal !D! damage to all enemiea, apply !MBurning, add 1 Kibou Jutsu Rekkaken(flame blade) to hand(if already in pile, cost 0)"//2
+]
+},
+"Hibiki_Attack3":{
+"NAME": "Kibou Jutsu Rekkaken(flame blade)",
+"DESCRIPTION": "Deal !D! damage to one enemy, remove all Burning to deal damage equal to twice the amount removed",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at Hibiki Kurenai Status: every 10 Burning increases damage times+1"
+]
+},
+"Hibiki_FEVER":{
+"NAME": "FEVER",
+"DESCRIPTION": "Limit. not at Hibiki KurenaiForm CP +10,already Hibiki KurenaiForm RagingFlames +10, Exhaust ",
+"UPGRADE_DESCRIPTION": "Limit. not at Hibiki KurenaiForm CP +10,already Hibiki KurenaiForm RagingFlames +10",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at KamenRide: Hibiki",
+"Apply 10 RagingFlames, Exhaust ",
+"Apply 10 RagingFlames "
+]
+},
+"KamenRideKabuto":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Strength + !M!, Dexterity + !M!, enter KamenRide: Kabuto, add 1 PutOn to hand",
+"UPGRADE_DESCRIPTION": "Innate, Strength + !M!, Dexterity + !M!, enter KamenRide: Kabuto, add 1 PutOn to hand",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"Using this card at Decade Violent Form will change its effect",
+"You may only use this card at KamenRide: Decade",
+"You're already in KamenRide: Kabuto",
+"Add 3 Photon to draw pile",
+"Innate add 3 Photon to draw pile"
+]
+},
+"Kabuto_Photon":{
+"NAME": "Photon",
+"DESCRIPTION": "Actively discard it, loss 1 Hp,every time you play, cost +1",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"At MaskedForm actively discard it,energy +1, draw 1 card"
+]
+},
+"PhotonAcceleration":{
+"NAME": "Photon Acceleration",
+"DESCRIPTION": "Apply PhotonAcceleration ",
+"UPGRADE_DESCRIPTION": "Innate, apply PhotonAcceleration ",
+"EXTENDED_DESCRIPTION":[
+"Already has Photon Acceleration "
+]
+},
+"Kabuto_ClockUp":{
+"NAME": "Clock Up",
+"DESCRIPTION": "Shuffle ALL your cards into your draw pile.NL then draw 3 cards.They cost 0 this round, Exhaust ",
+"UPGRADE_DESCRIPTION": "Shuffle ALL your cards into your draw pile.NL then draw 3 cards.They cost 0 this round",
+"EXTENDED_DESCRIPTION":[
+"Can't use it at KamenRide Status",
+"Limit Enhance",
+"Can't choose ClockUp,at KamenRide: Kabuto: add Final Attack(cost 0) to your hand"
+]
+},
+"Kabuto_PutOn":{
+"NAME": "Put On",
+"DESCRIPTION": "Limit. enter MaskedForm, add 1 Cast Off, retain, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Can't use Put On at MaskedForm",
+"Special Limit",
+"Can't use it at MaskedForm",
+"You may only use this card at KamenRide: Kabuto"
+]
+},
+"Kabuto_CastOff":{
+"NAME": "Cast Off",
+"DESCRIPTION": "Limit. eliminate MaskedForm, discard all hand carda, according to different type, retain, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at Masked Form Stauts",
+"Special effect",//
+"Attacks:draw cards equal to discard NL skills:deal double damage equal to discard NL Ability:add 1 PutOn to hand NL Status:gain Strength equal to discard NL Cursed:Exhaust it,receive damage equal to discard 3 timea, add 3 Photon to card pile"
+]
+},
+"Kuuga_TitanSword":{
+"NAME": "TitanSword",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy(every 1 received life damage, damage+ 1),receive !M! true damage",
+"EXTENDED_DESCRIPTION":[
+"Deal !D! damage to one enemy(every2 Block, damage +1),receive !M! damage",
+"Deal !D! damage to one enemy(every1 Block, damage +1),receive !M! damage",
+"Deal !D! damage to one enemy(every2 Block, damage +1),receive !M! damage 3 times",
+"Deal !D! damage to one enemy(every2 Block, damage +1),receive !M! damage 3 times",
+"Deal !D! damage to one enemy(every2 Block, damage +1)2 times,receive !M! damage 3 times",
+"Deal !D! damage to one enemy(every1 Block, damage +1)2 times,receive !M! damage 3 times",
+"Rising TitanSword",//6
+"Double Rising TitanSword",//7
+"Limit Enhance",//8
+"Enhance at TitanForm,Rising TitanForm,Rising MightyForm",//9
+"Armed, deal !D! damage to one enemy(every 1 received life damage, damage+ 2),receive !M! true damage,apply 1 SealEnergy "//10
+]
+},
+"Kuuga_DragonRod":{
+"NAME": "DragonRod",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy !M! times",
+"EXTENDED_DESCRIPTION":[
+"Deal !D! damage to one enemy !M! timea, apply Seal counter ",
+"Deal !D! damage to one enemy !M! times(every 5 SealEnergy, Times+1)apply SealCounter ",
+"Rising DragonRod",//2
+"Limit Enhance",//3
+"Enhance at DragonForm,Rising Dragon Form",//4
+"Armed, deal !D! damage to one enemy !M! times(every 5 SealEnergy, Times+1),apply !M! SealEnergy "//5
+]
+},
+"Kuuga_PegasusBowgun":{
+"NAME": "PegasusBowgun",
+"DESCRIPTION": "Armed, deal !D! true damage to one enemy",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! true damage to all enemies",
+"Armed, deal !D! true damage to all enemies 2times ",
+"Rising PegasusBowgun",//2
+"Limit Enhance",//3
+"Enhance at PegasusForm,Rising PegasusForm",//4
+"Armed, deal !D! true damage to all enemiea, apply 1 SealEnergy "//5
+]
+},
+"Agito_FlameSaber":{
+"NAME": "FlameSaber",
+"DESCRIPTION": "Armed, deal damage twice to Dexterity( !D! )to one enemy,apply !M! FlameThatBeyondSense",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal damage twice to Dexterity( !D! )to one enemy,apply !M! FlameThatBeyondSense,add 1 FlameForm to hand",
+"Limit Enhance",//1
+"Enhance at FlameForm",//2
+"Armed, deal damage twice to Dexterity( !D! )to one enemy,apply !M! FlameThatBeyondSense, Dexterity +1"//3
+]
+},
+"Agito_StormHalberd":{
+"NAME": "StormHalberd",
+"DESCRIPTION": "Armed, deal damage twice to Strength( !D! )to one enemy,apply !M! StormThatBeyondSpirit",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal damage twice to Strength( !D! )to one enemy,apply !M! StormThatBeyondSpirit,add 1 StormForm to hand",
+"Limit Enhance",//1
+"Enhance at StormForm",//2
+"Armed, deal damage twice to Strength( !D! )to one enemy,apply !M! StormThatBeyondSpirit, Strength +1"//3
+]
+},
+"Ryuki_DragSaber":{
+"NAME": "DragSaber",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy,heal !M! ",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! damage to one enemy(every DragonFire increase damage+3),heal !M!, if Fatal to Minion,Max Hp+ 5",
+"Armed, deal !D! damage to one enemy,heal !M!, gain !B! Block ",
+"Limit Enhance",//3
+"Enhance at Ryuki Form,DragonFire or Dragreder Block Status",//4
+"EnhanceFatal",//8
+"Fatal damage at Ryuki Form will increase Level+1,damage+1,all DragSaber share this effect",//9
+", LegendaryAdvent ",//6
+", DragonOrder "//7
+]
+},
+"Faiz_Edge":{
+"NAME": "Faiz Edge",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! damage to one enemy,gain !M! PhotonStream",
+"Limit Enhance",//1
+"Enhance at FaizForm",//2
+"Armed, deal !D! damage to one enemy,apply 1 Brief Strength and Brief Dexterity"//3
+]
+},
+"Faiz_Phone":{
+"NAME": "Faiz Phone",
+"DESCRIPTION": "Deal 3 Innate damage !M! to random enemy",
+"EXTENDED_DESCRIPTION":[
+"Deal 4 Innate damage !M! to random enemy",
+"Deal 3 Innate damage !M! to random enemy,apply PhotonMark ",
+"Deal 4 Innate damage !M! to random enemy,apply PhotonMark ",
+"Limit Enhance",//3
+"Enhance at FaizForm"//4
+]
+},
+"Faiz_Shot":{
+"NAME": "Faiz Shot",
+"DESCRIPTION": "Unarmed, deal !D! true damage to one enemy,if Block, deal another damage",
+"EXTENDED_DESCRIPTION":[
+"Unarmed, deal !D! true damage to one enemy,if Block, deal another damage(damage crush Block will gain PhotonStream+1)gain !M! PhotonStream",
+"Limit Enhance",//1
+"Enhance at FaizForm",//2
+"Unarmed, deal !D! true damage to one enemy,if Block, deal another damage,Brief Strength+2"//3
+]
+},
+"Kabuto_KunaiGun":{
+"NAME": "KunaiGun",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy,draw !M! discard !M! ",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! damage to one enemy,draw !M! discard !M!, discard Attacks will deal another damage,discard Skills, gain !BBlock ",
+"Limit Enhance",//1
+"Enhance at MaskedForm"//2
+]
+},
+"Hibiki_Ongekibou":{
+"NAME": "Ongekibou(fire shoot)",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy,apply !MBurning ",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! damage to one enemy,apply !MBurning, apply !Mecho, CP+1",
+"Limit Enhance",//1
+"Enhance at HibikiForm,Hibiki Kurenai Form",//2
+"25%,choose 1 Hibiki Attacks to hand,if one at pile, add to hand,cost 0 NL 25% apply RagingFlames equal to damage",//3
+"25%,Strength+2 NL 25%,Dexterity+2"//4
+]
+},
+"AttackRide":{
+"NAME": "AttackRide",
+"DESCRIPTION": "According to different KamenRide  choose 1 Attacks, cost -1, Exhaust ",
+"UPGRADE_DESCRIPTION": "According to different KamenRide  choose 1 Upgraded Attacks, cost -1, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at a KamenRide Status",
+"Choose 1 Attacks from all Form Attacks to hand,cost -1, Exhaust ",//1
+"Choose Dragon Rod/Pegasus Bowgun/Titan Sword to hand,cost -1, Exhaust ",//2
+"Choose FlameSaber/StormHalberd to hand,cost -1, Exhaust ",//3
+"Choose  DragSaber to hand cost -1, Exhaust ",//4
+"Choose Edge/Phone/Shot to hand,cost -1, Exhaust ",//5
+"Add 1 ＢlayRouzer to hand,cost -1, Exhaust ",//6
+"Add 1 Ongekibou(hibiki) to hand,cost -1, Exhaust ",//7
+"Add 1 KunaiGun to hand,cost -1, Exhaust ",//8
+"Armed, deal !D! damage to one enemy(every 1 received life damage, damage+ 2),receive !M! ture damage,apply 1 SealEnergy",//9
+"Armed, deal !D! damage to one enemy !M! times(every 5 SealEnergy,times +1),apply !M! SealEnergy",//10
+"Armed, deal !D! true damage to all enemiea, apply 1 SealEnergy",//11
+"Armed, deal damage twice to Dexterity,apply !M! FlameThatBeyondSense, Dexterity +1",//12
+"Armed, deal damage twice to Strength,apply !M! StormThatBeyondSpirit, Strength +1",//13
+"Armed, deal !D! damage to one enemy,apply 1 Brief Strength and Brief Dexterity",//14
+"Deal 3 Innate damage 6times",//15
+"Unarmed, deal !D! true damage to one enemy,if Block deal another damage,Brief Strength+2",//16
+"Armed, deal !D! damage to one enemy,draw !M! discard !M!, discard Attacks will deal another damage,discard Skills, gain !BBlock ",//17
+"Armed, deal !D! damage to one enemy,apply !MBurning, 25%,Strength+2,25%,Dexterity+2",//18
+"Armed, deal Innate damage,5 times to EnhanceStatus: 5 or more will recover 1 RideBooker usage",//19
+"Add 1 ＤenGasher to hand cost 0,Exhaust",//20
+"Armed, change all enemies intends to attack,deal equal to all intends summon",//21
+"未完成"//22
+]
+},
+"Blade_BlayRouzer":{
+"NAME": "Awake-BlayRouzer",
+"DESCRIPTION": "Armed, deal Innate damage 5 times to buff ",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal",//0
+"Damage to one enemy(every 1 buff increase damage+5,KamenRide  and Form not included)",//1
+"Limit Enhance",//2
+"Enhance at BladeForm,Jack Form",//3
+"Type 5 or more, RideBooker usage recover",//4
+"Awake-BlayRouzer Enhance",//5
+"Type 6 or more choose 1 Undead card add to hand",//6
+"Type 5 or more choose 1 Undead card add to hand"//7
+]
+},
+"Kuuga_GouramAttack":{
+"NAME": "BeatGouram Attack",
+"DESCRIPTION": "Deal !D! damage to one enemy,deal half damage to othera, apply 1 SealEnergy to all enemies",
+"EXTENDED_DESCRIPTION":[
+"DEAL !D! damage to one enemy and deal half damage to others,if enemy has 3 or more SealEnergy deal, deal double damage",
+"Limit Enhance",//1
+"Enhanced when at KamenRide: Kuuga"
+]
+},
+"DecadeViolentEmotion":{
+"NAME": "Violent Form",
+"DESCRIPTION": "Enter ViolentForm, gain Strength +1, Dexterity +1, Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"You're already in ViolentForm！"
+]
+},
+"KamenRideDenO":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Strength + !M!, Dexterity + !M!, enter KamenRide: Den-O ",
+"UPGRADE_DESCRIPTION": "Innate, Strength + !M!, Dexterity + !M!, enter KamenRide: Den-O ",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"You may only use this card at KamenRide: Decade",
+"You're already in KamenRide: Den-O",
+"Max hand cards+10",
+"Innate, Max hand cards+10"
+]
+},
+"RideBookerCardAction":{
+"NAME": "",
+"DESCRIPTION": "",
+"EXTENDED_DESCRIPTION":[
+"Deal !D! true damage 5 times to one enemy, Exhaust ",
+"Deal !D! damage to one enemy(eliminate Block, deal damage triple to Block), Exhaust ",
+"Deal !D! damage to one enemy,stun enemy, Exhaust ",
+"Den-O  count+2,50% gain 1 Strength, add 1 random card(3 to 1),apply 3 overawe to all enemies ",//3
+"Den-O  count+2,50% gain 1 Dexterity, add 1 random card(3 to 1),gain  Block equal to all enemies summon attack ",//4
+"Den-O  count+2,50% gain 1 Strength, add 1 random card(3 to 1),50% eliminate  1 buff to random enemy",//5
+"Den-O  count+2,50% gain 1 Dexterity, add 1 random card(3 to 1),stun all enemies that intends to attack",//6
+"Every round draw card+2,apply 3 overawe to all enemies ",//7
+"Max hand card+2+2,",//8
+"Add 1 random Powers card, cost 0,",//9
+"Add 1 random Attacks card, cost 0,",//10
+"Add 1 random Skills card, cost 0,",//11
+"50% eliminate  1 buff to random enemy"//12
+]
+},
+"AnimationTrigger_on":{
+"EXTENDED_DESCRIPTION":[
+"AnimationTrigger",
+"Attack animations are currently on, clicking will turn attack animations off. You will need to start a new run for this to work"
+]
+},
+"AnimationTrigger_off":{
+"EXTENDED_DESCRIPTION":[
+"AnimationTrigger",
+"Attack animations are currently off, clicking will turn attack animation on (this will increase memory usage)"
+]
+},
+"HenshinTrigger_on":{
+"EXTENDED_DESCRIPTION":[
+"HenshinTrigger",
+"Henshin animations are currently on, clicking will turn them off (this will save your time when using the Decadriver or KamenRide cards)"
+]
+},
+"HenshinTrigger_off":{
+"EXTENDED_DESCRIPTION":[
+"HenshinTrigger",
+"Henshin animations are currently off, clicking will turn them on so you can see the delicate Henshin animations"
+]
+},
+"DenO_Ax":{
+"NAME": "My Strength Has Made You Cry！",
+"DESCRIPTION": "50% to gain 1 Strength ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Den-O",
+"Den-O  COUNT+2,50% gain 1 Strength, add 1 random card(3 to 1),eliminate  1 buff to random enemy",
+"Max hand card+2,add 1 random Attacks card, cost 0,50% eliminate  1 buff to random enemy"
+]
+},
+"DenO_Sword":{
+"NAME": "I Have Arrived！",
+"DESCRIPTION": "50% to gain 1 Strength ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"At KamenRide: Den-O will be Enhance",
+"Den-O  count+2,50% to gain 1 Strength, gain 1 card from 3 random carda, apply 5 overawe to all enemies",
+"Every round draw card+2,apply 3 overawe to all enemies"
+]
+},
+"DenO_Gun":{
+"NAME": "Can't Hear You！",
+"DESCRIPTION": "50% to gain 1 Dexterity ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"At KamenRide: Den-O will be Enhance",
+"Den-O  count+2,50% to gain 1 Dexterity, gain 1 card from 3 random cards,stun all enemies that intends to attack",
+"Max hand card+2,gain 1 card that cost 0, 50% to eliminate random enemy's one buff"
+]
+},
+"DenO_Rod":{
+"NAME": "Mind If I String You Along？",
+"DESCRIPTION": "50% to gain 1 Dexterity ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"At KamenRide: Den-O will be Enhance",
+"Den-O  count+2,50% to gain 1 Dexterity, gain 1 card from 3 random cards,gain  Block equal to all enemies summon attack",
+"Max hand card+2,gain 1 card that cost 0, 50% to eliminate random enemy's one buff"
+]
+},
+"DenO_DenGasher":{
+"NAME": "DenGasher",
+"DESCRIPTION": "Armed deal !D! damage",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Change at relative KamenRide: Den-O",
+"Armed deal !D! damage to one enemy,change its intends to attack,back to hand",
+"Armed to enemy that intends attack,deal damage twice to Block,apply 1 round FightBack ",
+"Armed to enemy that intends attack,deal damage triple to its intenda, apply !MVulnerable ",
+"Armed deal !D! damage 3times to one enemy,8 times to stuned/sleeped enemy",
+"Armed deal !D! damage 2times to all enemies,non-sleep enemy apply sleep",
+"Armed change all enemies intends to attack,deal damage equal to the total all enemies intends",
+"-st.sword",//8
+"-st.rod",//9
+"-st.ax",//10
+"-st.gun",//11
+"-st.wing",//12
+"Times,reset every round"//13
+]
+},
+"DenO_Climax":{
+"NAME": "Climax Time!",
+"DESCRIPTION": "Alter its effect after using",
+"EXTENDED_DESCRIPTION":[
+"Effect loop",
+"Retain hand card 3round",
+"Max hand card+10 in this battle",
+"All hand cards cost 0",
+"Exhaust all non-card pile card,every discard gain1Strength and Dexterity",
+"Gain Strength and Dexterity equal to, Exhaust pile   ",
+"5 effect loop "
+]
+},
+"DenO_Sword_s":{
+"EXTENDED_DESCRIPTION":[
+"Your fool to fight me！",
+"异魔神桃塔罗斯的登场台词,在下回合获得其附身的效果,并有几率震慑敌人"
+]
+},
+"DenO_Rod_s":{
+"EXTENDED_DESCRIPTION":[
+"Try it my way？",
+"异魔神浦塔罗斯的登场台词,在下回合获得其附身的效果,并有几率根据敌人的damage获得护甲"
+]
+},
+"DenO_Ax_s":{
+"EXTENDED_DESCRIPTION":[
+"Cry for my Strength！",
+"异魔神金塔罗斯的登场台词,在下回合获得其附身的效果,并有几率消除敌人的随机增益Status"
+]
+},
+"DenO_Gun_s":{
+"EXTENDED_DESCRIPTION":[
+"Your answer is not important！",
+"异魔神龙塔罗斯的登场台词,在下回合获得其附身的效果,并有几率眩晕敌人"
+]
+},
+"RideBooker_Skill_1":{
+"NAME": "Power of Justice",
+"DESCRIPTION": "Add 1 random card to RideBooker, Exhaust "
+},
+"RideBooker_Skill_2":{
+"NAME": "This One Is For You!",
+"DESCRIPTION": "Select an ExtraCard from the RideBooker that is not a rare, add a copy of it to your hand (the card is not removed from the RideBooker), it costs 0. Exhaust ",
+"EXTENDED_DESCRIPTION":[
+"Not Extra Card in RideBooker",
+"Limit Enhance",
+"Use it at Decade Violent Form, you can choose one rare Extra Card"
+]
+},
+"RideBooker_Skill_3":{
+"NAME": "Cards power",
+"DESCRIPTION": "For every 3 ExtraCards from the RideBooker, gain 1 energy (Max 3)",
+"EXTENDED_DESCRIPTION":[
+"Not enough cards",
+"For every 3 RideBooker cards, gain 1 energy (Max 3)",
+"Energy)"
+]
+},
+"BGMTrigger_on":{
+"EXTENDED_DESCRIPTION":[
+"BGMTrigger",
+"BGM is currently on, clicking will turn off the music for KamenRide statuses and final attacks."
+]
+},
+"BGMTrigger_off":{
+"EXTENDED_DESCRIPTION":[
+"BGMTrigger",
+"BGM is currently off,clicking will re-enable the music for KamenRide statuses and final attacks"
+]
+},
+"KamenRideKiva":{
+"NAME": "Kamen Ride",
+"DESCRIPTION": "Enter KamenRide: Kiva, add 1 UnknownWhistle to hand",
+"UPGRADE_DESCRIPTION": "Innate, enter KamenRide: Kiva, add 1 UnknownWhistle to hand",
+"EXTENDED_DESCRIPTION":[
+"Effect change",
+"Using this card at Decade Violent Form will change its effect",
+"You may only use this card at KamenRide: Decade",
+"You're already in KamenRide: Kiva"
+]
+},
+"FormRideGaruru":{
+"NAME": "Garuru Form",
+"DESCRIPTION": "Form. Limit. enter GaruruForm",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Kiva",
+"Already at GaruruForm",
+  "Consume half of your existing health and restore one quarter of its energy (at least 4 points of life are consumed, now",
+  ", recovery",
+  "energy)",
+  "Your HP is not enough!"
+]
+},
+"FormRideBasshaa":{
+"NAME": "Basshaa Form",
+"DESCRIPTION": "Form. Limit. enter BasshaaForm",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Kiva",
+"Already at BasshaaForm",
+  "Consume half of your existing energy, give every point of energy !B! block",
+  "Your energy is not enough!"
+]
+},
+"FormRideDogga":{
+"NAME": "Dogga Form",
+"DESCRIPTION": "Form. Limit. enter DoggaForm",
+"EXTENDED_DESCRIPTION":[
+"You may only use this card at KamenRide: Kiva",
+"Already at DoggaForm",
+  "Consume half of your existing block, and increase your Max HP by a quarter (consume at least 4 blocks, now consume",
+  ",Increase Max HP ",
+  ")",
+  "Your blocks is not enough!"
+]
+},
+"Kiva_Frozen":{
+"NAME": "Freeze",
+"DESCRIPTION": "Apply 10 Block and freeze to all enemies",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at Basshaa Form,apply less Block",
+"Apply 5 Block and freeze to all enemies"
+]
+},
+"Kiva_Bats":{
+"NAME": "Bats",
+"DESCRIPTION": "Deal !D! damage 2, times, apply !Mlaceration ",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhance at KamenRide: Kiva: increase damage and Laceration"
+]
+},
+"Kiva_Eat":{
+"NAME": "Eat",
+"DESCRIPTION": "Multiple laceration  !M! times",
+"EXTENDED_DESCRIPTION":[
+"Enemy haven't Laceration",
+"Limit Enhance",
+"Enhanced at KamenRide: Kiva: if it's the last at hand,trigger  Laceration "
+]
+},
+"Kiva_Swallow":{
+"NAME": "Swallow",
+"DESCRIPTION": "Deal !D! damage to one enemy,gain 2 energy,draw !M! card",
+"EXTENDED_DESCRIPTION":[
+"Limit Enhance",
+"Enhanced at KamenRide: Kiva: if it's the last card in your hand, play it twice"
+]
+},
+"GaruruWhistle":{
+"EXTENDED_DESCRIPTION":[
+"GaruruWhistle",
+"Enter GaruruForm for 3 rounds"
+]
+},
+"BasshaaWhistle":{
+"EXTENDED_DESCRIPTION":[
+"BasshaaWhistle",
+"Enter BasshaaForm for 3 rounds"
+]
+},
+"DoggaWhistle":{
+"EXTENDED_DESCRIPTION":[
+"DoggaWhistle",
+"Enter DoggaForm for 3 rounds"
+]
+},
+"UnknownWhistle":{
+"NAME": "Unknown Whistle",
+"DESCRIPTION": "Choose one Whistle from Garuru/Basshaa/Dogga, enter corresponding Form for 3 rounds, Exhaust, Retain ",
+"EXTENDED_DESCRIPTION":[
+"You can only play this card while at KamenRide: Kiva"
+]
+},
+
+"Kiva_GaruruSaber":{
+"NAME": "Garuru Saber",
+"DESCRIPTION": "Armed, deal !D! damage !M! times to one enemy",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! damage !M! times to one enemy,heal 6 Hp",
+"Limit Enhance",//1
+"Enhance at Garuru Form"//2
+]
+},
+"Kiva_BasshaaMagnum":{
+"NAME": "Basshaa Magnum",
+"DESCRIPTION": "Armed, deal !D! damage !M! times to all enemies",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! damage !M! times to all enemies,gain 4 EmperorPower ",
+"Limit Enhance",//1
+"Enhance at Basshaa Form",//2
+"Armed, deal !D! damage !M! times to all enemies,gain 1 energy"//3
+]
+},
+"Kiva_DoggaHammer":{
+"NAME": "Dogga Hammer",
+"DESCRIPTION": "Armed, deal !D! damage to one enemy",
+"EXTENDED_DESCRIPTION":[
+"Armed, deal !D! damage to one enemy,gain !B! Block",
+"Limit Enhance",//1
+"Enhance at Dogga Form"//2
+]
+},
+"Decade_SpecialSkill":{
+"NAME": "Collect",
+"DESCRIPTION": "Increase the card rewardafter victory by 1, Exhaust "
+}
+
+}

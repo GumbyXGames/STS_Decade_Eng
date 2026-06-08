@@ -1,0 +1,104 @@
+
+agito_storm.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_Storm/1
+  rotate: false
+  xy: 1353, 429
+  size: 289, 210
+  orig: 289, 210
+  offset: 0, 0
+  index: -1
+agito_Storm/3
+  rotate: false
+  xy: 1081, 727
+  size: 373, 222
+  orig: 373, 222
+  offset: 0, 0
+  index: -1
+agito_Storm/14
+  rotate: false
+  xy: 960, 1
+  size: 353, 206
+  orig: 353, 206
+  offset: 0, 0
+  index: -1
+agito_Storm/4
+  rotate: false
+  xy: 1, 663
+  size: 363, 326
+  orig: 363, 326
+  offset: 0, 0
+  index: -1
+agito_Storm/5
+  rotate: false
+  xy: 1353, 1
+  size: 185, 426
+  orig: 185, 426
+  offset: 0, 0
+  index: -1
+agito_Storm/6
+  rotate: false
+  xy: 366, 729
+  size: 325, 285
+  orig: 325, 285
+  offset: 0, 0
+  index: -1
+agito_Storm/7
+  rotate: false
+  xy: 1, 347
+  size: 410, 314
+  orig: 410, 314
+  offset: 0, 0
+  index: -1
+agito_Storm/8
+  rotate: false
+  xy: 716, 663
+  size: 363, 314
+  orig: 363, 314
+  offset: 0, 0
+  index: -1
+agito_Storm/9
+  rotate: false
+  xy: 1081, 347
+  size: 270, 378
+  orig: 270, 378
+  offset: 0, 0
+  index: -1
+agito_Storm/10
+  rotate: false
+  xy: 716, 1
+  size: 242, 393
+  orig: 242, 393
+  offset: 0, 0
+  index: -1
+agito_Storm/11
+  rotate: false
+  xy: 413, 347
+  size: 301, 380
+  orig: 301, 380
+  offset: 0, 0
+  index: -1
+agito_Storm/12
+  rotate: false
+  xy: 1, 1
+  size: 411, 344
+  orig: 411, 344
+  offset: 0, 0
+  index: -1
+agito_Storm/2
+  rotate: false
+  xy: 414, 1
+  size: 289, 210
+  orig: 289, 210
+  offset: 0, 0
+  index: -1
+agito_Storm/13
+  rotate: false
+  xy: 716, 396
+  size: 353, 206
+  orig: 353, 206
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+kabuto_henshin_card.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+henshin_card/1
+  rotate: false
+  xy: 725, 500
+  size: 209, 302
+  orig: 209, 302
+  offset: 0, 0
+  index: -1
+henshin_card/3
+  rotate: false
+  xy: 415, 1
+  size: 341, 497
+  orig: 341, 497
+  offset: 0, 0
+  index: -1
+henshin_card/2
+  rotate: false
+  xy: 415, 500
+  size: 308, 450
+  orig: 308, 450
+  offset: 0, 0
+  index: -1
+henshin_card/4
+  rotate: false
+  xy: 1, 1
+  size: 412, 600
+  orig: 412, 600
+  offset: 0, 0
+  index: -1
+henshin_p/kamenride0
+  rotate: false
+  xy: 758, 1
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1

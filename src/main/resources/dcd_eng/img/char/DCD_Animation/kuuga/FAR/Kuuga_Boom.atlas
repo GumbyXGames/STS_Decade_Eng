@@ -1,0 +1,118 @@
+
+Kuuga_Boom.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_boom/kuuga_boom006
+  rotate: false
+  xy: 275, 1095
+  size: 256, 248
+  orig: 256, 248
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom013
+  rotate: false
+  xy: 481, 284
+  size: 287, 274
+  orig: 287, 274
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom008
+  rotate: false
+  xy: 547, 1093
+  size: 264, 265
+  orig: 264, 265
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom012
+  rotate: false
+  xy: 571, 825
+  size: 281, 266
+  orig: 281, 266
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom002
+  rotate: false
+  xy: 1, 1
+  size: 478, 475
+  orig: 478, 475
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom014
+  rotate: false
+  xy: 481, 1
+  size: 286, 281
+  orig: 286, 281
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom007
+  rotate: false
+  xy: 275, 828
+  size: 270, 265
+  orig: 270, 265
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom003
+  rotate: false
+  xy: 813, 1093
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom001
+  rotate: false
+  xy: 854, 825
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom009
+  rotate: false
+  xy: 1, 756
+  size: 272, 271
+  orig: 272, 271
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom015
+  rotate: false
+  xy: 571, 560
+  size: 288, 263
+  orig: 288, 263
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom011
+  rotate: false
+  xy: 1, 478
+  size: 278, 276
+  orig: 278, 276
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom005
+  rotate: false
+  xy: 769, 1
+  size: 238, 234
+  orig: 238, 234
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom004
+  rotate: false
+  xy: 770, 237
+  size: 209, 217
+  orig: 209, 217
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom010
+  rotate: false
+  xy: 1, 1029
+  size: 272, 262
+  orig: 272, 262
+  offset: 0, 0
+  index: -1
+kuuga_boom/kuuga_boom016
+  rotate: false
+  xy: 281, 560
+  size: 288, 266
+  orig: 288, 266
+  offset: 0, 0
+  index: -1

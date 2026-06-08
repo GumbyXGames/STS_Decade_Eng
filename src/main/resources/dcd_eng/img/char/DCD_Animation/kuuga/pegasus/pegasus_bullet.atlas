@@ -1,0 +1,223 @@
+
+pegasus_bullet.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pegasus_bullet/pegasus_bullet015
+  rotate: false
+  xy: 379, 119
+  size: 124, 113
+  orig: 124, 116
+  offset: 0, 1
+  index: -1
+pegasus_bullet/pegasus_bullet011
+  rotate: false
+  xy: 253, 670
+  size: 124, 97
+  orig: 124, 116
+  offset: 0, 9
+  index: -1
+pegasus_bullet/pegasus_bullet010
+  rotate: false
+  xy: 1, 566
+  size: 124, 100
+  orig: 124, 116
+  offset: 0, 8
+  index: -1
+pegasus_bullet/pegasus_bullet024
+  rotate: false
+  xy: 1, 1
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+pegasus_bullet/pegasus_bullet003
+  rotate: false
+  xy: 127, 119
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+pegasus_bullet/pegasus_bullet023
+  rotate: false
+  xy: 127, 1
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+pegasus_bullet/pegasus_bullet030
+  rotate: false
+  xy: 127, 667
+  size: 124, 100
+  orig: 124, 116
+  offset: 0, 8
+  index: -1
+pegasus_bullet/pegasus_bullet029
+  rotate: false
+  xy: 127, 458
+  size: 124, 105
+  orig: 124, 116
+  offset: 0, 5
+  index: -1
+pegasus_bullet/pegasus_bullet031
+  rotate: false
+  xy: 379, 665
+  size: 124, 97
+  orig: 124, 116
+  offset: 0, 9
+  index: -1
+pegasus_bullet/pegasus_bullet028
+  rotate: false
+  xy: 253, 563
+  size: 124, 105
+  orig: 124, 116
+  offset: 0, 5
+  index: -1
+pegasus_bullet/pegasus_bullet016
+  rotate: false
+  xy: 379, 234
+  size: 124, 110
+  orig: 124, 116
+  offset: 0, 4
+  index: -1
+pegasus_bullet/pegasus_bullet008
+  rotate: false
+  xy: 253, 456
+  size: 124, 105
+  orig: 124, 116
+  offset: 0, 5
+  index: -1
+pegasus_bullet/pegasus_bullet009
+  rotate: false
+  xy: 1, 459
+  size: 124, 105
+  orig: 124, 116
+  offset: 0, 5
+  index: -1
+pegasus_bullet/pegasus_bullet025
+  rotate: false
+  xy: 253, 234
+  size: 124, 113
+  orig: 124, 116
+  offset: 0, 1
+  index: -1
+pegasus_bullet/pegasus_bullet021
+  rotate: false
+  xy: 379, 764
+  size: 124, 97
+  orig: 124, 116
+  offset: 0, 9
+  index: -1
+pegasus_bullet/pegasus_bullet012
+  rotate: false
+  xy: 379, 565
+  size: 124, 98
+  orig: 124, 116
+  offset: 0, 10
+  index: -1
+pegasus_bullet/pegasus_bullet026
+  rotate: false
+  xy: 379, 346
+  size: 124, 110
+  orig: 124, 116
+  offset: 0, 4
+  index: -1
+pegasus_bullet/pegasus_bullet004
+  rotate: false
+  xy: 253, 1
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+pegasus_bullet/pegasus_bullet019
+  rotate: false
+  xy: 379, 458
+  size: 124, 105
+  orig: 124, 116
+  offset: 0, 5
+  index: -1
+pegasus_bullet/pegasus_bullet001
+  rotate: false
+  xy: 127, 863
+  size: 122, 76
+  orig: 124, 116
+  offset: 2, 20
+  index: -1
+pegasus_bullet/pegasus_bullet014
+  rotate: false
+  xy: 379, 1
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+pegasus_bullet/pegasus_bullet002
+  rotate: false
+  xy: 1, 768
+  size: 124, 98
+  orig: 124, 116
+  offset: 0, 10
+  index: -1
+pegasus_bullet/pegasus_bullet005
+  rotate: false
+  xy: 253, 119
+  size: 124, 113
+  orig: 124, 116
+  offset: 0, 1
+  index: -1
+pegasus_bullet/pegasus_bullet017
+  rotate: false
+  xy: 1, 349
+  size: 124, 108
+  orig: 124, 116
+  offset: 0, 4
+  index: -1
+pegasus_bullet/pegasus_bullet018
+  rotate: false
+  xy: 253, 349
+  size: 124, 105
+  orig: 124, 116
+  offset: 0, 5
+  index: -1
+pegasus_bullet/pegasus_bullet020
+  rotate: false
+  xy: 127, 565
+  size: 124, 100
+  orig: 124, 116
+  offset: 0, 8
+  index: -1
+pegasus_bullet/pegasus_bullet022
+  rotate: false
+  xy: 1, 668
+  size: 124, 98
+  orig: 124, 116
+  offset: 0, 10
+  index: -1
+pegasus_bullet/pegasus_bullet013
+  rotate: false
+  xy: 1, 119
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+pegasus_bullet/pegasus_bullet027
+  rotate: false
+  xy: 127, 347
+  size: 124, 108
+  orig: 124, 116
+  offset: 0, 4
+  index: -1
+pegasus_bullet/pegasus_bullet006
+  rotate: false
+  xy: 1, 237
+  size: 124, 110
+  orig: 124, 116
+  offset: 0, 4
+  index: -1
+pegasus_bullet/pegasus_bullet007
+  rotate: false
+  xy: 127, 237
+  size: 124, 108
+  orig: 124, 116
+  offset: 0, 4
+  index: -1

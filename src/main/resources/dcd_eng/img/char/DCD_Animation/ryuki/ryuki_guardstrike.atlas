@@ -1,0 +1,55 @@
+
+ryuki_guardstrike.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_guardstrike/5
+  rotate: false
+  xy: 1, 1
+  size: 234, 193
+  orig: 234, 193
+  offset: 0, 0
+  index: -1
+ryuki_guardstrike/3
+  rotate: false
+  xy: 163, 410
+  size: 170, 189
+  orig: 170, 189
+  offset: 0, 0
+  index: -1
+ryuki_guardstrike/4
+  rotate: false
+  xy: 1, 196
+  size: 178, 199
+  orig: 178, 199
+  offset: 0, 0
+  index: -1
+ryuki_guardstrike/1
+  rotate: false
+  xy: 1, 397
+  size: 160, 202
+  orig: 160, 202
+  offset: 0, 0
+  index: -1
+ryuki_guardstrike/7
+  rotate: false
+  xy: 335, 410
+  size: 139, 218
+  orig: 139, 218
+  offset: 0, 0
+  index: -1
+ryuki_guardstrike/6
+  rotate: false
+  xy: 237, 1
+  size: 233, 193
+  orig: 233, 193
+  offset: 0, 0
+  index: -1
+ryuki_guardstrike/2
+  rotate: false
+  xy: 181, 196
+  size: 160, 212
+  orig: 160, 212
+  offset: 0, 0
+  index: -1

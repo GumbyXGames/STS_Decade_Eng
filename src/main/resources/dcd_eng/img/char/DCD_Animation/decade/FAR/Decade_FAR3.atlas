@@ -1,0 +1,41 @@
+
+Decade_FAR3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FAR1/5-1
+  rotate: false
+  xy: 1, 208
+  size: 212, 205
+  orig: 212, 205
+  offset: 0, 0
+  index: -1
+FAR1/5-2
+  rotate: false
+  xy: 247, 1
+  size: 226, 205
+  orig: 226, 205
+  offset: 0, 0
+  index: -1
+FAR1/5
+  rotate: false
+  xy: 215, 208
+  size: 192, 205
+  orig: 192, 205
+  offset: 0, 0
+  index: -1
+FAR1/6
+  rotate: false
+  xy: 1, 415
+  size: 172, 218
+  orig: 172, 218
+  offset: 0, 0
+  index: -1
+FAR1/5-3
+  rotate: false
+  xy: 1, 1
+  size: 244, 205
+  orig: 244, 205
+  offset: 0, 0
+  index: -1

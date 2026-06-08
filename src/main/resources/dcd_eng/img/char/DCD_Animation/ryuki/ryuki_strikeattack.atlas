@@ -1,0 +1,104 @@
+
+ryuki_strikeattack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_strikeattack/6
+  rotate: false
+  xy: 664, 548
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/7
+  rotate: false
+  xy: 335, 369
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/8
+  rotate: false
+  xy: 1, 395
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/9
+  rotate: false
+  xy: 800, 369
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/10
+  rotate: false
+  xy: 271, 185
+  size: 272, 182
+  orig: 272, 182
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/1
+  rotate: false
+  xy: 664, 185
+  size: 134, 226
+  orig: 134, 226
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/11
+  rotate: false
+  xy: 545, 1
+  size: 272, 182
+  orig: 272, 182
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/2
+  rotate: false
+  xy: 545, 185
+  size: 117, 278
+  orig: 117, 278
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/12
+  rotate: false
+  xy: 271, 1
+  size: 272, 182
+  orig: 272, 182
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/3
+  rotate: false
+  xy: 1, 196
+  size: 172, 197
+  orig: 172, 197
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/13
+  rotate: false
+  xy: 1, 1
+  size: 268, 193
+  orig: 268, 193
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/4
+  rotate: false
+  xy: 824, 548
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/5
+  rotate: false
+  xy: 175, 369
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+ryuki_strikeattack/14
+  rotate: false
+  xy: 819, 1
+  size: 169, 210
+  orig: 169, 210
+  offset: 0, 0
+  index: -1

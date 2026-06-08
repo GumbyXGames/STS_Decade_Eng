@@ -1,0 +1,48 @@
+
+titan_FAR_1and4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titian_attack2/titan_attack2089
+  rotate: false
+  xy: 109, 251
+  size: 106, 248
+  orig: 106, 248
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2090
+  rotate: false
+  xy: 1, 251
+  size: 106, 248
+  orig: 106, 248
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2091
+  rotate: false
+  xy: 217, 1
+  size: 106, 242
+  orig: 106, 242
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2093
+  rotate: false
+  xy: 1, 1
+  size: 106, 248
+  orig: 106, 248
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2092
+  rotate: false
+  xy: 217, 245
+  size: 106, 242
+  orig: 106, 242
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2094
+  rotate: false
+  xy: 109, 1
+  size: 106, 248
+  orig: 106, 248
+  offset: 0, 0
+  index: -1

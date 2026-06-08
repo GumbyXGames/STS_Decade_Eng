@@ -1,0 +1,34 @@
+
+kuuga_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_attack/4
+  rotate: false
+  xy: 1, 212
+  size: 194, 206
+  orig: 194, 206
+  offset: 0, 0
+  index: -1
+kuuga_attack/1
+  rotate: false
+  xy: 344, 212
+  size: 131, 218
+  orig: 131, 218
+  offset: 0, 0
+  index: -1
+kuuga_attack/2
+  rotate: false
+  xy: 197, 212
+  size: 145, 209
+  orig: 145, 209
+  offset: 0, 0
+  index: -1
+kuuga_attack/3
+  rotate: false
+  xy: 1, 1
+  size: 201, 209
+  orig: 201, 209
+  offset: 0, 0
+  index: -1

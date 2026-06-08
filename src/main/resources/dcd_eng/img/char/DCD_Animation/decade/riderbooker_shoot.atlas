@@ -1,0 +1,41 @@
+
+riderbooker_shoot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+riderbooker_shoot/RideBooker_Shoot001
+  rotate: false
+  xy: 333, 1
+  size: 125, 262
+  orig: 125, 262
+  offset: 0, 0
+  index: -1
+riderbooker_shoot/RideBooker_Shoot000
+  rotate: false
+  xy: 460, 255
+  size: 125, 253
+  orig: 125, 253
+  offset: 0, 0
+  index: -1
+riderbooker_shoot/RideBooker_Shoot005
+  rotate: false
+  xy: 1, 255
+  size: 185, 252
+  orig: 185, 252
+  offset: 0, 0
+  index: -1
+riderbooker_shoot/RideBooker_Shoot002
+  rotate: false
+  xy: 189, 1
+  size: 142, 272
+  orig: 142, 272
+  offset: 0, 0
+  index: -1
+riderbooker_shoot/RideBooker_Shoot003
+  rotate: false
+  xy: 1, 1
+  size: 186, 252
+  orig: 186, 252
+  offset: 0, 0
+  index: -1

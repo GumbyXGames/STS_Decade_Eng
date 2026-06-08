@@ -1,0 +1,104 @@
+
+decade_henshin3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_henshin2/decade_henshin2010
+  rotate: false
+  xy: 1, 1
+  size: 210, 124
+  orig: 210, 124
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2013
+  rotate: false
+  xy: 213, 252
+  size: 189, 123
+  orig: 189, 123
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2016
+  rotate: false
+  xy: 404, 252
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2020
+  rotate: false
+  xy: 171, 477
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2012
+  rotate: false
+  xy: 1, 127
+  size: 210, 123
+  orig: 210, 123
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2009
+  rotate: false
+  xy: 213, 127
+  size: 210, 123
+  orig: 210, 123
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2001
+  rotate: false
+  xy: 1, 252
+  size: 210, 123
+  orig: 210, 123
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2018
+  rotate: false
+  xy: 320, 423
+  size: 105, 80
+  orig: 105, 80
+  offset: 0, 0
+  index: -1
+FAR0/FAR_faiz0000
+  rotate: false
+  xy: 425, 1
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2025
+  rotate: false
+  xy: 1, 490
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2014
+  rotate: false
+  xy: 1, 377
+  size: 168, 111
+  orig: 168, 111
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2011
+  rotate: false
+  xy: 213, 1
+  size: 210, 124
+  orig: 210, 124
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2015
+  rotate: false
+  xy: 171, 377
+  size: 147, 98
+  orig: 147, 98
+  offset: 0, 0
+  index: -1
+decade_henshin2/decade_henshin2017
+  rotate: false
+  xy: 404, 341
+  size: 105, 80
+  orig: 105, 80
+  offset: 0, 0
+  index: -1

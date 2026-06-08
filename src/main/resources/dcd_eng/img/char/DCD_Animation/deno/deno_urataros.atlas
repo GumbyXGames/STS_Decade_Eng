@@ -1,0 +1,20 @@
+
+deno_urataros.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deno_urataros/2
+  rotate: false
+  xy: 1, 1
+  size: 112, 246
+  orig: 112, 246
+  offset: 0, 0
+  index: -1
+deno_urataros/1
+  rotate: false
+  xy: 115, 1
+  size: 112, 246
+  orig: 112, 246
+  offset: 0, 0
+  index: -1

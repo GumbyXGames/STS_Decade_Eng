@@ -1,0 +1,664 @@
+
+faiz_henshin_effect.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faiz_henshin_effect/faiz_henshin_effect097
+  rotate: false
+  xy: 2691, 2609
+  size: 176, 256
+  orig: 176, 256
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect022
+  rotate: false
+  xy: 1202, 2741
+  size: 76, 130
+  orig: 76, 130
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect013
+  rotate: false
+  xy: 3033, 2769
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect001
+  rotate: false
+  xy: 3068, 2764
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect084
+  rotate: false
+  xy: 3841, 1
+  size: 222, 500
+  orig: 222, 500
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect009
+  rotate: false
+  xy: 1636, 4033
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect057
+  rotate: false
+  xy: 3832, 963
+  size: 220, 512
+  orig: 220, 512
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect054
+  rotate: false
+  xy: 1855, 963
+  size: 192, 490
+  orig: 192, 490
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect049
+  rotate: false
+  xy: 3546, 3701
+  size: 150, 381
+  orig: 150, 381
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect025
+  rotate: false
+  xy: 3920, 2371
+  size: 86, 157
+  orig: 86, 157
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect027
+  rotate: false
+  xy: 2596, 2664
+  size: 90, 162
+  orig: 90, 162
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect010
+  rotate: false
+  xy: 1339, 4033
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect082
+  rotate: false
+  xy: 2268, 1925
+  size: 421, 737
+  orig: 421, 737
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect093
+  rotate: false
+  xy: 1125, 1530
+  size: 205, 301
+  orig: 205, 301
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect062
+  rotate: false
+  xy: 3492, 1925
+  size: 338, 625
+  orig: 338, 625
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect091
+  rotate: false
+  xy: 2464, 3715
+  size: 196, 288
+  orig: 196, 288
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect037
+  rotate: false
+  xy: 1569, 3797
+  size: 117, 234
+  orig: 117, 234
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect015
+  rotate: false
+  xy: 1688, 4007
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect075
+  rotate: false
+  xy: 1283, 1
+  size: 1280, 960
+  orig: 1280, 960
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect005
+  rotate: false
+  xy: 3698, 3701
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect033
+  rotate: false
+  xy: 2490, 2664
+  size: 104, 205
+  orig: 104, 205
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect034
+  rotate: false
+  xy: 2379, 2664
+  size: 109, 216
+  orig: 109, 216
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect048
+  rotate: false
+  xy: 2662, 3715
+  size: 148, 373
+  orig: 148, 373
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect071
+  rotate: false
+  xy: 1, 2887
+  size: 940, 954
+  orig: 940, 954
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect023
+  rotate: false
+  xy: 1119, 2741
+  size: 81, 140
+  orig: 81, 140
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect021
+  rotate: false
+  xy: 1280, 2741
+  size: 74, 126
+  orig: 74, 126
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect059
+  rotate: false
+  xy: 1125, 963
+  size: 265, 565
+  orig: 265, 565
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect079
+  rotate: false
+  xy: 2464, 2887
+  size: 666, 826
+  orig: 666, 826
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect040
+  rotate: false
+  xy: 1087, 3797
+  size: 124, 260
+  orig: 124, 260
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect055
+  rotate: false
+  xy: 1659, 963
+  size: 194, 489
+  orig: 194, 489
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect095
+  rotate: false
+  xy: 3900, 3744
+  size: 194, 278
+  orig: 194, 278
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect028
+  rotate: false
+  xy: 2149, 2671
+  size: 94, 170
+  orig: 94, 170
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect067
+  rotate: false
+  xy: 1119, 1925
+  size: 620, 814
+  orig: 620, 814
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect098
+  rotate: false
+  xy: 2869, 2609
+  size: 162, 254
+  orig: 162, 254
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect032
+  rotate: false
+  xy: 1741, 2671
+  size: 104, 201
+  orig: 104, 201
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect026
+  rotate: false
+  xy: 3832, 2371
+  size: 86, 158
+  orig: 86, 158
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect039
+  rotate: false
+  xy: 1213, 3797
+  size: 124, 254
+  orig: 124, 254
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect087
+  rotate: false
+  xy: 3132, 3701
+  size: 212, 368
+  orig: 212, 368
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect036
+  rotate: false
+  xy: 1, 3843
+  size: 112, 228
+  orig: 112, 228
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect063
+  rotate: false
+  xy: 3094, 1925
+  size: 396, 678
+  orig: 396, 678
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect052
+  rotate: false
+  xy: 1835, 1455
+  size: 172, 436
+  orig: 172, 436
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect042
+  rotate: false
+  xy: 2180, 3749
+  size: 133, 286
+  orig: 133, 286
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect094
+  rotate: false
+  xy: 3698, 3744
+  size: 200, 284
+  orig: 200, 284
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect064
+  rotate: false
+  xy: 2691, 1925
+  size: 401, 682
+  orig: 401, 682
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect031
+  rotate: false
+  xy: 1847, 2671
+  size: 101, 194
+  orig: 101, 194
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect070
+  rotate: false
+  xy: 943, 2887
+  size: 816, 908
+  orig: 816, 908
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect074
+  rotate: false
+  xy: 1, 1
+  size: 1280, 960
+  orig: 1280, 960
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect096
+  rotate: false
+  xy: 3288, 2605
+  size: 186, 272
+  orig: 186, 272
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect050
+  rotate: false
+  xy: 2180, 1455
+  size: 166, 412
+  orig: 166, 412
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect060
+  rotate: false
+  xy: 3759, 3148
+  size: 300, 594
+  orig: 300, 594
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect045
+  rotate: false
+  xy: 1761, 3749
+  size: 141, 328
+  orig: 141, 328
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect029
+  rotate: false
+  xy: 2053, 2671
+  size: 94, 174
+  orig: 94, 174
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect030
+  rotate: false
+  xy: 1950, 2671
+  size: 101, 190
+  orig: 101, 190
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect078
+  rotate: false
+  xy: 1, 963
+  size: 1122, 960
+  orig: 1122, 960
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect043
+  rotate: false
+  xy: 2042, 3749
+  size: 136, 308
+  orig: 136, 308
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect011
+  rotate: false
+  xy: 1604, 4033
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect006
+  rotate: false
+  xy: 3064, 2836
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect004
+  rotate: false
+  xy: 3724, 3701
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect089
+  rotate: false
+  xy: 3492, 2552
+  size: 205, 320
+  orig: 205, 320
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect058
+  rotate: false
+  xy: 1392, 963
+  size: 265, 562
+  orig: 265, 562
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect051
+  rotate: false
+  xy: 2009, 1455
+  size: 169, 420
+  orig: 169, 420
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect100
+  rotate: false
+  xy: 1459, 3797
+  size: 108, 254
+  orig: 108, 254
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect047
+  rotate: false
+  xy: 2812, 3715
+  size: 144, 352
+  orig: 144, 352
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect069
+  rotate: false
+  xy: 1761, 2887
+  size: 701, 860
+  orig: 701, 860
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect090
+  rotate: false
+  xy: 3346, 3701
+  size: 198, 300
+  orig: 198, 300
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect086
+  rotate: false
+  xy: 3841, 503
+  size: 214, 418
+  orig: 214, 418
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect035
+  rotate: false
+  xy: 2268, 2664
+  size: 109, 220
+  orig: 109, 220
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect038
+  rotate: false
+  xy: 1339, 3797
+  size: 118, 234
+  orig: 118, 234
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect065
+  rotate: false
+  xy: 1741, 1925
+  size: 525, 744
+  orig: 525, 744
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect053
+  rotate: false
+  xy: 1659, 1454
+  size: 174, 442
+  orig: 174, 442
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect016
+  rotate: false
+  xy: 3033, 2609
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect073
+  rotate: false
+  xy: 2565, 1
+  size: 1274, 960
+  orig: 1274, 960
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect044
+  rotate: false
+  xy: 1904, 3749
+  size: 136, 316
+  orig: 136, 316
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect099
+  rotate: false
+  xy: 943, 3797
+  size: 142, 254
+  orig: 142, 254
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect092
+  rotate: false
+  xy: 3094, 2605
+  size: 192, 274
+  orig: 192, 274
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect014
+  rotate: false
+  xy: 3033, 2701
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect061
+  rotate: false
+  xy: 3759, 2552
+  size: 309, 594
+  orig: 309, 594
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect003
+  rotate: false
+  xy: 3068, 2701
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect101
+  rotate: false
+  xy: 3832, 1987
+  size: 261, 382
+  orig: 261, 382
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect008
+  rotate: false
+  xy: 2596, 2828
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect068
+  rotate: false
+  xy: 3132, 2887
+  size: 625, 812
+  orig: 625, 812
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect020
+  rotate: false
+  xy: 1356, 2741
+  size: 73, 122
+  orig: 73, 122
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect024
+  rotate: false
+  xy: 4008, 2371
+  size: 81, 145
+  orig: 81, 145
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect088
+  rotate: false
+  xy: 1392, 1527
+  size: 209, 344
+  orig: 209, 344
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect041
+  rotate: false
+  xy: 2315, 3749
+  size: 130, 282
+  orig: 130, 282
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect056
+  rotate: false
+  xy: 3832, 1477
+  size: 217, 508
+  orig: 217, 508
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect007
+  rotate: false
+  xy: 3033, 2836
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect019
+  rotate: false
+  xy: 1688, 3797
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect018
+  rotate: false
+  xy: 1688, 3904
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect002
+  rotate: false
+  xy: 3068, 2736
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect012
+  rotate: false
+  xy: 1569, 4033
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect072
+  rotate: false
+  xy: 1, 1925
+  size: 1116, 960
+  orig: 1116, 960
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect046
+  rotate: false
+  xy: 2958, 3715
+  size: 141, 334
+  orig: 141, 334
+  offset: 0, 0
+  index: -1
+faiz_henshin_effect/faiz_henshin_effect017
+  rotate: false
+  xy: 1431, 2741
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1

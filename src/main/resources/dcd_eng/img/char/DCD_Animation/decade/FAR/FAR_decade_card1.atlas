@@ -1,0 +1,48 @@
+
+FAR_decade_card1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FAR_card1/4
+  rotate: false
+  xy: 587, 1
+  size: 126, 322
+  orig: 126, 322
+  offset: 0, 0
+  index: -1
+FAR_card1/6
+  rotate: false
+  xy: 829, 1
+  size: 109, 320
+  orig: 109, 320
+  offset: 0, 0
+  index: -1
+FAR_card1/5
+  rotate: false
+  xy: 715, 1
+  size: 112, 322
+  orig: 112, 322
+  offset: 0, 0
+  index: -1
+FAR_card1/3
+  rotate: false
+  xy: 431, 1
+  size: 154, 325
+  orig: 154, 325
+  offset: 0, 0
+  index: -1
+FAR_card1/1
+  rotate: false
+  xy: 1, 1
+  size: 236, 336
+  orig: 236, 336
+  offset: 0, 0
+  index: -1
+FAR_card1/2
+  rotate: false
+  xy: 239, 1
+  size: 190, 328
+  orig: 190, 328
+  offset: 0, 0
+  index: -1

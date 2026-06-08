@@ -1,0 +1,83 @@
+
+agito_power.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_power/11
+  rotate: false
+  xy: 105, 273
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/4
+  rotate: false
+  xy: 209, 1
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/3
+  rotate: false
+  xy: 1, 545
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/8
+  rotate: false
+  xy: 1, 273
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/1
+  rotate: false
+  xy: 209, 273
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/9
+  rotate: false
+  xy: 209, 545
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/2
+  rotate: false
+  xy: 105, 545
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/7
+  rotate: false
+  xy: 1, 1
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/6
+  rotate: false
+  xy: 313, 273
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/10
+  rotate: false
+  xy: 105, 1
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_power/5
+  rotate: false
+  xy: 313, 1
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1

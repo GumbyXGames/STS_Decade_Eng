@@ -1,0 +1,20 @@
+
+deno_sieg.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deno_sieg/2
+  rotate: false
+  xy: 213, 1
+  size: 210, 236
+  orig: 210, 236
+  offset: 0, 0
+  index: -1
+deno_sieg/1
+  rotate: false
+  xy: 1, 1
+  size: 210, 236
+  orig: 210, 236
+  offset: 0, 0
+  index: -1

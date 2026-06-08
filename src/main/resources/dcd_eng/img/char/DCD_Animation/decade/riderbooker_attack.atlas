@@ -1,0 +1,48 @@
+
+riderbooker_attack.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+riderbooker_attack/RideBooker_Attack004
+  rotate: false
+  xy: 1, 249
+  size: 216, 256
+  orig: 216, 256
+  offset: 0, 0
+  index: -1
+riderbooker_attack/RideBooker_Attack002
+  rotate: false
+  xy: 807, 249
+  size: 122, 260
+  orig: 122, 260
+  offset: 0, 0
+  index: -1
+riderbooker_attack/RideBooker_Attack009
+  rotate: false
+  xy: 219, 249
+  size: 217, 253
+  orig: 217, 253
+  offset: 0, 0
+  index: -1
+riderbooker_attack/RideBooker_Attack011
+  rotate: false
+  xy: 1, 1
+  size: 228, 246
+  orig: 228, 246
+  offset: 0, 0
+  index: -1
+riderbooker_attack/RideBooker_Attack010
+  rotate: false
+  xy: 438, 249
+  size: 217, 246
+  orig: 217, 246
+  offset: 0, 0
+  index: -1
+riderbooker_attack/RideBooker_Attack000
+  rotate: false
+  xy: 657, 249
+  size: 148, 238
+  orig: 148, 238
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+kuuga_gouram1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_gouram/9
+  rotate: false
+  xy: 208, 198
+  size: 92, 169
+  orig: 92, 169
+  offset: 0, 0
+  index: -1
+kuuga_gouram/8
+  rotate: false
+  xy: 127, 1
+  size: 82, 195
+  orig: 82, 195
+  offset: 0, 0
+  index: -1
+kuuga_gouram/6
+  rotate: false
+  xy: 92, 208
+  size: 114, 161
+  orig: 114, 161
+  offset: 0, 0
+  index: -1
+kuuga_gouram/7
+  rotate: false
+  xy: 1, 208
+  size: 89, 266
+  orig: 89, 266
+  offset: 0, 0
+  index: -1
+kuuga_gouram/5
+  rotate: false
+  xy: 1, 1
+  size: 124, 205
+  orig: 124, 205
+  offset: 0, 0
+  index: -1

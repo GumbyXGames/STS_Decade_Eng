@@ -1,0 +1,41 @@
+
+dragon_FAR1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far/6
+  rotate: false
+  xy: 127, 1
+  size: 114, 161
+  orig: 114, 161
+  offset: 0, 0
+  index: -1
+dragon_finalattack/2
+  rotate: false
+  xy: 92, 208
+  size: 89, 266
+  orig: 89, 266
+  offset: 0, 0
+  index: -1
+dragon_finalattack/1
+  rotate: false
+  xy: 183, 164
+  size: 92, 169
+  orig: 92, 169
+  offset: 0, 0
+  index: -1
+kuuga_far/5
+  rotate: false
+  xy: 1, 1
+  size: 124, 205
+  orig: 124, 205
+  offset: 0, 0
+  index: -1
+kuuga_far/7
+  rotate: false
+  xy: 1, 208
+  size: 89, 266
+  orig: 89, 266
+  offset: 0, 0
+  index: -1

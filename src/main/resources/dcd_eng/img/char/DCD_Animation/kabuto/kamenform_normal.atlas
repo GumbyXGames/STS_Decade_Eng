@@ -1,0 +1,76 @@
+
+kamenform_normal.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kamenform/10
+  rotate: false
+  xy: 1, 1
+  size: 150, 226
+  orig: 150, 226
+  offset: 0, 0
+  index: -1
+kamenform/6
+  rotate: false
+  xy: 149, 229
+  size: 136, 230
+  orig: 136, 230
+  offset: 0, 0
+  index: -1
+kamenform/1
+  rotate: false
+  xy: 523, 229
+  size: 108, 232
+  orig: 108, 232
+  offset: 0, 0
+  index: -1
+kamenform/9
+  rotate: false
+  xy: 407, 229
+  size: 114, 230
+  orig: 114, 230
+  offset: 0, 0
+  index: -1
+kamenform/5
+  rotate: false
+  xy: 1, 229
+  size: 146, 228
+  orig: 146, 228
+  offset: 0, 0
+  index: -1
+kamenform/8
+  rotate: false
+  xy: 740, 229
+  size: 92, 229
+  orig: 92, 229
+  offset: 0, 0
+  index: -1
+kamenform/3
+  rotate: false
+  xy: 922, 229
+  size: 85, 230
+  orig: 85, 230
+  offset: 0, 0
+  index: -1
+kamenform/2
+  rotate: false
+  xy: 834, 229
+  size: 86, 233
+  orig: 86, 233
+  offset: 0, 0
+  index: -1
+kamenform/7
+  rotate: false
+  xy: 633, 229
+  size: 105, 230
+  orig: 105, 230
+  offset: 0, 0
+  index: -1
+kamenform/4
+  rotate: false
+  xy: 287, 229
+  size: 118, 234
+  orig: 118, 234
+  offset: 0, 0
+  index: -1

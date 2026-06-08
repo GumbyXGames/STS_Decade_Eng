@@ -1,0 +1,55 @@
+
+kuuga_kamenride.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rieder_kamenride/rider_kamenride001
+  rotate: false
+  xy: 320, 1
+  size: 103, 261
+  orig: 103, 261
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride030
+  rotate: false
+  xy: 425, 1
+  size: 97, 261
+  orig: 97, 261
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride011
+  rotate: false
+  xy: 1, 1
+  size: 105, 261
+  orig: 105, 261
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride085
+  rotate: false
+  xy: 524, 1
+  size: 97, 261
+  orig: 97, 261
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride075
+  rotate: false
+  xy: 108, 1
+  size: 105, 261
+  orig: 105, 261
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride093
+  rotate: false
+  xy: 215, 1
+  size: 103, 261
+  orig: 103, 261
+  offset: 0, 0
+  index: -1
+rieder_kamenride/rider_kamenride026
+  rotate: false
+  xy: 623, 1
+  size: 97, 261
+  orig: 97, 261
+  offset: 0, 0
+  index: -1

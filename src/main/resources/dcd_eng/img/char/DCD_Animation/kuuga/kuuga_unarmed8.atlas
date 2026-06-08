@@ -1,0 +1,62 @@
+
+kuuga_unarmed8.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_unarmed8/Unarmed8089
+  rotate: false
+  xy: 786, 244
+  size: 100, 213
+  orig: 100, 213
+  offset: 0, 0
+  index: -1
+kuuga_unarmed8/Unarmed8080
+  rotate: false
+  xy: 1, 244
+  size: 154, 216
+  orig: 154, 216
+  offset: 0, 0
+  index: -1
+kuuga_unarmed8/Unarmed8081
+  rotate: false
+  xy: 1, 1
+  size: 160, 241
+  orig: 160, 241
+  offset: 0, 0
+  index: -1
+kuuga_unarmed8/Unarmed8085
+  rotate: false
+  xy: 303, 244
+  size: 124, 254
+  orig: 124, 254
+  offset: 0, 0
+  index: -1
+kuuga_unarmed8/Unarmed8087
+  rotate: false
+  xy: 553, 244
+  size: 129, 221
+  orig: 129, 221
+  offset: 0, 0
+  index: -1
+kuuga_unarmed8/Unarmed8083
+  rotate: false
+  xy: 429, 244
+  size: 122, 258
+  orig: 122, 258
+  offset: 0, 0
+  index: -1
+kuuga_unarmed8/Unarmed8091
+  rotate: false
+  xy: 684, 244
+  size: 100, 222
+  orig: 100, 222
+  offset: 0, 0
+  index: -1
+kuuga_unarmed8/Unarmed8079
+  rotate: false
+  xy: 157, 244
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1

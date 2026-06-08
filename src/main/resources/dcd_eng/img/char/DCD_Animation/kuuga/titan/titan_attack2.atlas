@@ -1,0 +1,62 @@
+
+titan_attack2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titian_attack1/titan_attack1025
+  rotate: false
+  xy: 1, 1
+  size: 250, 319
+  orig: 250, 319
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1019
+  rotate: false
+  xy: 484, 697
+  size: 105, 226
+  orig: 105, 226
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1023
+  rotate: false
+  xy: 133, 697
+  size: 202, 199
+  orig: 202, 199
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1029
+  rotate: false
+  xy: 200, 322
+  size: 127, 373
+  orig: 127, 373
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1027
+  rotate: false
+  xy: 1, 322
+  size: 197, 373
+  orig: 197, 373
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1021
+  rotate: false
+  xy: 337, 697
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1033
+  rotate: false
+  xy: 253, 1
+  size: 156, 266
+  orig: 156, 266
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1031
+  rotate: false
+  xy: 1, 697
+  size: 130, 310
+  orig: 130, 310
+  offset: 0, 0
+  index: -1

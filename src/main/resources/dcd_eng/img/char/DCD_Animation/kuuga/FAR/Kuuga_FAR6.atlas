@@ -1,0 +1,55 @@
+
+Kuuga_FAR6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far/17
+  rotate: false
+  xy: 339, 193
+  size: 162, 141
+  orig: 162, 141
+  offset: 0, 0
+  index: -1
+kuuga_far/15
+  rotate: false
+  xy: 1, 1
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+kuuga_far/20
+  rotate: false
+  xy: 173, 335
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+kuuga_far/18
+  rotate: false
+  xy: 173, 193
+  size: 164, 140
+  orig: 164, 140
+  offset: 0, 0
+  index: -1
+kuuga_far/16
+  rotate: false
+  xy: 1, 193
+  size: 170, 182
+  orig: 170, 182
+  offset: 0, 0
+  index: -1
+kuuga_far/21
+  rotate: false
+  xy: 265, 336
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+kuuga_far/19
+  rotate: false
+  xy: 1, 377
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1

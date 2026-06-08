@@ -1,0 +1,83 @@
+
+kuuga_henshin_effect.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_henshin_effect/kuuga_henshin_effect005
+  rotate: false
+  xy: 806, 831
+  size: 86, 125
+  orig: 86, 125
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect007
+  rotate: false
+  xy: 705, 831
+  size: 99, 162
+  orig: 99, 162
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect003
+  rotate: false
+  xy: 894, 831
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect019
+  rotate: false
+  xy: 1, 1
+  size: 350, 908
+  orig: 350, 908
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect001
+  rotate: false
+  xy: 894, 921
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect011
+  rotate: false
+  xy: 1048, 261
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect017
+  rotate: false
+  xy: 353, 1
+  size: 350, 908
+  orig: 350, 908
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect009
+  rotate: false
+  xy: 1048, 758
+  size: 126, 200
+  orig: 126, 200
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect015
+  rotate: false
+  xy: 705, 1
+  size: 341, 828
+  orig: 341, 828
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/kuuga_henshin_effect013
+  rotate: false
+  xy: 1048, 1
+  size: 143, 258
+  orig: 143, 258
+  offset: 0, 0
+  index: -1
+kuuga_henshin_effect/4
+  rotate: false
+  xy: 1048, 493
+  size: 102, 263
+  orig: 102, 263
+  offset: 0, 0
+  index: -1

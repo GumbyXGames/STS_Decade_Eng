@@ -1,0 +1,48 @@
+
+kuuga_Dragon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_Dragon/4
+  rotate: false
+  xy: 411, 244
+  size: 202, 238
+  orig: 202, 238
+  offset: 0, 0
+  index: -1
+kuuga_Dragon/1
+  rotate: false
+  xy: 1, 245
+  size: 204, 241
+  orig: 204, 241
+  offset: 0, 0
+  index: -1
+kuuga_Dragon/5
+  rotate: false
+  xy: 207, 1
+  size: 204, 241
+  orig: 204, 241
+  offset: 0, 0
+  index: -1
+kuuga_Dragon/2
+  rotate: false
+  xy: 207, 244
+  size: 202, 238
+  orig: 202, 238
+  offset: 0, 0
+  index: -1
+kuuga_Dragon/6
+  rotate: false
+  xy: 1, 1
+  size: 204, 242
+  orig: 204, 242
+  offset: 0, 0
+  index: -1
+kuuga_Dragon/3
+  rotate: false
+  xy: 413, 1
+  size: 202, 237
+  orig: 202, 237
+  offset: 0, 0
+  index: -1

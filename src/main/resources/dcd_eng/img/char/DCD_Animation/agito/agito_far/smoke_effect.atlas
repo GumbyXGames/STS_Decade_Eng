@@ -1,0 +1,104 @@
+
+smoke_effect.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke_effect/smoke_effect006
+  rotate: false
+  xy: 146, 181
+  size: 141, 187
+  orig: 141, 187
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect009
+  rotate: false
+  xy: 289, 181
+  size: 141, 185
+  orig: 141, 185
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect007
+  rotate: false
+  xy: 432, 189
+  size: 135, 189
+  orig: 135, 189
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect004
+  rotate: false
+  xy: 162, 1
+  size: 155, 167
+  orig: 155, 167
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect005
+  rotate: false
+  xy: 1, 1
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect010
+  rotate: false
+  xy: 1, 181
+  size: 143, 185
+  orig: 143, 185
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect012
+  rotate: false
+  xy: 695, 1
+  size: 113, 181
+  orig: 113, 181
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect008
+  rotate: false
+  xy: 432, 1
+  size: 138, 186
+  orig: 138, 186
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect002
+  rotate: false
+  xy: 289, 368
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect013
+  rotate: false
+  xy: 569, 189
+  size: 131, 174
+  orig: 131, 174
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect003
+  rotate: false
+  xy: 569, 365
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect014
+  rotate: false
+  xy: 319, 1
+  size: 101, 169
+  orig: 101, 169
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect001
+  rotate: false
+  xy: 1, 368
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+smoke_effect/smoke_effect011
+  rotate: false
+  xy: 572, 1
+  size: 121, 181
+  orig: 121, 181
+  offset: 0, 0
+  index: -1

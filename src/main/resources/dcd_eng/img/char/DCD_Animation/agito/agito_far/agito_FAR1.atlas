@@ -1,0 +1,153 @@
+
+agito_FAR1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_far1/FAR1001
+  rotate: false
+  xy: 1025, 516
+  size: 114, 258
+  orig: 114, 258
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1006
+  rotate: false
+  xy: 976, 256
+  size: 114, 258
+  orig: 114, 258
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1008
+  rotate: false
+  xy: 909, 516
+  size: 114, 258
+  orig: 114, 258
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1058
+  rotate: false
+  xy: 741, 256
+  size: 117, 258
+  orig: 117, 258
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1063
+  rotate: false
+  xy: 721, 1
+  size: 142, 253
+  orig: 142, 253
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1068
+  rotate: false
+  xy: 560, 1
+  size: 159, 238
+  orig: 159, 238
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1007
+  rotate: false
+  xy: 860, 256
+  size: 114, 258
+  orig: 114, 258
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1163
+  rotate: false
+  xy: 377, 703
+  size: 179, 238
+  orig: 179, 238
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1158
+  rotate: false
+  xy: 734, 705
+  size: 173, 238
+  orig: 173, 238
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1168
+  rotate: false
+  xy: 196, 703
+  size: 179, 238
+  orig: 179, 238
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1199
+  rotate: false
+  xy: 389, 459
+  size: 165, 234
+  orig: 165, 234
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1202
+  rotate: false
+  xy: 389, 223
+  size: 169, 234
+  orig: 169, 234
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1211
+  rotate: false
+  xy: 1, 469
+  size: 198, 232
+  orig: 198, 232
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1208
+  rotate: false
+  xy: 205, 235
+  size: 182, 228
+  orig: 182, 228
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1196
+  rotate: false
+  xy: 558, 705
+  size: 174, 238
+  orig: 174, 238
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1205
+  rotate: false
+  xy: 558, 469
+  size: 181, 234
+  orig: 181, 234
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1231
+  rotate: false
+  xy: 1, 235
+  size: 202, 232
+  orig: 202, 232
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1246
+  rotate: false
+  xy: 201, 469
+  size: 186, 226
+  orig: 186, 226
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1236
+  rotate: false
+  xy: 1, 703
+  size: 193, 230
+  orig: 193, 230
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1256
+  rotate: false
+  xy: 210, 1
+  size: 186, 220
+  orig: 186, 220
+  offset: 0, 0
+  index: -1
+agito_far1/FAR1226
+  rotate: false
+  xy: 1, 1
+  size: 207, 232
+  orig: 207, 232
+  offset: 0, 0
+  index: -1

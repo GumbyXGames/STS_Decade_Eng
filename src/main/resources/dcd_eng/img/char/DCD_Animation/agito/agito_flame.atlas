@@ -1,0 +1,83 @@
+
+agito_flame.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_Flame/1
+  rotate: false
+  xy: 396, 524
+  size: 186, 234
+  orig: 186, 234
+  offset: 0, 0
+  index: -1
+agito_Flame/11
+  rotate: false
+  xy: 1, 281
+  size: 277, 205
+  orig: 277, 205
+  offset: 0, 0
+  index: -1
+agito_Flame/8
+  rotate: false
+  xy: 1, 488
+  size: 197, 261
+  orig: 197, 261
+  offset: 0, 0
+  index: -1
+agito_Flame/10
+  rotate: false
+  xy: 660, 504
+  size: 277, 205
+  orig: 277, 205
+  offset: 0, 0
+  index: -1
+agito_Flame/2
+  rotate: false
+  xy: 200, 747
+  size: 186, 234
+  orig: 186, 234
+  offset: 0, 0
+  index: -1
+agito_Flame/9
+  rotate: false
+  xy: 1, 1
+  size: 406, 278
+  orig: 406, 278
+  offset: 0, 0
+  index: -1
+agito_Flame/7
+  rotate: false
+  xy: 660, 228
+  size: 225, 274
+  orig: 225, 274
+  offset: 0, 0
+  index: -1
+agito_Flame/3
+  rotate: false
+  xy: 817, 1
+  size: 157, 221
+  orig: 157, 221
+  offset: 0, 0
+  index: -1
+agito_Flame/4
+  rotate: false
+  xy: 409, 1
+  size: 406, 225
+  orig: 406, 225
+  offset: 0, 0
+  index: -1
+agito_Flame/6
+  rotate: false
+  xy: 200, 488
+  size: 194, 257
+  orig: 194, 257
+  offset: 0, 0
+  index: -1
+agito_Flame/5
+  rotate: false
+  xy: 409, 228
+  size: 249, 294
+  orig: 249, 294
+  offset: 0, 0
+  index: -1

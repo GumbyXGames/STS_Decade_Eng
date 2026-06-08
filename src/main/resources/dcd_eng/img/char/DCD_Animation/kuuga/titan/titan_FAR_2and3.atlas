@@ -1,0 +1,83 @@
+
+titan_FAR_2and3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titian_attack2/titan_attack2073
+  rotate: false
+  xy: 589, 1
+  size: 146, 225
+  orig: 154, 225
+  offset: 8, 0
+  index: -1
+titian_attack2/titan_attack2083
+  rotate: false
+  xy: 363, 1
+  size: 224, 228
+  orig: 224, 228
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2071
+  rotate: false
+  xy: 737, 182
+  size: 146, 223
+  orig: 146, 223
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2078
+  rotate: false
+  xy: 921, 1
+  size: 98, 277
+  orig: 98, 277
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2058
+  rotate: false
+  xy: 1, 1
+  size: 360, 165
+  orig: 360, 165
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2054
+  rotate: false
+  xy: 1, 334
+  size: 170, 181
+  orig: 170, 181
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2049
+  rotate: false
+  xy: 271, 231
+  size: 186, 173
+  orig: 186, 173
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2047
+  rotate: false
+  xy: 885, 280
+  size: 105, 226
+  orig: 105, 226
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2056
+  rotate: false
+  xy: 737, 1
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1
+titian_attack2/titan_attack2088
+  rotate: false
+  xy: 1, 168
+  size: 268, 164
+  orig: 268, 164
+  offset: 0, 0
+  index: -1
+titian_attack1/titan_attack1035
+  rotate: false
+  xy: 589, 228
+  size: 104, 226
+  orig: 104, 226
+  offset: 0, 0
+  index: -1

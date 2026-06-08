@@ -1,0 +1,48 @@
+
+dragon_attack3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_attack3/Dragon_attack3087
+  rotate: false
+  xy: 734, 229
+  size: 127, 243
+  orig: 127, 243
+  offset: 0, 0
+  index: -1
+dragon_attack3/Dragon_attack3085
+  rotate: false
+  xy: 212, 1
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+dragon_attack3/Dragon_attack3081
+  rotate: false
+  xy: 609, 1
+  size: 123, 350
+  orig: 123, 350
+  offset: 0, 0
+  index: -1
+dragon_attack3/Dragon_attack3083
+  rotate: false
+  xy: 464, 1
+  size: 143, 318
+  orig: 143, 318
+  offset: 0, 0
+  index: -1
+dragon_attack3/Dragon_attack3079
+  rotate: false
+  xy: 1, 1
+  size: 209, 301
+  orig: 209, 301
+  offset: 0, 0
+  index: -1
+dragon_attack3/Dragon_attack3089
+  rotate: false
+  xy: 212, 229
+  size: 238, 215
+  orig: 238, 215
+  offset: 0, 0
+  index: -1

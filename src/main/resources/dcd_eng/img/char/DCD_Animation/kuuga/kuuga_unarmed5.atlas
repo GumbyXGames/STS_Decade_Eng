@@ -1,0 +1,83 @@
+
+kuuga_unarmed5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_unarmed5/Unarmed5091
+  rotate: false
+  xy: 360, 1
+  size: 129, 210
+  orig: 129, 210
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5080
+  rotate: false
+  xy: 576, 227
+  size: 169, 224
+  orig: 169, 224
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5089
+  rotate: false
+  xy: 747, 227
+  size: 173, 216
+  orig: 173, 216
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5095
+  rotate: false
+  xy: 922, 225
+  size: 74, 218
+  orig: 74, 218
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5093
+  rotate: false
+  xy: 491, 1
+  size: 117, 212
+  orig: 117, 212
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5082
+  rotate: false
+  xy: 1, 227
+  size: 189, 228
+  orig: 189, 228
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5097
+  rotate: false
+  xy: 922, 1
+  size: 101, 222
+  orig: 101, 222
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5083
+  rotate: false
+  xy: 1, 1
+  size: 210, 224
+  orig: 210, 224
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5085
+  rotate: false
+  xy: 192, 227
+  size: 194, 220
+  orig: 194, 220
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5087
+  rotate: false
+  xy: 388, 227
+  size: 186, 218
+  orig: 186, 218
+  offset: 0, 0
+  index: -1
+kuuga_unarmed5/Unarmed5079
+  rotate: false
+  xy: 213, 1
+  size: 145, 220
+  orig: 145, 220
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+deno_dengasher_gun1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengasher_gun/dengasher_gun009
+  rotate: false
+  xy: 1, 1
+  size: 252, 230
+  orig: 252, 230
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun020
+  rotate: false
+  xy: 160, 233
+  size: 157, 221
+  orig: 157, 221
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun003
+  rotate: false
+  xy: 890, 224
+  size: 127, 245
+  orig: 127, 245
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun007
+  rotate: false
+  xy: 255, 1
+  size: 252, 230
+  orig: 252, 230
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun015
+  rotate: false
+  xy: 737, 1
+  size: 223, 221
+  orig: 223, 221
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun011
+  rotate: false
+  xy: 701, 224
+  size: 187, 230
+  orig: 187, 230
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun001
+  rotate: false
+  xy: 319, 233
+  size: 126, 246
+  orig: 126, 246
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun017
+  rotate: false
+  xy: 509, 1
+  size: 226, 221
+  orig: 226, 221
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun013
+  rotate: false
+  xy: 509, 224
+  size: 190, 230
+  orig: 190, 230
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun005
+  rotate: false
+  xy: 1, 456
+  size: 125, 241
+  orig: 125, 241
+  offset: 0, 0
+  index: -1
+dengasher_gun/dengasher_gun023
+  rotate: false
+  xy: 1, 233
+  size: 157, 221
+  orig: 157, 221
+  offset: 0, 0
+  index: -1

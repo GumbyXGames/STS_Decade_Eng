@@ -1,0 +1,181 @@
+
+agito_henshin_effect.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_henshin_effect/agito_henshin_effect031
+  rotate: false
+  xy: 1, 1019
+  size: 513, 501
+  orig: 513, 501
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect029
+  rotate: false
+  xy: 515, 1
+  size: 512, 507
+  orig: 512, 507
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect027
+  rotate: false
+  xy: 1, 1
+  size: 512, 509
+  orig: 512, 509
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect025
+  rotate: false
+  xy: 515, 510
+  size: 510, 507
+  orig: 510, 507
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect023
+  rotate: false
+  xy: 1541, 1016
+  size: 506, 503
+  orig: 506, 503
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect021
+  rotate: false
+  xy: 1543, 1
+  size: 492, 502
+  orig: 492, 502
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect019
+  rotate: false
+  xy: 1544, 505
+  size: 473, 477
+  orig: 473, 477
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect017
+  rotate: false
+  xy: 979, 1520
+  size: 428, 415
+  orig: 428, 415
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect015
+  rotate: false
+  xy: 979, 1937
+  size: 373, 366
+  orig: 373, 366
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect013
+  rotate: false
+  xy: 437, 1974
+  size: 358, 362
+  orig: 358, 362
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect011
+  rotate: false
+  xy: 437, 2338
+  size: 356, 353
+  orig: 356, 353
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect009
+  rotate: false
+  xy: 1, 2381
+  size: 348, 351
+  orig: 348, 351
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect049
+  rotate: false
+  xy: 1903, 1521
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect007
+  rotate: false
+  xy: 1354, 1937
+  size: 294, 337
+  orig: 294, 337
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect005
+  rotate: false
+  xy: 1409, 1521
+  size: 289, 321
+  orig: 289, 321
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect047
+  rotate: false
+  xy: 516, 1511
+  size: 461, 461
+  orig: 461, 461
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect003
+  rotate: false
+  xy: 1650, 1844
+  size: 216, 285
+  orig: 216, 285
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect045
+  rotate: false
+  xy: 1, 1949
+  size: 434, 430
+  orig: 434, 430
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect001
+  rotate: false
+  xy: 1700, 1521
+  size: 201, 258
+  orig: 201, 258
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect043
+  rotate: false
+  xy: 1, 1522
+  size: 466, 425
+  orig: 466, 425
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect041
+  rotate: false
+  xy: 516, 1019
+  size: 508, 490
+  orig: 508, 490
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect039
+  rotate: false
+  xy: 1029, 509
+  size: 513, 505
+  orig: 513, 505
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect037
+  rotate: false
+  xy: 1029, 1
+  size: 512, 506
+  orig: 512, 506
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect035
+  rotate: false
+  xy: 1, 512
+  size: 512, 505
+  orig: 512, 505
+  offset: 0, 0
+  index: -1
+agito_henshin_effect/agito_henshin_effect033
+  rotate: false
+  xy: 1027, 1016
+  size: 512, 502
+  orig: 512, 502
+  offset: 0, 0
+  index: -1

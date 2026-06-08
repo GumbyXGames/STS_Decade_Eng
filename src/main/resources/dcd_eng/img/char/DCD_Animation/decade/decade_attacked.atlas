@@ -1,0 +1,27 @@
+
+decade_attacked.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_attacked/attacked004
+  rotate: false
+  xy: 1, 1
+  size: 165, 234
+  orig: 165, 234
+  offset: 0, 0
+  index: -1
+decade_attacked/attacked002
+  rotate: false
+  xy: 168, 1
+  size: 138, 214
+  orig: 138, 214
+  offset: 0, 0
+  index: -1
+decade_attacked/attacked000
+  rotate: false
+  xy: 308, 1
+  size: 148, 193
+  orig: 148, 193
+  offset: 0, 0
+  index: -1

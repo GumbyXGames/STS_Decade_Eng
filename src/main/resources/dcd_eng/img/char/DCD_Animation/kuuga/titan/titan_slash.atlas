@@ -1,0 +1,111 @@
+
+titan_slash.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titan_slash/titan_slash006
+  rotate: false
+  xy: 320, 721
+  size: 144, 250
+  orig: 144, 250
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash004
+  rotate: false
+  xy: 164, 1
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash012
+  rotate: false
+  xy: 1, 725
+  size: 159, 236
+  orig: 159, 236
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash013
+  rotate: false
+  xy: 1, 485
+  size: 159, 238
+  orig: 159, 238
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash005
+  rotate: false
+  xy: 732, 721
+  size: 141, 208
+  orig: 141, 208
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash011
+  rotate: false
+  xy: 162, 485
+  size: 157, 234
+  orig: 157, 234
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash010
+  rotate: false
+  xy: 162, 721
+  size: 156, 232
+  orig: 156, 232
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash001
+  rotate: false
+  xy: 284, 296
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash007
+  rotate: false
+  xy: 466, 721
+  size: 119, 290
+  orig: 119, 290
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash009
+  rotate: false
+  xy: 587, 721
+  size: 143, 213
+  orig: 143, 213
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash002
+  rotate: false
+  xy: 164, 296
+  size: 118, 117
+  orig: 118, 117
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash014
+  rotate: false
+  xy: 1, 243
+  size: 161, 240
+  orig: 161, 240
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash003
+  rotate: false
+  xy: 164, 169
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash008
+  rotate: false
+  xy: 875, 721
+  size: 131, 194
+  orig: 131, 194
+  offset: 0, 0
+  index: -1
+titan_slash/titan_slash015
+  rotate: false
+  xy: 1, 1
+  size: 161, 240
+  orig: 161, 240
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+agito_FAR1_t.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_far1_t/FAR1048
+  rotate: false
+  xy: 205, 235
+  size: 186, 226
+  orig: 186, 226
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1047
+  rotate: false
+  xy: 401, 703
+  size: 192, 230
+  orig: 192, 230
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1050
+  rotate: false
+  xy: 787, 703
+  size: 186, 226
+  orig: 186, 226
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1046
+  rotate: false
+  xy: 1, 235
+  size: 202, 232
+  orig: 202, 232
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1012
+  rotate: false
+  xy: 376, 463
+  size: 158, 232
+  orig: 158, 232
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1043
+  rotate: false
+  xy: 1, 469
+  size: 202, 232
+  orig: 202, 232
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1010
+  rotate: false
+  xy: 536, 463
+  size: 158, 232
+  orig: 158, 232
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1032
+  rotate: false
+  xy: 595, 703
+  size: 190, 226
+  orig: 190, 226
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1042
+  rotate: false
+  xy: 1, 1
+  size: 206, 232
+  orig: 206, 232
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1028
+  rotate: false
+  xy: 392, 1
+  size: 177, 228
+  orig: 177, 228
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1030
+  rotate: false
+  xy: 209, 1
+  size: 181, 226
+  orig: 181, 226
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1027
+  rotate: false
+  xy: 205, 463
+  size: 169, 228
+  orig: 169, 228
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1041
+  rotate: false
+  xy: 1, 703
+  size: 198, 232
+  orig: 198, 232
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1040
+  rotate: false
+  xy: 201, 703
+  size: 198, 232
+  orig: 198, 232
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1007
+  rotate: false
+  xy: 856, 463
+  size: 158, 218
+  orig: 158, 218
+  offset: 0, 0
+  index: -1
+agito_far1_t/FAR1008
+  rotate: false
+  xy: 696, 463
+  size: 158, 218
+  orig: 158, 218
+  offset: 0, 0
+  index: -1

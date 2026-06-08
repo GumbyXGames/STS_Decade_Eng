@@ -1,0 +1,27 @@
+
+hibiki_kurenai_henshin0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hibiki_kurenai_henshin0/1
+  rotate: false
+  xy: 1, 1
+  size: 176, 218
+  orig: 176, 218
+  offset: 0, 0
+  index: -1
+hibiki_kurenai_henshin0/2
+  rotate: false
+  xy: 1, 221
+  size: 176, 217
+  orig: 176, 217
+  offset: 0, 0
+  index: -1
+hibiki_kurenai_henshin0/3
+  rotate: false
+  xy: 179, 1
+  size: 176, 214
+  orig: 176, 214
+  offset: 0, 0
+  index: -1

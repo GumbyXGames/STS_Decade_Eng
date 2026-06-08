@@ -1,0 +1,48 @@
+
+kabuto_normal.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/3
+  rotate: false
+  xy: 105, 1
+  size: 102, 258
+  orig: 102, 258
+  offset: 0, 0
+  index: -1
+normal/6
+  rotate: false
+  xy: 417, 1
+  size: 102, 256
+  orig: 102, 256
+  offset: 0, 0
+  index: -1
+normal/1
+  rotate: false
+  xy: 521, 1
+  size: 102, 254
+  orig: 102, 254
+  offset: 0, 0
+  index: -1
+normal/2
+  rotate: false
+  xy: 313, 1
+  size: 102, 256
+  orig: 102, 256
+  offset: 0, 0
+  index: -1
+normal/4
+  rotate: false
+  xy: 1, 1
+  size: 102, 260
+  orig: 102, 260
+  offset: 0, 0
+  index: -1
+normal/5
+  rotate: false
+  xy: 209, 1
+  size: 102, 258
+  orig: 102, 258
+  offset: 0, 0
+  index: -1

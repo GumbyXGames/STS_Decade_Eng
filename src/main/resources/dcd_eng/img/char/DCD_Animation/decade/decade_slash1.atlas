@@ -1,0 +1,41 @@
+
+decade_slash1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_slash/decade_slash025
+  rotate: false
+  xy: 1, 1
+  size: 190, 234
+  orig: 190, 234
+  offset: 0, 0
+  index: -1
+decade_slash/decade_slash005
+  rotate: false
+  xy: 177, 237
+  size: 131, 274
+  orig: 131, 274
+  offset: 0, 0
+  index: -1
+decade_slash/decade_slash027
+  rotate: false
+  xy: 1, 237
+  size: 174, 218
+  orig: 174, 218
+  offset: 0, 0
+  index: -1
+decade_slash/decade_slash000
+  rotate: false
+  xy: 425, 237
+  size: 103, 254
+  orig: 103, 254
+  offset: 0, 0
+  index: -1
+decade_slash/decade_slash003
+  rotate: false
+  xy: 310, 237
+  size: 113, 254
+  orig: 113, 254
+  offset: 0, 0
+  index: -1

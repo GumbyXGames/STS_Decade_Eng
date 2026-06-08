@@ -1,0 +1,611 @@
+﻿{
+  "KamenRideDecadePower": {
+    "NAME": "KamenRide:Decade",
+    "DESCRIPTIONS": [
+      "Add Slash & Shot to RideBooker, reset every round"
+    ]
+  },
+  "Rollpower": {
+    "NAME": "Roll",
+    "DESCRIPTIONS": [
+      "At #b3 or more Roll, trigger the Roll ability of your status."
+    ]
+  },
+  "SwordFormPower": {
+    "NAME": "Ride Booker:SwordForm",
+    "DESCRIPTIONS": [
+      "When you play 3 Wipe Sword, add 1 Slash to hand. Already used #b",
+      " times"
+    ]
+  },
+  "GunFormPower": {
+    "NAME": "Ride Booker:GunForm",
+    "DESCRIPTIONS": [
+      "When you play 3 Shot, add 1 Blast to hand. Already used #b",
+      " times"
+    ]
+  },
+  "KamenRideKuugaPower": {
+    "NAME": "KamenRide: Kuuga",
+    "DESCRIPTIONS": [
+      "When you play Unarmed or Kuuga Attacks, apply #r SealEnergy, increase your Unarmed Damage by 2, SuperRegen doesn't reduce while in Mighty Form"
+    ]
+  },
+  "KuugaSpecialPower": {
+    "NAME": "Seal Energy",
+    "DESCRIPTIONS": [
+      "Increases the damage enemy receives",
+      ",Max 15",
+      ",Max 3"
+    ]
+  },
+  "SuperRegenPower": {
+    "NAME": "Super Regen",
+    "DESCRIPTIONS": [
+      "Heal #g at end of every round",
+      " Hp",
+      "-1 at start of every round",
+      ""
+    ]
+  },
+  "KuugaDragonPower": {
+    "NAME": "Dragon Form",
+    "DESCRIPTIONS": [
+      "Max SealEnergy becomes 15。 Every 8 times played, apply 1 SideDodge。every 1 Dexterity increase 2% to dodge attacks,cant gain Block from cards"
+    ]
+  },
+  "KuugaTitanPower": {
+    "NAME": "Titan Form",
+    "DESCRIPTIONS": [
+      "Double Block, receive 1 TrueDamage for every card you play, every 1 unBlocked damage gain 1 Block,play Attacks to eliminate all Block。so far receieved #r",
+      " damage"
+    ]
+  },
+  "KuugaPegasusPower": {
+    "NAME": "Pegasus Form",
+    "DESCRIPTIONS": [
+      "Unarmed attacks deal TrueDamage, play Attacks will eliminate all defence buff and Block。increase receieved unBlocked damage by 50%"
+    ]
+  },
+  "PegasusDefendPower": {
+    "NAME": "Super Sense",
+    "DESCRIPTIONS": [
+      "Prevent next 1 attack"
+    ]
+  },
+  "RisingMightyPower": {
+    "NAME": "Rising Mighty Form",
+    "DESCRIPTIONS": [
+      "Attack will apply #rSealEnergy +1,RisingMighty SuperRegen wont decline,Unarmed Attacks will apply 1 #r "
+    ]
+  },
+  "RisingDragonPower": {
+    "NAME": "Rising Dragon Form",
+    "DESCRIPTIONS": [
+      "SealEnergy Max infinity。every 6 times attack,apply 1 SideDodge。every 1 Dexterity increase 3% to dodge attacks,cant gain Block from cards"
+    ]
+  },
+  "RisingPegasusPower": {
+    "NAME": "Rising Pegasus Form",
+    "DESCRIPTIONS": [
+      "Unarmded Attacks deal TrueDamage at RisingPegasusForm,receieved damage decline to 0,at start of round add 1 Rising Blast Pegasus to hand。round count-1,enter  Decade Form after 3 round"
+    ]
+  },
+  "RisingTitanPower": {
+    "NAME": "Rising Titan Form",
+    "DESCRIPTIONS": [
+      "Double gain Block,play card receieve 2 damage,every 1 unBlocked receieved damage gain 2 Block,play Attacks to eliminate all Block。so far receieved #r",
+      " damage"
+    ]
+  },
+  "TimeVentPower": {
+    "NAME": "Time Vent",
+    "DESCRIPTIONS": [
+      "You already reloaded #r times this battle",
+      " times"
+    ]
+  },
+  "Decade_Dash1Power": {
+    "NAME": "Dodge",
+    "DESCRIPTIONS": [
+      "If one's intent is attack, prevent next damage"
+    ]
+  },
+  "Decade_Dash2Power": {
+    "NAME": "Completely Dodge",
+    "DESCRIPTIONS": [
+      "Until next turn, prevents damage from one target's attack"
+    ]
+  },
+  "AutoVajinPower": {
+    "NAME": "Auto Vajin",
+    "DESCRIPTIONS": [
+      "When Attacks deal 3 damage to random enemy,at end of turn gain 8 Block ,prevent next life damage and end summon"
+    ]
+  },
+  "KamenRideAgitoPower": {
+    "NAME": "KamenRide: Agito",
+    "DESCRIPTIONS": [
+      "Every round decline 15 Block instead decline to 0,play 5 Skills/Attacks AgitoLevel+1,add 1 reletive Form card to hand,already play Attacks #y",
+      " cards,play Skills #y",
+      " cards"
+    ]
+  },
+  "AgitoLevelPower": {
+    "NAME": "Agito Level",
+    "DESCRIPTIONS": [
+      "Now #yLv",
+      " next level apply:",
+      " NL Strength+1,Dxterity+1",
+      " NL add 1 Agito to hand",
+      " NL Click Right Reduce 4 Level Use PrometheusPower"
+    ]
+  },
+  "DecadeBlockPower": {
+    "NAME": "Accurate Block",
+    "DESCRIPTIONS": [
+      "If have Block ,receieve damage more than Block,decrease 50% damage ,AccurateBlock-1  "
+    ]
+  },
+  "AgitoPowerPower": {
+    "NAME": "Agito",
+    "DESCRIPTIONS": [
+      "Next Attack will double its damage"
+    ]
+  },
+  "AgitoStormPower": {
+    "NAME": "Storm Form",
+    "DESCRIPTIONS": [
+      "Apply special effects according to your StormLevel, play 5 Attacks to increase StormLevel by 1, right now you need to play #b",
+      " Attacks"
+    ]
+  },
+  "StormLevelPower": {
+    "NAME": "Storm Level",
+    "DESCRIPTIONS": [
+      "Now #yLv",
+      " next level apply: NL ",
+      "Lv2:Dexterity+1",
+      "Lv3:add 1 StormThatBeyondSpirit to hand",
+      "Lv4:Strength+1,Dexterity+2",
+      "Lv5:unlock Trinity Form,coexist with Flame Form, gain Dexterity+1",
+      "Lv6:attack will increase Storm Power",
+      "Lv7:Dexterity+1",
+      "Lv8:Strength+1,Dexterity+2",
+      "Lv9:add 1 Agito to hand",
+      "Lv10:unlock Burning Form (incomplete)",
+      "Max level now"
+    ]
+  },
+  "StormSpecialPower": {
+    "NAME": "Storm That Beyond Spirit",
+    "DESCRIPTIONS": [
+      "Next attack will deal additional damage that Strength affect 2 times,play #r",
+      " times"
+    ]
+  },
+  "SpecialStormPower": {
+    "NAME": "Storm Power",
+    "DESCRIPTIONS": [
+      "Dexterity affects card damage"
+    ]
+  },
+  "AgitoFlamePower": {
+    "NAME": "Flame Form",
+    "DESCRIPTIONS": [
+      "Apply special effects accroding to FlameLevel, play 5 Skills to increase your FlameLevel by 1, right now you need to play #r",
+      " Skills"
+    ]
+  },
+  "FlameLevelPower": {
+    "NAME": "Flame Level",
+    "DESCRIPTIONS": [
+      "Now #yLv",
+      " next level apply: NL ",
+      "Lv2:Strength+1,add 1 FlameThatBeyondSence to hand ",
+      " Lv3:no",
+      " Lv4:Strength+2,Dexterity+1",
+      " Lv5:unlock Trinity Form,coexist with Storm Form gain Strength+1",
+      " Lv6:Strength+1",
+      " Lv7:damage you receieved will increase FlamePower",
+      " Lv8:Strength+2,Dexterity+1",
+      " Lv9:add 1 Agito to hand",
+      " Lv10:unlock Burning Form (incomplete)",
+      "Max level now"
+    ]
+  },
+  "SpecialFlamePower": {
+    "NAME": "Flame Power",
+    "DESCRIPTIONS": [
+      "Deal counter damage according to Strength #r",
+      " times"
+    ]
+  },
+  "UnarmedAttack3Power": {
+    "NAME": "Strike Down",
+    "DESCRIPTIONS": [
+      "Damage dealt is decreased by 60% this round"
+    ]
+  },
+  "XuanyunPower": {
+    "NAME": "Stun",
+    "DESCRIPTIONS": [
+      "Unable to move"
+    ]
+  },
+  "FlameSpecialPower": {
+    "NAME": "Flame That Beyond Sense",
+    "DESCRIPTIONS": [
+      " Next attack damage will be replaced by damage that Dexterity affect 3 times. Using a non-Attack card will cancel this effect"
+    ]
+  },
+  "KamenRideRyukiPower": {
+    "NAME": "KamenRide: Ryuki",
+    "DESCRIPTIONS": [
+      "Add Ryuki cards to RideBooker,reset every battle"
+    ]
+  },
+  "DragClawPower": {
+    "NAME": "Dragon Fire",
+    "DESCRIPTIONS": [
+      "Enhance Ryuki Attacks and FinalAttacks"
+    ]
+  },
+  "DragShieldPower": {
+    "NAME": "DragShield",
+    "DESCRIPTIONS": [
+      "Enhance DragSaber,DragClaw。prevent damage less 6,decrease 5 damage if damage more 6,decline 1 after works",
+      ",double the Block Dragreder give",
+      ",cooperate with Dragreder to counter,damage increase",
+      "%"
+    ]
+  },
+  "DragrederPower": {
+    "NAME": "Dragreder",
+    "DESCRIPTIONS": [
+      "At end of round deal 10 damage to all enemies,gain 10 Block,every attacked enemy gain DragonFire+1,if have DragShield,deal counter damage 10% your Max Hp",
+      "At end of round deal 20 damage to all enemies,gain 10 Block,every attacked enemy gain DragonFire+2,if have DragShield,deal counter damage 20% your Max Hp",
+      " NL OriginalFlame:double Dragreder damage,gain double DragonFire",
+      " NL DragonStrike:Exhaust 2 DragonFire to deal another damage when play non-Ryuki Attacks"
+    ]
+  },
+  "MirrorWorldPower": {
+    "NAME": "Mirror World",
+    "DESCRIPTIONS": [
+      "At end of round cost 10% HP to everyone, enhance Ryuki cards, kill 1 enemy heal 10%HP at Ryuki Status, Dragreder round+1"
+    ]
+  },
+  "KuugaRollpower": {
+    "NAME": "Seal Counter",
+    "DESCRIPTIONS": [
+      "Receive attack apply 1 SealEnergy to enemy"
+    ]
+  },
+  "Flex1": {
+    "NAME": "Brief Strength",
+    "DESCRIPTIONS": [
+      "At end of round #r",
+      " Strength"
+    ]
+  },
+  "Flex2": {
+    "NAME": "Brief Dexterity",
+    "DESCRIPTIONS": [
+      "At end of round #g",
+      " Dexterity"
+    ]
+  },
+  "KamenRideFaizPower": {
+    "NAME": "KamenRide: Faiz",
+    "DESCRIPTIONS": [
+      "At end of round #r1 PhotonStream,",
+      "Click charge point to active or recharge driver"
+    ]
+  },
+  "KamenRideBladePower": {
+    "NAME": "KamenRide: Blade",
+    "DESCRIPTIONS": [
+      "Add Undead cards to RideBooker,reset every battle NL if no Block,at end of round gain #b5 Block"
+    ]
+  },
+  "BladeSlashPower": {
+    "NAME": "Enhance Slash",
+    "DESCRIPTIONS": [
+      "Increase Armed attacks #r",
+      " point。",
+      " point。when play Armed cards #r",
+      "0% to play again to enemy(Max 50%)"
+    ]
+  },
+  "BladeBeatPower": {
+    "NAME": "Enhance Punch",
+    "DESCRIPTIONS": [
+      "Increase Unarmed attacks #r",
+      " point。",
+      " point。when play Unarmed cards #r",
+      "0% to play again to enemy(Max 50%)"
+    ]
+  },
+  "BladeKickPower": {
+    "NAME": "Enhance Kick",
+    "DESCRIPTIONS": [
+      "Double FinalAttack damage, Max 1 level。"
+    ]
+  },
+  "BladeMachPower": {
+    "NAME": "Mach",
+    "DESCRIPTIONS": [
+      "For the rest of this turn, draw 1 card when you play a Skill。"
+    ]
+  },
+  "BladeThunderPower": {
+    "NAME": "Thunder",
+    "DESCRIPTIONS": [
+      "Every level increase damage+1,ThunderDamage+3,use other cards (not Blade),eliminate effect"
+    ]
+  },
+  "BladeJackPower": {
+    "NAME": "Jack Form",
+    "DESCRIPTIONS": [
+      "Reset 2 Undead cards (small number first), if you have no Block at the end of round, gain Block+3。"
+    ]
+  },
+  "JackFlightPower": {
+    "NAME": "Flight",
+    "DESCRIPTIONS": [
+      "Decrease the damage you recieve by 50%。"
+    ]
+  },
+  "KamenRideHibikiPower": {
+    "NAME": "KamenRide: Hibiki",
+    "DESCRIPTIONS": [
+      "Recover AP(ActionPoint) #r1 every round"
+    ]
+  },
+  "FeverPower": {
+    "NAME": "FEVER!!",
+    "DESCRIPTIONS": [
+      "Drum willnot automanticaly trigger and gain effect,CP,Enhance drum effect,gain new drum effect,wrong trigger will half CP,every play 1 non-Hibiki cards ,CP-1,CP less 10 out of Status"
+    ]
+  },
+  "HibikiRollPower": {
+    "NAME": "Echo",
+    "DESCRIPTIONS": [
+      "Receieve damage 50% gain 1 AP",
+      "Attack gain 1 AP"
+    ]
+  },
+  "HibikiBurnPower": {
+    "NAME": "Burning",
+    "DESCRIPTIONS": [
+      "Damage decrease 25%,decline every round",
+      "Life(Max Hp 1/16,at least 1)",
+      "Damage decrease 25%,decline every round",
+      "Life(Max Hp 1/16,at least 1)"
+    ]
+  },
+  "HibikiKurenaiSpecialPower": {
+    "NAME": "Raging Flame",
+    "DESCRIPTIONS": [
+      "Increase Attack damage by 1, Decrease level by 1 after works and start of round, exit HibikiKurenai status when RagingFlame is 0 "
+    ]
+  },
+  "HibikiKurenaiPower": {
+    "NAME": "Hibiki Kurenai",
+    "DESCRIPTIONS": [
+      "Eliminate drum UI,enhance Hibiki Attacka, at end of round apply Burning half the RagingFlame to all enemies,out of status after loss all RagingFlame"
+    ]
+  },
+  "KamenRideKabutoPower": {
+    "NAME": "KamenRide: Kabuto",
+    "DESCRIPTIONS": [
+      "After play 1 card ,drew 2 discard 2,discard attacks will increase next damage X4,discard attacks will gain Block X4,or draw 1 card"
+    ]
+  },
+  "KabutoStrengthPower": {
+    "NAME": "Photon:Power",
+    "DESCRIPTIONS": [
+      "Deal damage X4, works for 1 card"
+    ]
+  },
+  "KabutoDexterityPower": {
+    "NAME": "Photon:Swift",
+    "DESCRIPTIONS": [
+      "Gain Block X4, works for 1 card"
+    ]
+  },
+  "PhotonAccelerationPower": {
+    "NAME": "Photon Acceleration",
+    "DESCRIPTIONS": [
+      "When drew 1Photon, drew 1 another, Exhaust Photon gain 1 energy, when discard/Exhaust 3 Photon,add 1 Clock Up to top of draw pile"
+    ]
+  },
+  "KabutoMaskedPower": {
+    "NAME": "Masked Form",
+    "DESCRIPTIONS": [
+      "Eliminate Kabuto effect, prevent all damage that would be 5 or less, all other damage is decreased by 3. When discard/Exhaust 3 Photon add 1 Put On to hand.  You can't use Clock Up"
+    ]
+  },
+  "Phone_Mark": {
+    "NAME": "Photon Mark",
+    "DESCRIPTIONS": [
+      "Attack marked enemy gain PhotonStream+1, eliminate mark"
+    ]
+  },
+  "DragonDashPower": {
+    "NAME": "Side Dash",
+    "DESCRIPTIONS": [
+      "Complete dodge 1 attack"
+    ]
+  },
+  "RisingMightySpecialPower": {
+    "NAME": "Combo",
+    "DESCRIPTIONS": [
+      "Every level have 30% to choose 1 attacks cost 0 to hand  after you play attacks,Max 3,eliminate after works。"
+    ]
+  },
+  "DecadeViolentEmotionPower": {
+    "NAME": "Decade Violent Form",
+    "DESCRIPTIONS": [
+      "Choose all Rider cards cost 0 from RiderBooker,enhance Limit Enhance cards and active it "
+    ]
+  },
+  "KamenRideDenOPower": {
+    "NAME": "KamenRide:Den-O",
+    "DESCRIPTIONS": [
+      "Add Imagin cards to RideBooker, reset every round NL Count 5,add 1 Climax to hand, count 7 next Imagin 100% trigger effect, eliminate count",
+      " NL retain #r hand cards remain #y",
+      " round"
+    ]
+  },
+  "DenOAwePower": {
+    "NAME": "Overawe",
+    "DESCRIPTIONS": [
+      "Deal less damage",
+      "0%, at end of round decline level,Max 10"
+    ]
+  },
+  "DrawCardUpPower": {
+    "NAME": "Orbital acceleration",
+    "DESCRIPTIONS": [
+      "Mutiple every round draw cards ",
+      "Cards"
+    ]
+  },
+  "CardMaxSizeUpPower": {
+    "NAME": "Dimension compartment",
+    "DESCRIPTIONS": [
+      "Max hand cards increased",
+      "Cards,now Max hand ",
+      "Cards"
+    ]
+  },
+  "XuanyunResistancePower": {
+    "NAME": "Stun Resistance",
+    "DESCRIPTIONS": [
+      "Resistance at 3,next 3 cant be stuned",
+      "Resistance last for",
+      "Round"
+    ]
+  },
+  "DenOSpecialPower": {
+    "NAME": "Singular point",
+    "DESCRIPTIONS": [
+      "Have this status,eliminate all non-Rider buff,last Imagin cards will change effect",
+      "Apply triple Strength,Dexterity to the summon of eliminate buff",
+      "Apply 5 times Block to the summon of eliminate buff/debuff",
+      "Heal 15 times to the summon of eliminate debuff",
+      "If eliminate more debuff than buff,stun all enemies,otherwise every attack gain 2 Den-O count",
+      "Eliminate all debuff,choose 1 Climax effect to trigger,eliminate all debuff at start of round,double Strength ,Dexterity",
+      " #y this round apply:  NL ",
+      " NL  #r next round apply:  NL ",
+      "No effect"
+    ]
+  },
+  "DenORodSpecialPower": {
+    "NAME": "Fight Back",
+    "DESCRIPTIONS": [
+      "For this found, deal damage equal to twice the Block when enemy attacks"
+    ]
+  },
+  "KamenRideKivaPower": {
+    "NAME": "KamenRide: Kiva",
+    "DESCRIPTIONS": [
+      "Kiva card effects change, EmperorPower can replace energy to play cards, Increase damage of Unarmed attacks by 2, out of Kiva #r loss Hp twice the lost EmperorPower"
+    ]
+  },
+  "KivaHungryPower": {
+    "NAME": "Hungry for blood",
+    "DESCRIPTIONS": [
+      "At start of round apply 1 Vulnerable,loss 5 Hp,heal 20% damage you deal"
+    ]
+  },
+  "KivaHungry2Power": {
+    "NAME": "Bloody strike",
+    "DESCRIPTIONS": [
+      "At start of round apply 1 Vulnerable abd play all drawn attacks, heal 30% of the damage you deal"
+    ]
+  },
+  "KivaHungry3Power": {
+    "NAME": "Bloodthirsty",
+    "DESCRIPTIONS": [
+      "At start of round cost all enemies 5 Max Hp and add Max Hp for Kiva, gain EmperorPower equal to Max Hp, heal 40% of the damage you deal"
+    ]
+  },
+  "KivaLacerationPower": {
+    "NAME": "Laceration",
+    "DESCRIPTIONS": [
+      "At start of round deal",
+      "Damage,when attacks,every 5 increase 10% damage heal for Hp,Max 30%。",
+      "Now attacks will heal Hp",
+      "0%"
+    ]
+  },
+  "KivaGaruruPower": {
+    "NAME": "Garuru Form",
+    "DESCRIPTIONS": [
+      "Apply 3Laceration after Attacks",
+      ", apply Laceration+2 at Bloodthirsty,double heal Hp by Laceration"
+    ]
+  },
+  "KivaBasshaaPower": {
+    "NAME": "Basshaa Form",
+    "DESCRIPTIONS": [
+      "At start of round apply 2Laceration to all enemiea, apply 1 Laceration after use Skills",
+      ", apply 5 Block and Freeze to random enemy at Bloodthirsty"
+    ]
+  },
+  "KivaDoggaPower": {
+    "NAME": "Dogga Form",
+    "DESCRIPTIONS": [
+      "Receieved Hp damage will blocked by EmperorPower, apply 5 Laceration to attacker",
+      ", heal Hp gain 3 EmperorPower at Bloodthirsty"
+    ]
+  },
+  "KivaFrozenPower": {
+    "NAME": "Freeze",
+    "DESCRIPTIONS": [
+      "When break Block,deal damage twice the Laceration apply 3 Laceration, now deal",
+      "damage, works for this round"
+    ]
+  },
+  "RemoveFormRidePower": {
+    "NAME": "Time Limit",
+    "DESCRIPTIONS": [
+      "Pass",
+      "Round will cancel current Form"
+    ]
+  },
+  "RideBookerAttackPower": {
+    "NAME": "Slash",
+    "DESCRIPTIONS": [
+      "Gain 1 energy after use Armed Attacks"
+    ]
+  },
+  "DecadeSpecialSkillPower": {
+    "NAME": "Power of justice",
+    "DESCRIPTIONS": [
+      "Card rewards +1,Max 1"
+    ]
+  },
+  "DecadeHungryPower": {
+    "NAME": "Hemophagia",
+    "DESCRIPTIONS": [
+      "Heal Hp equal to 20% damage you deal"
+    ]
+  },
+  "KivaFARFrozenPower": {
+    "NAME": "Freeze",
+    "DESCRIPTIONS": [
+      "When break Block, deal damage twice the Laceration apply 3 Laceration, now deal",
+      "damage, works for this round"
+    ]
+  },
+  "DragrederFlightPower": {
+    "NAME": "Legendary Advent",
+    "DESCRIPTIONS": [
+      "When summon Dragreder ,deal 20 damage to all enemies,gain 3 DragonFire"
+    ]
+  }
+
+}

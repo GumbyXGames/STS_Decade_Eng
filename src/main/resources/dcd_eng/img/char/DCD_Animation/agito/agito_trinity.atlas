@@ -1,0 +1,118 @@
+
+agito_trinity.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_Trinity/7
+  rotate: false
+  xy: 317, 280
+  size: 377, 229
+  orig: 377, 229
+  offset: 0, 0
+  index: -1
+agito_Trinity/13
+  rotate: false
+  xy: 540, 790
+  size: 306, 217
+  orig: 306, 217
+  offset: 0, 0
+  index: -1
+agito_Trinity/1
+  rotate: false
+  xy: 773, 1
+  size: 246, 277
+  orig: 246, 277
+  offset: 0, 0
+  index: -1
+agito_Trinity/8
+  rotate: false
+  xy: 1, 511
+  size: 358, 218
+  orig: 358, 218
+  offset: 0, 0
+  index: -1
+agito_Trinity/5
+  rotate: false
+  xy: 1, 217
+  size: 314, 277
+  orig: 314, 277
+  offset: 0, 0
+  index: -1
+agito_Trinity/12
+  rotate: false
+  xy: 670, 559
+  size: 305, 229
+  orig: 305, 229
+  offset: 0, 0
+  index: -1
+agito_Trinity/14
+  rotate: false
+  xy: 292, 1243
+  size: 277, 217
+  orig: 277, 217
+  offset: 0, 0
+  index: -1
+agito_Trinity/3
+  rotate: false
+  xy: 696, 280
+  size: 270, 277
+  orig: 270, 277
+  offset: 0, 0
+  index: -1
+agito_Trinity/11
+  rotate: false
+  xy: 361, 511
+  size: 307, 231
+  orig: 307, 231
+  offset: 0, 0
+  index: -1
+agito_Trinity/10
+  rotate: false
+  xy: 1, 1
+  size: 454, 214
+  orig: 454, 214
+  offset: 0, 0
+  index: -1
+agito_Trinity/6
+  rotate: false
+  xy: 1, 1243
+  size: 289, 221
+  orig: 289, 221
+  offset: 0, 0
+  index: -1
+agito_Trinity/4
+  rotate: false
+  xy: 457, 1
+  size: 314, 277
+  orig: 314, 277
+  offset: 0, 0
+  index: -1
+agito_Trinity/2
+  rotate: false
+  xy: 292, 744
+  size: 246, 277
+  orig: 246, 277
+  offset: 0, 0
+  index: -1
+agito_Trinity/15
+  rotate: false
+  xy: 1, 1023
+  size: 293, 218
+  orig: 293, 218
+  offset: 0, 0
+  index: -1
+agito_Trinity/9
+  rotate: false
+  xy: 1, 731
+  size: 289, 242
+  orig: 289, 242
+  offset: 0, 0
+  index: -1
+agito_Trinity/16
+  rotate: false
+  xy: 540, 1009
+  size: 293, 218
+  orig: 293, 218
+  offset: 0, 0
+  index: -1

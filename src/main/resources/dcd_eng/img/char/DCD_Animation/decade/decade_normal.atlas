@@ -1,0 +1,48 @@
+
+decade_normal.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_normal/6
+  rotate: false
+  xy: 335, 1
+  size: 106, 255
+  orig: 106, 255
+  offset: 0, 0
+  index: -1
+decade_normal/4
+  rotate: false
+  xy: 1, 1
+  size: 110, 259
+  orig: 110, 259
+  offset: 0, 0
+  index: -1
+decade_normal/2
+  rotate: false
+  xy: 443, 1
+  size: 106, 255
+  orig: 106, 255
+  offset: 0, 0
+  index: -1
+decade_normal/3
+  rotate: false
+  xy: 224, 1
+  size: 109, 258
+  orig: 109, 258
+  offset: 0, 0
+  index: -1
+decade_normal/5
+  rotate: false
+  xy: 113, 1
+  size: 109, 258
+  orig: 109, 258
+  offset: 0, 0
+  index: -1
+decade_normal/1
+  rotate: false
+  xy: 551, 1
+  size: 105, 254
+  orig: 105, 254
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+faiz_henshin_P.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hibiki_henshin_P/4
+  rotate: false
+  xy: 109, 1
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+hibiki_henshin_P/3
+  rotate: false
+  xy: 109, 83
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+hibiki_henshin_P/2
+  rotate: false
+  xy: 189, 83
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+kamenride/kamenride0
+  rotate: false
+  xy: 1, 1
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+hibiki_henshin_P/1
+  rotate: false
+  xy: 205, 1
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1

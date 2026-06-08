@@ -1,0 +1,55 @@
+
+deno_dengasher_ax.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengasher_ax/2
+  rotate: false
+  xy: 153, 273
+  size: 133, 222
+  orig: 133, 222
+  offset: 0, 0
+  index: -1
+dengasher_ax/3
+  rotate: false
+  xy: 244, 1
+  size: 133, 270
+  orig: 133, 270
+  offset: 0, 0
+  index: -1
+dengasher_ax/1
+  rotate: false
+  xy: 1, 249
+  size: 150, 234
+  orig: 150, 234
+  offset: 0, 0
+  index: -1
+dengasher_ax/7
+  rotate: false
+  xy: 514, 1
+  size: 189, 145
+  orig: 189, 145
+  offset: 0, 0
+  index: -1
+dengasher_ax/5
+  rotate: false
+  xy: 1, 1
+  size: 241, 246
+  orig: 241, 246
+  offset: 0, 0
+  index: -1
+dengasher_ax/6
+  rotate: false
+  xy: 379, 264
+  size: 222, 142
+  orig: 222, 142
+  offset: 0, 0
+  index: -1
+dengasher_ax/4
+  rotate: false
+  xy: 379, 1
+  size: 133, 261
+  orig: 133, 261
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+decade_blast.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_blast/Decade_Blast008
+  rotate: false
+  xy: 595, 763
+  size: 198, 252
+  orig: 198, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast003
+  rotate: false
+  xy: 926, 1
+  size: 97, 254
+  orig: 97, 254
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast015
+  rotate: false
+  xy: 1, 1
+  size: 324, 260
+  orig: 324, 260
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast000
+  rotate: false
+  xy: 376, 520
+  size: 99, 254
+  orig: 99, 254
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast019
+  rotate: false
+  xy: 595, 509
+  size: 251, 252
+  orig: 251, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast017
+  rotate: false
+  xy: 1, 517
+  size: 266, 252
+  orig: 266, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast006
+  rotate: false
+  xy: 269, 520
+  size: 105, 254
+  orig: 105, 254
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast022
+  rotate: false
+  xy: 848, 509
+  size: 125, 252
+  orig: 125, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast013
+  rotate: false
+  xy: 642, 255
+  size: 282, 252
+  orig: 282, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast020
+  rotate: false
+  xy: 795, 763
+  size: 198, 252
+  orig: 198, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast012
+  rotate: false
+  xy: 642, 1
+  size: 282, 252
+  orig: 282, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast016
+  rotate: false
+  xy: 327, 1
+  size: 313, 263
+  orig: 313, 263
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast014
+  rotate: false
+  xy: 1, 263
+  size: 324, 252
+  orig: 324, 252
+  offset: 0, 0
+  index: -1
+decade_blast/Decade_Blast018
+  rotate: false
+  xy: 327, 266
+  size: 266, 252
+  orig: 266, 252
+  offset: 0, 0
+  index: -1

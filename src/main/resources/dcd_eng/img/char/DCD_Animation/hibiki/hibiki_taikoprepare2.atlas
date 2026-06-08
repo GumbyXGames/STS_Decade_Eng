@@ -1,0 +1,41 @@
+
+hibiki_taikoprepare2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hibiki_taikoprepare/9
+  rotate: false
+  xy: 1, 452
+  size: 218, 225
+  orig: 218, 225
+  offset: 0, 0
+  index: -1
+hibiki_taikoprepare/8
+  rotate: false
+  xy: 1, 225
+  size: 242, 225
+  orig: 242, 225
+  offset: 0, 0
+  index: -1
+hibiki_taikoprepare/7
+  rotate: false
+  xy: 309, 1
+  size: 202, 218
+  orig: 202, 218
+  offset: 0, 0
+  index: -1
+hibiki_taikoprepare/6
+  rotate: false
+  xy: 1, 1
+  size: 306, 222
+  orig: 306, 222
+  offset: 0, 0
+  index: -1
+hibiki_taikoprepare/5
+  rotate: false
+  xy: 245, 225
+  size: 232, 234
+  orig: 232, 234
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+kuuga_far_fire.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far_fire/kuuga_far_fire079
+  rotate: false
+  xy: 1162, 745
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire051
+  rotate: false
+  xy: 388, 1117
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire029
+  rotate: false
+  xy: 388, 373
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire013
+  rotate: false
+  xy: 775, 1861
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire047
+  rotate: false
+  xy: 388, 1489
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire011
+  rotate: false
+  xy: 1, 745
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire007
+  rotate: false
+  xy: 388, 745
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire017
+  rotate: false
+  xy: 775, 1
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire045
+  rotate: false
+  xy: 1, 1
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire031
+  rotate: false
+  xy: 775, 1117
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire009
+  rotate: false
+  xy: 775, 745
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire019
+  rotate: false
+  xy: 1, 1489
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire023
+  rotate: false
+  xy: 1, 3721
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire069
+  rotate: false
+  xy: 775, 373
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire043
+  rotate: false
+  xy: 388, 2233
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire063
+  rotate: false
+  xy: 1549, 745
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire001
+  rotate: false
+  xy: 1, 1117
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire053
+  rotate: false
+  xy: 1, 2605
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire059
+  rotate: false
+  xy: 1549, 1489
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire025
+  rotate: false
+  xy: 1, 2233
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire077
+  rotate: false
+  xy: 388, 1
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire075
+  rotate: false
+  xy: 1, 1861
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire055
+  rotate: false
+  xy: 388, 1861
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire057
+  rotate: false
+  xy: 1549, 1861
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire027
+  rotate: false
+  xy: 1162, 1
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire035
+  rotate: false
+  xy: 1549, 373
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire067
+  rotate: false
+  xy: 1, 3349
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire005
+  rotate: false
+  xy: 1162, 1489
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire021
+  rotate: false
+  xy: 1, 2977
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire073
+  rotate: false
+  xy: 1, 373
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire061
+  rotate: false
+  xy: 775, 1489
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire039
+  rotate: false
+  xy: 1162, 373
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire041
+  rotate: false
+  xy: 1549, 1
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire033
+  rotate: false
+  xy: 1162, 1117
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire049
+  rotate: false
+  xy: 775, 2233
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire065
+  rotate: false
+  xy: 1549, 1117
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1
+kuuga_far_fire/kuuga_far_fire015
+  rotate: false
+  xy: 1162, 1861
+  size: 385, 370
+  orig: 385, 370
+  offset: 0, 0
+  index: -1

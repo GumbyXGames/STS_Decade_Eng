@@ -1,0 +1,27 @@
+
+kuuga_attacked.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_attacked/3
+  rotate: false
+  xy: 1, 1
+  size: 140, 198
+  orig: 140, 198
+  offset: 0, 0
+  index: -1
+kuuga_attacked/1
+  rotate: false
+  xy: 271, 1
+  size: 116, 222
+  orig: 116, 222
+  offset: 0, 0
+  index: -1
+kuuga_attacked/2
+  rotate: false
+  xy: 143, 1
+  size: 126, 214
+  orig: 126, 214
+  offset: 0, 0
+  index: -1

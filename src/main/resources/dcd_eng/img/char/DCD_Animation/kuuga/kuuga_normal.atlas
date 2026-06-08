@@ -1,0 +1,41 @@
+
+kuuga_normal.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_normal/9
+  rotate: false
+  xy: 165, 1
+  size: 162, 229
+  orig: 162, 229
+  offset: 0, 0
+  index: -1
+kuuga_normal/10
+  rotate: false
+  xy: 1, 1
+  size: 162, 230
+  orig: 162, 230
+  offset: 0, 0
+  index: -1
+kuuga_normal/8
+  rotate: false
+  xy: 1, 233
+  size: 162, 229
+  orig: 162, 229
+  offset: 0, 0
+  index: -1
+kuuga_normal/7
+  rotate: false
+  xy: 329, 1
+  size: 162, 226
+  orig: 162, 226
+  offset: 0, 0
+  index: -1
+kuuga_normal/6
+  rotate: false
+  xy: 329, 229
+  size: 162, 225
+  orig: 162, 225
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+kuuga_Pegasus.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_Pegasus/6
+  rotate: false
+  xy: 1, 1
+  size: 222, 233
+  orig: 222, 233
+  offset: 0, 0
+  index: -1
+kuuga_Pegasus/1
+  rotate: false
+  xy: 225, 1
+  size: 222, 231
+  orig: 222, 231
+  offset: 0, 0
+  index: -1
+kuuga_Pegasus/4
+  rotate: false
+  xy: 225, 234
+  size: 222, 228
+  orig: 222, 228
+  offset: 0, 0
+  index: -1
+kuuga_Pegasus/2
+  rotate: false
+  xy: 449, 229
+  size: 219, 228
+  orig: 219, 228
+  offset: 0, 0
+  index: -1
+kuuga_Pegasus/5
+  rotate: false
+  xy: 1, 236
+  size: 222, 232
+  orig: 222, 232
+  offset: 0, 0
+  index: -1
+kuuga_Pegasus/3
+  rotate: false
+  xy: 449, 1
+  size: 221, 226
+  orig: 221, 226
+  offset: 0, 0
+  index: -1

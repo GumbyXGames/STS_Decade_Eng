@@ -1,0 +1,230 @@
+
+pegasus_far_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pegasus_far_effect2/pegasus_far_effect2002
+  rotate: false
+  xy: 1, 1
+  size: 450, 420
+  orig: 450, 420
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect008
+  rotate: false
+  xy: 725, 1059
+  size: 65, 491
+  orig: 65, 491
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2003
+  rotate: false
+  xy: 453, 395
+  size: 388, 344
+  orig: 388, 344
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2008
+  rotate: false
+  xy: 1639, 1
+  size: 396, 376
+  orig: 396, 376
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect003
+  rotate: false
+  xy: 792, 946
+  size: 48, 374
+  orig: 48, 374
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1001
+  rotate: false
+  xy: 307, 1512
+  size: 57, 129
+  orig: 57, 129
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2004
+  rotate: false
+  xy: 1639, 379
+  size: 380, 384
+  orig: 380, 384
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2009
+  rotate: false
+  xy: 843, 395
+  size: 396, 328
+  orig: 396, 328
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect005
+  rotate: false
+  xy: 307, 1065
+  size: 58, 445
+  orig: 58, 445
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2010
+  rotate: false
+  xy: 1, 423
+  size: 392, 334
+  orig: 392, 334
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect004
+  rotate: false
+  xy: 1, 1255
+  size: 54, 409
+  orig: 54, 409
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect006
+  rotate: false
+  xy: 243, 1065
+  size: 62, 473
+  orig: 62, 473
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2011
+  rotate: false
+  xy: 1241, 395
+  size: 364, 336
+  orig: 364, 336
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1006
+  rotate: false
+  xy: 749, 741
+  size: 91, 203
+  orig: 91, 203
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect001
+  rotate: false
+  xy: 395, 423
+  size: 40, 302
+  orig: 40, 302
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1007
+  rotate: false
+  xy: 57, 1255
+  size: 95, 217
+  orig: 95, 217
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2005
+  rotate: false
+  xy: 1249, 1
+  size: 388, 392
+  orig: 388, 392
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2012
+  rotate: false
+  xy: 843, 725
+  size: 360, 336
+  orig: 360, 336
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1005
+  rotate: false
+  xy: 154, 1255
+  size: 85, 189
+  orig: 85, 189
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2013
+  rotate: false
+  xy: 1205, 733
+  size: 352, 318
+  orig: 352, 318
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1008
+  rotate: false
+  xy: 263, 759
+  size: 97, 229
+  orig: 97, 229
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1004
+  rotate: false
+  xy: 57, 1552
+  size: 79, 174
+  orig: 79, 174
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2006
+  rotate: false
+  xy: 855, 1
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2014
+  rotate: false
+  xy: 395, 741
+  size: 352, 316
+  orig: 352, 316
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2001
+  rotate: false
+  xy: 1, 1065
+  size: 240, 188
+  orig: 240, 188
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2007
+  rotate: false
+  xy: 453, 1
+  size: 400, 392
+  orig: 400, 392
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1003
+  rotate: false
+  xy: 1, 1728
+  size: 70, 158
+  orig: 70, 158
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect002
+  rotate: false
+  xy: 154, 1446
+  size: 45, 337
+  orig: 45, 337
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2015
+  rotate: false
+  xy: 395, 1059
+  size: 328, 316
+  orig: 328, 316
+  offset: 0, 0
+  index: -1
+pegasus_far_effect3/pegasus_far_effect007
+  rotate: false
+  xy: 1559, 733
+  size: 65, 499
+  orig: 65, 499
+  offset: 0, 0
+  index: -1
+pegasus_far_effect/pegasus_far_effect1002
+  rotate: false
+  xy: 73, 1728
+  size: 65, 145
+  orig: 65, 145
+  offset: 0, 0
+  index: -1
+pegasus_far_effect2/pegasus_far_effect2016
+  rotate: false
+  xy: 1, 759
+  size: 260, 304
+  orig: 260, 304
+  offset: 0, 0
+  index: -1

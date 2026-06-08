@@ -1,0 +1,195 @@
+
+taiko_appear.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taiko_appear/taiko_appear014
+  rotate: false
+  xy: 140, 781
+  size: 82, 232
+  orig: 82, 232
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear013
+  rotate: false
+  xy: 1, 805
+  size: 77, 218
+  orig: 77, 218
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear012
+  rotate: false
+  xy: 876, 1
+  size: 72, 205
+  orig: 72, 205
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear011
+  rotate: false
+  xy: 950, 1
+  size: 62, 180
+  orig: 62, 180
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear010
+  rotate: false
+  xy: 950, 183
+  size: 59, 167
+  orig: 59, 167
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear009
+  rotate: false
+  xy: 80, 805
+  size: 54, 155
+  orig: 54, 155
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear008
+  rotate: false
+  xy: 876, 208
+  size: 49, 141
+  orig: 49, 141
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear007
+  rotate: false
+  xy: 224, 781
+  size: 41, 114
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear006
+  rotate: false
+  xy: 224, 897
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear025
+  rotate: false
+  xy: 1, 1
+  size: 140, 406
+  orig: 140, 406
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear005
+  rotate: false
+  xy: 788, 932
+  size: 31, 90
+  orig: 31, 90
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear004
+  rotate: false
+  xy: 584, 941
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear023
+  rotate: false
+  xy: 140, 409
+  size: 129, 370
+  orig: 129, 370
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear003
+  rotate: false
+  xy: 80, 962
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear024
+  rotate: false
+  xy: 1, 409
+  size: 137, 394
+  orig: 137, 394
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear022
+  rotate: false
+  xy: 143, 1
+  size: 124, 359
+  orig: 124, 359
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear021
+  rotate: false
+  xy: 269, 1
+  size: 119, 346
+  orig: 119, 346
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear002
+  rotate: false
+  xy: 100, 962
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear020
+  rotate: false
+  xy: 271, 349
+  size: 117, 334
+  orig: 117, 334
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear001
+  rotate: false
+  xy: 116, 962
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear019
+  rotate: false
+  xy: 271, 685
+  size: 106, 307
+  orig: 106, 307
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear000
+  rotate: false
+  xy: 127, 962
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear018
+  rotate: false
+  xy: 379, 685
+  size: 103, 294
+  orig: 103, 294
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear017
+  rotate: false
+  xy: 484, 685
+  size: 98, 282
+  orig: 98, 282
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear016
+  rotate: false
+  xy: 692, 685
+  size: 94, 270
+  orig: 94, 270
+  offset: 0, 0
+  index: -1
+taiko_appear/taiko_appear015
+  rotate: false
+  xy: 788, 685
+  size: 86, 245
+  orig: 86, 245
+  offset: 0, 0
+  index: -1
+kamenride/kamenride0
+  rotate: false
+  xy: 584, 685
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1

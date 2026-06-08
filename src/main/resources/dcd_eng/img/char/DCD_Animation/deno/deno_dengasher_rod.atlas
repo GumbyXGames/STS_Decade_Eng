@@ -1,0 +1,90 @@
+
+deno_dengasher_rod.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengasher_rod/6
+  rotate: false
+  xy: 1, 212
+  size: 210, 178
+  orig: 210, 178
+  offset: 0, 0
+  index: -1
+dengasher_rod/1
+  rotate: false
+  xy: 368, 185
+  size: 121, 318
+  orig: 121, 318
+  offset: 0, 0
+  index: -1
+dengasher_rod/13
+  rotate: false
+  xy: 923, 231
+  size: 94, 228
+  orig: 94, 228
+  offset: 0, 0
+  index: -1
+dengasher_rod/2
+  rotate: false
+  xy: 245, 185
+  size: 121, 318
+  orig: 121, 318
+  offset: 0, 0
+  index: -1
+dengasher_rod/3
+  rotate: false
+  xy: 511, 1
+  size: 212, 214
+  orig: 212, 214
+  offset: 0, 0
+  index: -1
+dengasher_rod/4
+  rotate: false
+  xy: 1, 1
+  size: 242, 209
+  orig: 242, 209
+  offset: 0, 0
+  index: -1
+dengasher_rod/8
+  rotate: false
+  xy: 1, 392
+  size: 210, 178
+  orig: 210, 178
+  offset: 0, 0
+  index: -1
+dengasher_rod/10
+  rotate: false
+  xy: 725, 177
+  size: 100, 232
+  orig: 100, 232
+  offset: 0, 0
+  index: -1
+dengasher_rod/5
+  rotate: false
+  xy: 245, 1
+  size: 264, 182
+  orig: 264, 182
+  offset: 0, 0
+  index: -1
+dengasher_rod/7
+  rotate: false
+  xy: 725, 1
+  size: 197, 174
+  orig: 197, 174
+  offset: 0, 0
+  index: -1
+dengasher_rod/11
+  rotate: false
+  xy: 924, 1
+  size: 96, 228
+  orig: 96, 228
+  offset: 0, 0
+  index: -1
+dengasher_rod/12
+  rotate: false
+  xy: 827, 177
+  size: 94, 228
+  orig: 94, 228
+  offset: 0, 0
+  index: -1

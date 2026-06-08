@@ -1,0 +1,55 @@
+
+decade_FAR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_FAR/Decade_FAR004
+  rotate: false
+  xy: 109, 257
+  size: 99, 254
+  orig: 99, 254
+  offset: 0, 0
+  index: -1
+decade_FAR/Decade_FAR024
+  rotate: false
+  xy: 1, 257
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+decade_FAR/Decade_FAR018
+  rotate: false
+  xy: 210, 257
+  size: 97, 254
+  orig: 97, 254
+  offset: 0, 0
+  index: -1
+decade_FAR/Decade_FAR012
+  rotate: false
+  xy: 216, 1
+  size: 97, 254
+  orig: 97, 254
+  offset: 0, 0
+  index: -1
+decade_FAR/Decade_FAR014
+  rotate: false
+  xy: 109, 1
+  size: 105, 254
+  orig: 105, 254
+  offset: 0, 0
+  index: -1
+decade_FAR/Decade_FAR000
+  rotate: false
+  xy: 1, 1
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+decade_FAR/Decade_FAR011
+  rotate: false
+  xy: 309, 257
+  size: 97, 254
+  orig: 97, 254
+  offset: 0, 0
+  index: -1

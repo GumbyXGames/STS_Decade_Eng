@@ -1,0 +1,30 @@
+﻿{
+  "Decadriver": {
+    "NAME": "DecaDriver",
+    "FLAVOR": "Henshin belt. It reads the two-dimensional data sealed within a Rider Card and uses an internal stone, Trickster, to manifest the armor parts and other materials in a three-dimensional form.",
+    "DESCRIPTIONS": [
+      "Once per battle，you may right click this Relic to gain KamenRide: Decade status. NL You may use #yFormCard to make 1 random card cost 0."
+    ]
+  },
+  "MirrorWorldRelic": {
+    "NAME": "MirrorWorld",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "PhotonAccelerationRelic": {
+    "NAME": "PhotonAcceleration",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "TOEIDeficitBill": {
+    "NAME": "TOEIDeficitBill",
+    "FLAVOR": "Financial strain, budget to Super Sentai first...",
+    "DESCRIPTIONS": [
+      "Right click this relic to open the toggles for Henshin animations, attack animations, and BGM."
+    ]
+  }
+}

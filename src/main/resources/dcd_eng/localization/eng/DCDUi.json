@@ -1,0 +1,111 @@
+﻿{
+  "BanCardButton": {
+    "EXTRA_TEXT": [
+      "Add to RideBooker"
+    ]
+  },
+  "SpecialFaizBox": {
+    "EXTRA_TEXT": [
+      "FaizDriverBox",
+      "Left click to move frame NL ",
+      "Left click to open, activate Gear, or Exhaust PhotonStream to recharge Gear NL ",
+      " #rPhotonStream : NL ",
+      "SB-555H Faiz Edge",
+      "Faiz's sword, acts as a handlebar for the “SB-555V Auto Vajin”. Insert the Mission Memory to activate its weapon functions. Is currently active, use it to add 1 #rSparkleCut to hand",
+      "Currently inactive, Exhaust 3 PhotonStream ro recharge",
+      "At end of Axel Form Random stun 1 enemy,deal 20 damage",
+      "SB-555P Faiz Phone",
+      "Faiz phone,phone at normal,specific number to trigger as a gun. Is currently active, use it to deal 12 damage to all enemies",
+      "Currently inactive, Exhaust 2 PhotonStream ro recharge",
+      "AxelForm can't use FaizPhone",
+      "SB-555L Faiz Pointer",
+      "Faiz energy locker, Insert energy chip to active, lightflash at normal. Is currently active, use it to add 1 #rCrimsonSmash to hand",
+      "Currently inactive, Exhaust 3 PhotonStream ro recharge",
+      "At end of Axel Form deal 1 true damage to 1 random enemy 5 times",
+      "SB-555C Faiz Shot",
+      "Faiz's punching weapon,Insert energy chip to active.now active,use it to add1 #rPunchingUnit to hand",
+      "Currently inactive, Exhaust 3 PhotonStream ro recharge",
+      "At end of Axel Form, Randomly break 1 enemy Block and deal 20 damage",
+      "My hands are full, I can't open the Faiz Box"
+    ]
+  },
+  "SpecialHibikiTaiko": {
+    "EXTRA_TEXT": [
+      "Drum UI",
+      "Press U/I/O/P to make sounds, correct drum order will trigger special effect NL ",
+      "Play drum correctly to trigger special effect NL ",
+      "Auto trigger will add（CP）+1,press SpaceBar trigger will add CP+2(FEVER时+1),wrong CP-1.enter FEVER status when CP is 10 NL now ComboPoint:",
+      " NL trigger special effect to loss 1 ActionPoint,now ActionPoint:",
+      ""
+    ]
+  },
+  "SpecialHibikiTaikoScore": {
+    "EXTRA_TEXT": [
+      "Drum Time",
+      "Left click to look  NL Right click to move scroll",
+      "Deal 1 damage 4 times,50% to choose 1 Hibiki Attacks to hand,if choose 1 is at deck ,cost 0",
+      "all enemies",
+      "Damage 4 times, 50% to be able to select 1 out of 3 Hibiki Attacks to add to your hand. If you choose one in your Deck, it becomes cost 0",
+      "Gain 4 Block and 2 FlameBarrier",
+      "Gain Block",
+      ", FlameBarrier",
+      "Level",
+      "Eliminate 1 random Debuff or, if you have no Debuffs on you, choose 3 cards to Exhaust,",
+      "Eliminate 1 random Debuff or choose 3 cards to Exhaust",
+      "Turn all energy into AP, 1 energy=1 AP, Cannot use without energy",
+      "Turn all energy into AP, 1 energy=1AP, and gain an additional AP+1. Cannot use without energy",
+      "Turn all AP into Strength, 1 AP=1 Strength",
+      "Turn all AP into Dexterity, 1 AP=1 Dexterity",
+      "Exhaust all CP, gain RagingFlame equal to CP spent, enter Fever Status",
+      " #yAttack ",
+      " #yDefence ",
+      " #yPurfy ",
+      " #yStoringForce ",
+      " #yForward ",
+      " #yStepback ",
+      " #yFever "
+    ]
+  },
+  "SpecialKivaPowerMeter": {
+    "EXTRA_TEXT": [
+      "EmperorPower",
+      "If no energy, you may spend Emperor Power as Energy to play cards(4 Power = 1 Energy), reset every battle, right click to move frame"
+    ]
+  },
+  "SpecialRideBooker": {
+    "EXTRA_TEXT": [
+      "RideBooker",
+      "The RideBooker contains all special cards granted by your current status, as well as all extra cards you have acquired. You can add extra cards to the RideBooker by clocking the ‘Add to RideBooker’ button when acquiring a card. NL You may right-click the Ride Booker while in combat to look at the cards in it. Once per turn, you may clock on a card in the Booker to add it to your hand. Status-related cards refresh on a basis depending on the status, however extra cards can only be used once: once you add an extra card to your hand, you won’t get it back after combat. NL Close the RideBooker or any of its sub-menus by right-clicking.",
+      "All",
+      "Check all extra cards, add 1 to your hand",
+      "Kuuga",
+      "Check Kuuga related cards, add 1 to your hand",
+      "Agito",
+      "Check Agito related cards, add 1 to your hand",
+      "Ryuki",
+      "Check Ryuki related cards, add 1 to your hand",
+      "Faiz",
+      "Check Faiz related cards, add 1 to your hand",
+      "Blade",
+      "Check Blade related cards, add 1 to your hand",
+      "Hibiki",
+      "Check Hibiki related cards, add 1 to your hand",
+      "Kabuto",
+      "Check Kabuto related cards, add 1 to your hand",
+      "Den-O",
+      "Check Den-O related cards, add 1 to your hand",
+      "Kiva",
+      "Check Kiva related cards, add 1 to your hand",
+      "Decade",
+      "Check all Rider cards, add 1 to your hand, add all rider playable AttackRide and FinalAttackRide to box.",
+      "You can only use the RideBooker during your turn",
+      "Human Status: able to choose Decade RiderCards, add KamenRide cards to Box to Unlock the other RiderCards, reset every battle",
+      "Decade Status: able to choose Slash/Shoot cards, reset every turn",
+      "Ryuki Status: able to choose Vent cards, reset every battle",
+      "Blade Status: able to choose Undead cards, reset every battle",
+      "Den-O Status: able to choose Imagin cards, reset every turn",
+      "DecadeVioletForm: add Rider cards to Box to gain related cards, box cards reset every round but you cannot draw extra cards from the RideBooker, when all Riders are in the Box add FinalAttackRide",
+      " NL usable number:"
+    ]
+  }
+}

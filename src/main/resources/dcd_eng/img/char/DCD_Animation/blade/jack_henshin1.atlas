@@ -1,0 +1,76 @@
+
+jack_henshin1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jack_henshin1/jack_henshin0005
+  rotate: false
+  xy: 850, 317
+  size: 102, 264
+  orig: 102, 264
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0000
+  rotate: false
+  xy: 746, 317
+  size: 102, 264
+  orig: 102, 264
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0021
+  rotate: false
+  xy: 665, 1
+  size: 330, 314
+  orig: 330, 314
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0027
+  rotate: false
+  xy: 333, 1
+  size: 330, 314
+  orig: 330, 314
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0002
+  rotate: false
+  xy: 746, 583
+  size: 102, 264
+  orig: 102, 264
+  offset: 0, 0
+  index: -1
+jackform_normal/1
+  rotate: false
+  xy: 598, 631
+  size: 146, 264
+  orig: 146, 264
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0028
+  rotate: false
+  xy: 1, 317
+  size: 325, 312
+  orig: 325, 312
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0026
+  rotate: false
+  xy: 1, 1
+  size: 330, 314
+  orig: 330, 314
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0031
+  rotate: false
+  xy: 287, 631
+  size: 309, 264
+  orig: 309, 264
+  offset: 0, 0
+  index: -1
+jack_henshin1/jack_henshin0029
+  rotate: false
+  xy: 1, 631
+  size: 284, 291
+  orig: 284, 291
+  offset: 0, 0
+  index: -1

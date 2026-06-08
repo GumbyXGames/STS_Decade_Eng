@@ -1,0 +1,48 @@
+
+ryuki_guard.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_guard/7
+  rotate: false
+  xy: 1, 275
+  size: 134, 218
+  orig: 134, 218
+  offset: 0, 0
+  index: -1
+ryuki_guard/4
+  rotate: false
+  xy: 1, 1
+  size: 148, 272
+  orig: 148, 272
+  offset: 0, 0
+  index: -1
+ryuki_guard/5
+  rotate: false
+  xy: 265, 275
+  size: 114, 226
+  orig: 114, 226
+  offset: 0, 0
+  index: -1
+ryuki_guard/2
+  rotate: false
+  xy: 301, 1
+  size: 109, 248
+  orig: 109, 248
+  offset: 0, 0
+  index: -1
+ryuki_guard/6
+  rotate: false
+  xy: 137, 275
+  size: 126, 226
+  orig: 126, 226
+  offset: 0, 0
+  index: -1
+ryuki_guard/3
+  rotate: false
+  xy: 151, 1
+  size: 148, 272
+  orig: 148, 272
+  offset: 0, 0
+  index: -1

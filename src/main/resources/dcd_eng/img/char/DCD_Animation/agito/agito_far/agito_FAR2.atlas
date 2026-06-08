@@ -1,0 +1,34 @@
+
+agito_FAR2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_far2/2
+  rotate: false
+  xy: 265, 121
+  size: 113, 166
+  orig: 113, 166
+  offset: 0, 0
+  index: -1
+agito_far2/1
+  rotate: false
+  xy: 1, 1
+  size: 137, 264
+  orig: 137, 264
+  offset: 0, 0
+  index: -1
+agito_far2/4
+  rotate: false
+  xy: 1, 267
+  size: 262, 126
+  orig: 262, 126
+  offset: 0, 0
+  index: -1
+agito_far2/5
+  rotate: false
+  xy: 140, 1
+  size: 164, 118
+  orig: 164, 118
+  offset: 0, 0
+  index: -1

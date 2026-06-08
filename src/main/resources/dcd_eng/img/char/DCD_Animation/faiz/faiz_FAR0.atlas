@@ -1,0 +1,69 @@
+
+faiz_FAR0.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faiz_FARCard/2
+  rotate: false
+  xy: 749, 1
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+faiz_FARCard/1
+  rotate: false
+  xy: 749, 257
+  size: 102, 254
+  orig: 102, 254
+  offset: 0, 0
+  index: -1
+faiz_backtodcd/3
+  rotate: false
+  xy: 855, 1
+  size: 102, 255
+  orig: 108, 255
+  offset: 0, 0
+  index: -1
+faiz_backtodcd/1
+  rotate: false
+  xy: 643, 1
+  size: 104, 255
+  orig: 108, 255
+  offset: 4, 0
+  index: -1
+faiz_backtodcd/2
+  rotate: false
+  xy: 1, 156
+  size: 97, 255
+  orig: 108, 255
+  offset: 6, 0
+  index: -1
+faiz_FAR1/faiz_FAR10000
+  rotate: false
+  xy: 853, 258
+  size: 102, 246
+  orig: 102, 246
+  offset: 0, 0
+  index: -1
+faiz_FARCard/4
+  rotate: false
+  xy: 199, 156
+  size: 97, 254
+  orig: 97, 254
+  offset: 0, 0
+  index: -1
+faiz_FARCard/3
+  rotate: false
+  xy: 100, 156
+  size: 97, 254
+  orig: 97, 254
+  offset: 0, 0
+  index: -1
+dragreder_appear/11
+  rotate: false
+  xy: 1, 1
+  size: 640, 153
+  orig: 640, 153
+  offset: 0, 0
+  index: -1

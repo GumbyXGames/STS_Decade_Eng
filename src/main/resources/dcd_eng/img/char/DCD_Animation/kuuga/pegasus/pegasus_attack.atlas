@@ -1,0 +1,34 @@
+
+pegasus_attack.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pegasus_attack/5
+  rotate: false
+  xy: 376, 217
+  size: 182, 217
+  orig: 182, 217
+  offset: 0, 0
+  index: -1
+pegasus_attack/2
+  rotate: false
+  xy: 188, 217
+  size: 186, 214
+  orig: 186, 214
+  offset: 0, 0
+  index: -1
+pegasus_attack/1
+  rotate: false
+  xy: 1, 1
+  size: 189, 214
+  orig: 189, 214
+  offset: 0, 0
+  index: -1
+pegasus_attack/4
+  rotate: false
+  xy: 1, 217
+  size: 185, 218
+  orig: 185, 218
+  offset: 0, 0
+  index: -1

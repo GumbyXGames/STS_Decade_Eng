@@ -1,0 +1,48 @@
+
+ryuki_attack.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_attack/3
+  rotate: false
+  xy: 1, 1
+  size: 268, 212
+  orig: 268, 212
+  offset: 0, 0
+  index: -1
+ryuki_attack/4
+  rotate: false
+  xy: 271, 1
+  size: 166, 206
+  orig: 166, 206
+  offset: 0, 0
+  index: -1
+ryuki_attack/1
+  rotate: false
+  xy: 1, 409
+  size: 156, 194
+  orig: 156, 194
+  offset: 0, 0
+  index: -1
+ryuki_attack/6
+  rotate: false
+  xy: 1, 605
+  size: 125, 212
+  orig: 125, 212
+  offset: 0, 0
+  index: -1
+ryuki_attack/5
+  rotate: false
+  xy: 283, 209
+  size: 162, 206
+  orig: 162, 206
+  offset: 0, 0
+  index: -1
+ryuki_attack/2
+  rotate: false
+  xy: 1, 215
+  size: 280, 192
+  orig: 280, 192
+  offset: 0, 0
+  index: -1

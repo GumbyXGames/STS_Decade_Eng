@@ -1,0 +1,13 @@
+
+Kuuga_FAR-R2.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far/7
+  rotate: false
+  xy: 1, 1
+  size: 89, 260
+  orig: 89, 260
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+deno_kintaros.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deno_kintaros/1
+  rotate: false
+  xy: 129, 1
+  size: 126, 266
+  orig: 126, 266
+  offset: 0, 0
+  index: -1
+deno_kintaros/2
+  rotate: false
+  xy: 1, 1
+  size: 126, 266
+  orig: 126, 266
+  offset: 0, 0
+  index: -1

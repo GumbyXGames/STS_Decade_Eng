@@ -1,0 +1,55 @@
+
+deno_dengasher_wing.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengasher_wing/3
+  rotate: false
+  xy: 202, 262
+  size: 193, 205
+  orig: 193, 205
+  offset: 0, 0
+  index: -1
+dengasher_wing/4
+  rotate: false
+  xy: 347, 1
+  size: 163, 209
+  orig: 163, 209
+  offset: 0, 0
+  index: -1
+dengasher_wing/5
+  rotate: false
+  xy: 1, 262
+  size: 199, 205
+  orig: 199, 205
+  offset: 0, 0
+  index: -1
+dengasher_wing/1
+  rotate: false
+  xy: 1, 1
+  size: 171, 259
+  orig: 171, 259
+  offset: 0, 0
+  index: -1
+dengasher_wing/6
+  rotate: false
+  xy: 397, 212
+  size: 117, 259
+  orig: 117, 259
+  offset: 0, 0
+  index: -1
+dengasher_wing/2
+  rotate: false
+  xy: 174, 1
+  size: 171, 259
+  orig: 171, 259
+  offset: 0, 0
+  index: -1
+dengasher_wing/7
+  rotate: false
+  xy: 516, 212
+  size: 117, 259
+  orig: 117, 259
+  offset: 0, 0
+  index: -1

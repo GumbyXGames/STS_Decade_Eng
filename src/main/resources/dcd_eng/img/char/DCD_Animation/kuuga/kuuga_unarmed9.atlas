@@ -1,0 +1,125 @@
+
+kuuga_unarmed9.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_unarmed9/Unarmed9103
+  rotate: false
+  xy: 841, 544
+  size: 175, 206
+  orig: 175, 206
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9111
+  rotate: false
+  xy: 1595, 544
+  size: 130, 197
+  orig: 130, 197
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9085
+  rotate: false
+  xy: 1592, 808
+  size: 139, 186
+  orig: 139, 186
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9097
+  rotate: false
+  xy: 1, 1
+  size: 418, 567
+  orig: 418, 567
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9081
+  rotate: false
+  xy: 1306, 808
+  size: 141, 206
+  orig: 141, 206
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9113
+  rotate: false
+  xy: 1727, 544
+  size: 113, 224
+  orig: 113, 224
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9101
+  rotate: false
+  xy: 1642, 1
+  size: 184, 541
+  orig: 184, 541
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9095
+  rotate: false
+  xy: 421, 1
+  size: 418, 567
+  orig: 418, 567
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9088
+  rotate: false
+  xy: 1733, 770
+  size: 135, 182
+  orig: 135, 182
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9093
+  rotate: false
+  xy: 1249, 1
+  size: 391, 514
+  orig: 391, 514
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9079
+  rotate: false
+  xy: 1018, 748
+  size: 145, 209
+  orig: 145, 209
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9090
+  rotate: false
+  xy: 1165, 808
+  size: 139, 210
+  orig: 139, 210
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9083
+  rotate: false
+  xy: 1449, 808
+  size: 141, 194
+  orig: 141, 194
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9115
+  rotate: false
+  xy: 1870, 544
+  size: 101, 222
+  orig: 101, 222
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9092
+  rotate: false
+  xy: 1249, 517
+  size: 344, 289
+  orig: 344, 289
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9099
+  rotate: false
+  xy: 841, 1
+  size: 406, 528
+  orig: 406, 528
+  offset: 0, 0
+  index: -1
+kuuga_unarmed9/Unarmed9109
+  rotate: false
+  xy: 1018, 544
+  size: 170, 202
+  orig: 170, 202
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+ryuki_strike.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_strike/3
+  rotate: false
+  xy: 235, 1
+  size: 198, 193
+  orig: 198, 193
+  offset: 0, 0
+  index: -1
+ryuki_strike/7
+  rotate: false
+  xy: 1, 598
+  size: 178, 191
+  orig: 178, 191
+  offset: 0, 0
+  index: -1
+ryuki_strike/4
+  rotate: false
+  xy: 172, 196
+  size: 178, 199
+  orig: 178, 199
+  offset: 0, 0
+  index: -1
+ryuki_strike/8
+  rotate: false
+  xy: 1, 791
+  size: 158, 215
+  orig: 158, 215
+  offset: 0, 0
+  index: -1
+ryuki_strike/5
+  rotate: false
+  xy: 1, 1
+  size: 232, 193
+  orig: 232, 193
+  offset: 0, 0
+  index: -1
+ryuki_strike/6
+  rotate: false
+  xy: 172, 397
+  size: 178, 199
+  orig: 178, 199
+  offset: 0, 0
+  index: -1
+ryuki_strike/1
+  rotate: false
+  xy: 1, 196
+  size: 169, 217
+  orig: 169, 217
+  offset: 0, 0
+  index: -1
+ryuki_strike/2
+  rotate: false
+  xy: 161, 791
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1

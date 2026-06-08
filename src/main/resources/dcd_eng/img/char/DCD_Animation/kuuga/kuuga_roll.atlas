@@ -1,0 +1,62 @@
+
+kuuga_roll.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_roll/6
+  rotate: false
+  xy: 1, 1
+  size: 213, 161
+  orig: 213, 161
+  offset: 0, 0
+  index: -1
+kuuga_roll/2
+  rotate: false
+  xy: 188, 164
+  size: 170, 182
+  orig: 170, 182
+  offset: 0, 0
+  index: -1
+kuuga_roll/4
+  rotate: false
+  xy: 1, 164
+  size: 185, 178
+  orig: 185, 178
+  offset: 0, 0
+  index: -1
+kuuga_roll/5
+  rotate: false
+  xy: 768, 164
+  size: 217, 110
+  orig: 217, 110
+  offset: 0, 0
+  index: -1
+kuuga_roll/1
+  rotate: false
+  xy: 508, 164
+  size: 131, 218
+  orig: 131, 218
+  offset: 0, 0
+  index: -1
+kuuga_roll/7
+  rotate: false
+  xy: 360, 164
+  size: 146, 209
+  orig: 146, 209
+  offset: 0, 0
+  index: -1
+kuuga_roll/8
+  rotate: false
+  xy: 641, 164
+  size: 125, 205
+  orig: 125, 205
+  offset: 0, 0
+  index: -1
+kuuga_roll/3
+  rotate: false
+  xy: 641, 371
+  size: 186, 137
+  orig: 186, 137
+  offset: 0, 0
+  index: -1

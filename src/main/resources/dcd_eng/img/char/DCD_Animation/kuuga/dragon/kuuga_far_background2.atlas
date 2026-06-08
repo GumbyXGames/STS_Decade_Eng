@@ -1,0 +1,20 @@
+
+kuuga_far_background2.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_far_background/4
+  rotate: false
+  xy: 1, 531
+  size: 704, 528
+  orig: 704, 528
+  offset: 0, 0
+  index: -1
+kuuga_far_background/3
+  rotate: false
+  xy: 1, 1
+  size: 704, 528
+  orig: 704, 528
+  offset: 0, 0
+  index: -1

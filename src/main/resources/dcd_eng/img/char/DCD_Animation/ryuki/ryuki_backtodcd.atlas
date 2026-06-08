@@ -1,0 +1,146 @@
+
+ryuki_backtodcd.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_backtodcd/1
+  rotate: false
+  xy: 425, 766
+  size: 102, 252
+  orig: 108, 252
+  offset: 0, 0
+  index: -1
+agito_backtodcd/22
+  rotate: false
+  xy: 107, 767
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+ryuki_backtodcd/2
+  rotate: false
+  xy: 1, 1
+  size: 108, 252
+  orig: 108, 252
+  offset: 0, 0
+  index: -1
+agito_backtodcd/20
+  rotate: false
+  xy: 107, 511
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/13
+  rotate: false
+  xy: 213, 513
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+ryuki_backtodcd/4
+  rotate: false
+  xy: 425, 1
+  size: 102, 252
+  orig: 108, 252
+  offset: 0, 0
+  index: -1
+agito_backtodcd/14
+  rotate: false
+  xy: 425, 255
+  size: 100, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/23
+  rotate: false
+  xy: 319, 769
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/8
+  rotate: false
+  xy: 107, 255
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/15
+  rotate: false
+  xy: 213, 769
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/9
+  rotate: false
+  xy: 1, 255
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/16
+  rotate: false
+  xy: 1, 767
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+ryuki_backtodcd/3
+  rotate: false
+  xy: 423, 512
+  size: 102, 252
+  orig: 108, 252
+  offset: 0, 0
+  index: -1
+agito_backtodcd/10
+  rotate: false
+  xy: 319, 257
+  size: 104, 253
+  orig: 104, 254
+  offset: 0, 1
+  index: -1
+agito_backtodcd/21
+  rotate: false
+  xy: 319, 512
+  size: 102, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/11
+  rotate: false
+  xy: 213, 1
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/18
+  rotate: false
+  xy: 1, 511
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/17
+  rotate: false
+  xy: 319, 1
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/19
+  rotate: false
+  xy: 527, 255
+  size: 100, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+agito_backtodcd/12
+  rotate: false
+  xy: 213, 257
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1

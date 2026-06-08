@@ -1,0 +1,34 @@
+
+dragon_attack2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_attack2/Dragon_attack2083
+  rotate: false
+  xy: 1, 391
+  size: 278, 178
+  orig: 278, 178
+  offset: 0, 0
+  index: -1
+dragon_attack2/Dragon_attack2079
+  rotate: false
+  xy: 1, 181
+  size: 272, 208
+  orig: 272, 208
+  offset: 0, 0
+  index: -1
+dragon_attack2/Dragon_attack2085
+  rotate: false
+  xy: 1, 1
+  size: 318, 178
+  orig: 318, 178
+  offset: 0, 0
+  index: -1
+dragon_attack2/Dragon_attack2081
+  rotate: false
+  xy: 275, 181
+  size: 190, 182
+  orig: 190, 182
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+flame_normal.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+library/agito_storm/4
+  rotate: false
+  xy: 1, 1
+  size: 102, 272
+  orig: 102, 272
+  offset: 0, 0
+  index: -1
+library/agito_storm/2
+  rotate: false
+  xy: 209, 1
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1
+library/agito_storm/3
+  rotate: false
+  xy: 105, 1
+  size: 102, 272
+  orig: 102, 272
+  offset: 0, 0
+  index: -1
+library/agito_storm/1
+  rotate: false
+  xy: 417, 1
+  size: 102, 268
+  orig: 102, 268
+  offset: 0, 0
+  index: -1
+library/agito_storm/6
+  rotate: false
+  xy: 313, 1
+  size: 102, 270
+  orig: 102, 270
+  offset: 0, 0
+  index: -1

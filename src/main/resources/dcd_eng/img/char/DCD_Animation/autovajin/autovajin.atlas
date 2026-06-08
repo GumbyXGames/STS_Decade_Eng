@@ -1,0 +1,153 @@
+
+autovajin.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+autovajin_disappear/1
+  rotate: false
+  xy: 1077, 1
+  size: 186, 257
+  orig: 186, 257
+  offset: 0, 0
+  index: -1
+autovajin_disappear/2
+  rotate: false
+  xy: 1043, 261
+  size: 186, 257
+  orig: 186, 257
+  offset: 0, 0
+  index: -1
+autovajin_attack/1
+  rotate: false
+  xy: 1421, 520
+  size: 170, 258
+  orig: 170, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/10
+  rotate: false
+  xy: 241, 244
+  size: 208, 258
+  orig: 208, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/4
+  rotate: false
+  xy: 661, 244
+  size: 208, 258
+  orig: 208, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/5
+  rotate: false
+  xy: 871, 1
+  size: 204, 258
+  orig: 204, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/13
+  rotate: false
+  xy: 837, 504
+  size: 204, 258
+  orig: 204, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/9
+  rotate: false
+  xy: 631, 764
+  size: 204, 258
+  orig: 204, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/6
+  rotate: false
+  xy: 421, 730
+  size: 208, 258
+  orig: 208, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/11
+  rotate: false
+  xy: 1043, 764
+  size: 204, 258
+  orig: 204, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/12
+  rotate: false
+  xy: 1, 730
+  size: 208, 258
+  orig: 208, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/8
+  rotate: false
+  xy: 211, 730
+  size: 208, 258
+  orig: 208, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/7
+  rotate: false
+  xy: 631, 504
+  size: 204, 258
+  orig: 204, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/2
+  rotate: false
+  xy: 451, 244
+  size: 208, 258
+  orig: 208, 258
+  offset: 0, 0
+  index: -1
+autovajin_attack/3
+  rotate: false
+  xy: 837, 764
+  size: 204, 258
+  orig: 204, 258
+  offset: 0, 0
+  index: -1
+autovajin_appear/1
+  rotate: false
+  xy: 1, 244
+  size: 238, 241
+  orig: 238, 241
+  offset: 0, 0
+  index: -1
+autovajin_appear/2
+  rotate: false
+  xy: 1, 487
+  size: 230, 241
+  orig: 230, 241
+  offset: 0, 0
+  index: -1
+autovajin_attack/14
+  rotate: false
+  xy: 1, 1
+  size: 244, 241
+  orig: 244, 241
+  offset: 0, 0
+  index: -1
+autovajin_normal/1
+  rotate: false
+  xy: 1403, 260
+  size: 170, 258
+  orig: 170, 258
+  offset: 0, 0
+  index: -1
+autovajin_normal/2
+  rotate: false
+  xy: 1249, 520
+  size: 170, 258
+  orig: 170, 258
+  offset: 0, 0
+  index: -1
+autovajin_normal/3
+  rotate: false
+  xy: 1231, 260
+  size: 170, 258
+  orig: 170, 258
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+hibiki_henshin_card.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hibiki_henshin_card/4
+  rotate: false
+  xy: 1, 1
+  size: 410, 598
+  orig: 410, 598
+  offset: 0, 0
+  index: -1
+hibiki_henshin_card/1
+  rotate: false
+  xy: 723, 497
+  size: 207, 302
+  orig: 207, 302
+  offset: 0, 0
+  index: -1
+kamenride/kamenride0
+  rotate: false
+  xy: 754, 1
+  size: 106, 254
+  orig: 106, 254
+  offset: 0, 0
+  index: -1
+hibiki_henshin_card/3
+  rotate: false
+  xy: 413, 1
+  size: 339, 494
+  orig: 339, 494
+  offset: 0, 0
+  index: -1
+hibiki_henshin_card/2
+  rotate: false
+  xy: 413, 497
+  size: 308, 450
+  orig: 308, 450
+  offset: 0, 0
+  index: -1

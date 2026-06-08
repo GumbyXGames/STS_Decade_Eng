@@ -1,0 +1,13 @@
+
+ryuki_kamenride_timer.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rieder_kamenride/rider_kamenride139
+  rotate: false
+  xy: 1, 1
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1

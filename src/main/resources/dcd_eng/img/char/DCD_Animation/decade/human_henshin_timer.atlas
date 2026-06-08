@@ -1,0 +1,13 @@
+
+human_henshin_timer.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_henshin1/decade_henshin1056
+  rotate: false
+  xy: 1, 1
+  size: 90, 237
+  orig: 90, 237
+  offset: 0, 0
+  index: -1

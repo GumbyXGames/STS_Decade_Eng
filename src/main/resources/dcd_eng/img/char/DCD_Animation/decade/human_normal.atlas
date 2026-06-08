@@ -1,0 +1,13 @@
+
+human_normal.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Decade_md
+  rotate: false
+  xy: 1, 1
+  size: 92, 242
+  orig: 92, 242
+  offset: 0, 0
+  index: -1

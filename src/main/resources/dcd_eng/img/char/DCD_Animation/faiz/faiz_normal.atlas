@@ -1,0 +1,48 @@
+
+faiz_normal.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faiz_normal/1
+  rotate: false
+  xy: 209, 255
+  size: 102, 250
+  orig: 102, 250
+  offset: 0, 0
+  index: -1
+faiz_normal/5
+  rotate: false
+  xy: 105, 1
+  size: 102, 254
+  orig: 102, 254
+  offset: 0, 0
+  index: -1
+faiz_normal/3
+  rotate: false
+  xy: 105, 257
+  size: 102, 254
+  orig: 102, 254
+  offset: 0, 0
+  index: -1
+faiz_normal/4
+  rotate: false
+  xy: 1, 1
+  size: 102, 256
+  orig: 102, 256
+  offset: 0, 0
+  index: -1
+faiz_normal/6
+  rotate: false
+  xy: 1, 259
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1
+faiz_normal/2
+  rotate: false
+  xy: 209, 1
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1

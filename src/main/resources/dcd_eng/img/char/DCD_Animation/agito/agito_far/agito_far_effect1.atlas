@@ -1,0 +1,90 @@
+
+agito_far_effect1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agito_far_effect1/agito_far_effect1011
+  rotate: false
+  xy: 1, 462
+  size: 556, 228
+  orig: 556, 228
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1015
+  rotate: false
+  xy: 1149, 231
+  size: 564, 226
+  orig: 564, 226
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1019
+  rotate: false
+  xy: 579, 1
+  size: 568, 230
+  orig: 568, 230
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1003
+  rotate: false
+  xy: 1, 692
+  size: 522, 217
+  orig: 522, 217
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1013
+  rotate: false
+  xy: 1, 1
+  size: 576, 228
+  orig: 576, 228
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1005
+  rotate: false
+  xy: 559, 689
+  size: 542, 221
+  orig: 542, 221
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1009
+  rotate: false
+  xy: 1131, 459
+  size: 556, 225
+  orig: 556, 225
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1021
+  rotate: false
+  xy: 571, 233
+  size: 558, 228
+  orig: 558, 228
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1023
+  rotate: false
+  xy: 1149, 1
+  size: 561, 228
+  orig: 561, 228
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1001
+  rotate: false
+  xy: 1131, 233
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1017
+  rotate: false
+  xy: 1, 231
+  size: 568, 229
+  orig: 568, 229
+  offset: 0, 0
+  index: -1
+agito_far_effect1/agito_far_effect1007
+  rotate: false
+  xy: 559, 463
+  size: 556, 224
+  orig: 556, 224
+  offset: 0, 0
+  index: -1

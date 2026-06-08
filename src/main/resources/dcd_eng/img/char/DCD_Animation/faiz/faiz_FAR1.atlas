@@ -1,0 +1,125 @@
+
+faiz_FAR1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faiz_FAR1/faiz_FAR10004
+  rotate: false
+  xy: 811, 242
+  size: 115, 129
+  orig: 115, 129
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10008
+  rotate: false
+  xy: 246, 367
+  size: 251, 132
+  orig: 251, 132
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10000
+  rotate: false
+  xy: 707, 249
+  size: 102, 246
+  orig: 102, 246
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10013
+  rotate: false
+  xy: 1, 420
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10010
+  rotate: false
+  xy: 403, 1
+  size: 207, 161
+  orig: 207, 161
+  offset: 0, 0
+  index: -1
+autovajin_disappear/3
+  rotate: false
+  xy: 1, 1
+  size: 186, 257
+  orig: 186, 257
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10011
+  rotate: false
+  xy: 246, 183
+  size: 199, 182
+  orig: 199, 182
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10016
+  rotate: false
+  xy: 189, 1
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10003
+  rotate: false
+  xy: 603, 164
+  size: 102, 246
+  orig: 102, 246
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10006
+  rotate: false
+  xy: 811, 373
+  size: 115, 129
+  orig: 115, 129
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10012
+  rotate: false
+  xy: 499, 412
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10002
+  rotate: false
+  xy: 499, 164
+  size: 102, 246
+  orig: 102, 246
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10009
+  rotate: false
+  xy: 1, 260
+  size: 243, 158
+  orig: 243, 158
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10005
+  rotate: false
+  xy: 811, 111
+  size: 115, 129
+  orig: 115, 129
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10015
+  rotate: false
+  xy: 189, 183
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10014
+  rotate: false
+  xy: 811, 1
+  size: 139, 108
+  orig: 139, 108
+  offset: 0, 0
+  index: -1
+faiz_FAR1/faiz_FAR10001
+  rotate: false
+  xy: 707, 1
+  size: 102, 246
+  orig: 102, 246
+  offset: 0, 0
+  index: -1

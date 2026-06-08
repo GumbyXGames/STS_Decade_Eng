@@ -1,0 +1,41 @@
+
+agito_henshin_P.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decade_henshin_P/decade_henshin_P004
+  rotate: false
+  xy: 1, 1
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+decade_henshin_P/decade_henshin_P003
+  rotate: false
+  xy: 117, 1
+  size: 94, 65
+  orig: 94, 65
+  offset: 0, 0
+  index: -1
+FAR0/FAR_faiz0000
+  rotate: false
+  xy: 194, 68
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+decade_henshin_P/decade_henshin_P002
+  rotate: false
+  xy: 117, 68
+  size: 75, 52
+  orig: 75, 52
+  offset: 0, 0
+  index: -1
+decade_henshin_P/decade_henshin_P001
+  rotate: false
+  xy: 194, 129
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1

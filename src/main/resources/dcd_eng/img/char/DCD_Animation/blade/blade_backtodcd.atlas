@@ -1,0 +1,34 @@
+
+blade_backtodcd.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blade_bakctodcd/backtodcd0008
+  rotate: false
+  xy: 105, 1
+  size: 102, 266
+  orig: 102, 266
+  offset: 0, 0
+  index: -1
+blade_bakctodcd/backtodcd0051
+  rotate: false
+  xy: 209, 1
+  size: 102, 266
+  orig: 102, 266
+  offset: 0, 0
+  index: -1
+blade_bakctodcd/backtodcd0015
+  rotate: false
+  xy: 1, 1
+  size: 102, 266
+  orig: 102, 266
+  offset: 0, 0
+  index: -1
+blade_bakctodcd/backtodcd0000
+  rotate: false
+  xy: 313, 1
+  size: 102, 266
+  orig: 102, 266
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Axel_PunchingUnit.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axel_PunchingUnit/2
+  rotate: false
+  xy: 1378, 1514
+  size: 286, 285
+  orig: 286, 285
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/8
+  rotate: false
+  xy: 910, 558
+  size: 541, 541
+  orig: 541, 541
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/9
+  rotate: false
+  xy: 1465, 554
+  size: 548, 548
+  orig: 548, 548
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/6
+  rotate: false
+  xy: 527, 1101
+  size: 503, 501
+  orig: 503, 501
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/1
+  rotate: false
+  xy: 474, 1604
+  size: 288, 285
+  orig: 288, 285
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/7
+  rotate: false
+  xy: 1, 853
+  size: 524, 525
+  orig: 524, 525
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/4
+  rotate: false
+  xy: 1032, 1101
+  size: 414, 411
+  orig: 414, 411
+  offset: 0, 0
+  index: -1
+Axel_CrimsonSmash/Axel_CrimsonSmash0041
+  rotate: false
+  xy: 1, 1
+  size: 907, 850
+  orig: 907, 850
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/10
+  rotate: false
+  xy: 910, 1
+  size: 553, 555
+  orig: 553, 555
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/11
+  rotate: false
+  xy: 1465, 1
+  size: 551, 551
+  orig: 551, 551
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/5
+  rotate: false
+  xy: 1, 1380
+  size: 471, 465
+  orig: 471, 465
+  offset: 0, 0
+  index: -1
+Axel_PunchingUnit/3
+  rotate: false
+  xy: 1032, 1514
+  size: 344, 341
+  orig: 344, 341
+  offset: 0, 0
+  index: -1

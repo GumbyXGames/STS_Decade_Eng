@@ -1,0 +1,27 @@
+
+dragreder_defend.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragreder_normal/1
+  rotate: false
+  xy: 417, 1
+  size: 206, 310
+  orig: 206, 310
+  offset: 0, 0
+  index: -1
+dragreder_normal/15
+  rotate: false
+  xy: 1, 1
+  size: 206, 310
+  orig: 206, 310
+  offset: 0, 0
+  index: -1
+dragreder_normal/16
+  rotate: false
+  xy: 209, 1
+  size: 206, 310
+  orig: 206, 310
+  offset: 0, 0
+  index: -1

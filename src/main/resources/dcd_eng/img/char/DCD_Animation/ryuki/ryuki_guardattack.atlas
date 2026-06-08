@@ -1,0 +1,62 @@
+
+ryuki_guardattack.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ryuki_guardattack/4
+  rotate: false
+  xy: 271, 491
+  size: 194, 261
+  orig: 194, 261
+  offset: 0, 0
+  index: -1
+ryuki_guardattack/1
+  rotate: false
+  xy: 271, 754
+  size: 160, 203
+  orig: 160, 203
+  offset: 0, 0
+  index: -1
+ryuki_guardattack/5
+  rotate: false
+  xy: 1, 1
+  size: 273, 257
+  orig: 273, 257
+  offset: 0, 0
+  index: -1
+ryuki_guardattack/2
+  rotate: false
+  xy: 276, 1
+  size: 160, 213
+  orig: 160, 213
+  offset: 0, 0
+  index: -1
+ryuki_guardattack/6
+  rotate: false
+  xy: 1, 260
+  size: 288, 229
+  orig: 288, 229
+  offset: 0, 0
+  index: -1
+ryuki_guardattack/7
+  rotate: false
+  xy: 1, 707
+  size: 268, 193
+  orig: 268, 193
+  offset: 0, 0
+  index: -1
+ryuki_guardattack/3
+  rotate: false
+  xy: 291, 216
+  size: 172, 189
+  orig: 172, 189
+  offset: 0, 0
+  index: -1
+ryuki_guardattack/8
+  rotate: false
+  xy: 1, 491
+  size: 246, 214
+  orig: 246, 214
+  offset: 0, 0
+  index: -1

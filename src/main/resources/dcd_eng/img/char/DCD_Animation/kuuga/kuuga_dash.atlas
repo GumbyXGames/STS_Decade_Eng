@@ -1,0 +1,55 @@
+
+kuuga_dash.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_dash/kuuga_dash003
+  rotate: false
+  xy: 271, 273
+  size: 130, 181
+  orig: 130, 181
+  offset: 0, 0
+  index: -1
+kuuga_dash/kuuga_dash001
+  rotate: false
+  xy: 144, 273
+  size: 125, 205
+  orig: 125, 205
+  offset: 0, 0
+  index: -1
+kuuga_dash/kuuga_dash007
+  rotate: false
+  xy: 1, 1
+  size: 226, 133
+  orig: 226, 133
+  offset: 0, 0
+  index: -1
+kuuga_dash/kuuga_dash008
+  rotate: false
+  xy: 1, 136
+  size: 226, 129
+  orig: 226, 129
+  offset: 0, 0
+  index: -1
+kuuga_dash/kuuga_dash006
+  rotate: false
+  xy: 229, 1
+  size: 222, 134
+  orig: 222, 134
+  offset: 0, 0
+  index: -1
+kuuga_dash/kuuga_dash012
+  rotate: false
+  xy: 1, 267
+  size: 141, 186
+  orig: 141, 186
+  offset: 0, 0
+  index: -1
+kuuga_dash/kuuga_dash005
+  rotate: false
+  xy: 229, 137
+  size: 214, 134
+  orig: 214, 134
+  offset: 0, 0
+  index: -1

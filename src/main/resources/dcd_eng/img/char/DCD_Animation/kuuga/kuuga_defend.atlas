@@ -1,0 +1,27 @@
+
+kuuga_defend.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuuga_defend/3
+  rotate: false
+  xy: 1, 1
+  size: 126, 222
+  orig: 126, 222
+  offset: 0, 0
+  index: -1
+kuuga_defend/1
+  rotate: false
+  xy: 257, 1
+  size: 122, 224
+  orig: 122, 224
+  offset: 0, 0
+  index: -1
+kuuga_defend/2
+  rotate: false
+  xy: 129, 1
+  size: 126, 222
+  orig: 126, 222
+  offset: 0, 0
+  index: -1

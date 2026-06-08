@@ -1,0 +1,223 @@
+
+wingform_effect.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wingform_effect/wingform_effect053
+  rotate: false
+  xy: 1527, 1
+  size: 754, 536
+  orig: 754, 536
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect051
+  rotate: false
+  xy: 3035, 537
+  size: 746, 530
+  orig: 746, 530
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect001
+  rotate: false
+  xy: 2527, 1808
+  size: 241, 138
+  orig: 241, 138
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect045
+  rotate: false
+  xy: 3009, 1069
+  size: 732, 518
+  orig: 732, 518
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect021
+  rotate: false
+  xy: 1337, 1555
+  size: 600, 448
+  orig: 600, 448
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect025
+  rotate: false
+  xy: 681, 2031
+  size: 640, 468
+  orig: 640, 468
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect061
+  rotate: false
+  xy: 3035, 1
+  size: 742, 534
+  orig: 742, 534
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect007
+  rotate: false
+  xy: 1, 2877
+  size: 428, 337
+  orig: 428, 337
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect031
+  rotate: false
+  xy: 1, 1551
+  size: 678, 488
+  orig: 678, 488
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect013
+  rotate: false
+  xy: 1323, 2441
+  size: 514, 406
+  orig: 514, 406
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect019
+  rotate: false
+  xy: 1939, 1585
+  size: 586, 442
+  orig: 586, 442
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect037
+  rotate: false
+  xy: 720, 545
+  size: 706, 502
+  orig: 706, 502
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect029
+  rotate: false
+  xy: 1426, 1071
+  size: 666, 482
+  orig: 666, 482
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect035
+  rotate: false
+  xy: 720, 1049
+  size: 704, 502
+  orig: 704, 502
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect039
+  rotate: false
+  xy: 1, 545
+  size: 717, 506
+  orig: 717, 506
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect027
+  rotate: false
+  xy: 681, 1553
+  size: 654, 476
+  orig: 654, 476
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect059
+  rotate: false
+  xy: 764, 1
+  size: 761, 542
+  orig: 761, 542
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect003
+  rotate: false
+  xy: 2527, 1585
+  size: 326, 221
+  orig: 326, 221
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect041
+  rotate: false
+  xy: 3009, 1589
+  size: 722, 512
+  orig: 722, 512
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect017
+  rotate: false
+  xy: 1337, 2005
+  size: 573, 434
+  orig: 573, 434
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect005
+  rotate: false
+  xy: 2456, 2029
+  size: 386, 289
+  orig: 386, 289
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect047
+  rotate: false
+  xy: 2275, 539
+  size: 738, 524
+  orig: 738, 524
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect055
+  rotate: false
+  xy: 2283, 1
+  size: 750, 536
+  orig: 750, 536
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect009
+  rotate: false
+  xy: 1, 2505
+  size: 458, 370
+  orig: 458, 370
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect033
+  rotate: false
+  xy: 1, 1053
+  size: 692, 496
+  orig: 692, 496
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect011
+  rotate: false
+  xy: 627, 2501
+  size: 484, 390
+  orig: 484, 390
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect015
+  rotate: false
+  xy: 1912, 2029
+  size: 542, 420
+  orig: 542, 420
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect049
+  rotate: false
+  xy: 1527, 539
+  size: 746, 530
+  orig: 746, 530
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect023
+  rotate: false
+  xy: 1, 2041
+  size: 624, 462
+  orig: 624, 462
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect057
+  rotate: false
+  xy: 1, 1
+  size: 761, 542
+  orig: 761, 542
+  offset: 0, 0
+  index: -1
+wingform_effect/wingform_effect043
+  rotate: false
+  xy: 2275, 1065
+  size: 732, 518
+  orig: 732, 518
+  offset: 0, 0
+  index: -1

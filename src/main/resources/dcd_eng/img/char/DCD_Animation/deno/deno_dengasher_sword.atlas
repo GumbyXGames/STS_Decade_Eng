@@ -1,0 +1,55 @@
+
+deno_dengasher_sword.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengasher_sword/5
+  rotate: false
+  xy: 1, 377
+  size: 273, 186
+  orig: 273, 186
+  offset: 0, 0
+  index: -1
+dengasher_sword/4
+  rotate: false
+  xy: 1, 829
+  size: 153, 194
+  orig: 153, 194
+  offset: 0, 0
+  index: -1
+dengasher_sword/3
+  rotate: false
+  xy: 1, 565
+  size: 126, 262
+  orig: 126, 262
+  offset: 0, 0
+  index: -1
+dengasher_sword/2
+  rotate: false
+  xy: 276, 377
+  size: 126, 266
+  orig: 126, 266
+  offset: 0, 0
+  index: -1
+dengasher_sword/7
+  rotate: false
+  xy: 1, 1
+  size: 278, 186
+  orig: 278, 186
+  offset: 0, 0
+  index: -1
+dengasher_sword/1
+  rotate: false
+  xy: 281, 1
+  size: 126, 266
+  orig: 126, 266
+  offset: 0, 0
+  index: -1
+dengasher_sword/6
+  rotate: false
+  xy: 1, 189
+  size: 278, 186
+  orig: 278, 186
+  offset: 0, 0
+  index: -1

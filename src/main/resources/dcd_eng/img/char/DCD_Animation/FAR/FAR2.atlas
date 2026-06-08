@@ -1,0 +1,230 @@
+
+FAR2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FAR/FAR2/FAR20013
+  rotate: false
+  xy: 323, 1611
+  size: 255, 320
+  orig: 255, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20019
+  rotate: false
+  xy: 323, 323
+  size: 318, 320
+  orig: 318, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20011
+  rotate: false
+  xy: 613, 967
+  size: 250, 298
+  orig: 250, 298
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20027
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20006
+  rotate: false
+  xy: 812, 805
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20002
+  rotate: false
+  xy: 1119, 915
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20042
+  rotate: false
+  xy: 1, 645
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20003
+  rotate: false
+  xy: 630, 882
+  size: 93, 65
+  orig: 93, 65
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20022
+  rotate: false
+  xy: 1, 967
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20008
+  rotate: false
+  xy: 630, 645
+  size: 180, 235
+  orig: 180, 235
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20015
+  rotate: false
+  xy: 598, 1289
+  size: 255, 320
+  orig: 255, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20043
+  rotate: false
+  xy: 1, 323
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20010
+  rotate: false
+  xy: 865, 967
+  size: 243, 265
+  orig: 243, 265
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20023
+  rotate: false
+  xy: 967, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20012
+  rotate: false
+  xy: 855, 1289
+  size: 255, 320
+  orig: 255, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20016
+  rotate: false
+  xy: 323, 1289
+  size: 273, 320
+  orig: 273, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20014
+  rotate: false
+  xy: 580, 1611
+  size: 255, 320
+  orig: 255, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20025
+  rotate: false
+  xy: 1289, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20004
+  rotate: false
+  xy: 1119, 805
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20021
+  rotate: false
+  xy: 1611, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20005
+  rotate: false
+  xy: 967, 805
+  size: 150, 128
+  orig: 150, 128
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20009
+  rotate: false
+  xy: 1110, 967
+  size: 218, 258
+  orig: 218, 258
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20007
+  rotate: false
+  xy: 812, 645
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20001
+  rotate: false
+  xy: 1179, 915
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20020
+  rotate: false
+  xy: 1, 1289
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20017
+  rotate: false
+  xy: 323, 967
+  size: 288, 320
+  orig: 288, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20026
+  rotate: false
+  xy: 645, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20000
+  rotate: false
+  xy: 1229, 915
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20024
+  rotate: false
+  xy: 323, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20018
+  rotate: false
+  xy: 323, 645
+  size: 305, 320
+  orig: 305, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR2/FAR20040
+  rotate: false
+  xy: 1, 1611
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FAR/FAR_faiz/FAR_faiz
+  rotate: false
+  xy: 725, 882
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1

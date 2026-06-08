@@ -1,0 +1,69 @@
+
+deno_oresanjo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deno_oresanjo/3
+  rotate: false
+  xy: 351, 204
+  size: 140, 226
+  orig: 140, 226
+  offset: 0, 0
+  index: -1
+deno_oresanjo/5
+  rotate: false
+  xy: 1, 635
+  size: 184, 206
+  orig: 184, 206
+  offset: 0, 0
+  index: -1
+deno_oresanjo/9
+  rotate: false
+  xy: 1, 204
+  size: 182, 213
+  orig: 182, 213
+  offset: 0, 0
+  index: -1
+deno_oresanjo/4
+  rotate: false
+  xy: 187, 436
+  size: 165, 209
+  orig: 165, 209
+  offset: 0, 0
+  index: -1
+deno_oresanjo/2
+  rotate: false
+  xy: 185, 204
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+deno_oresanjo/6
+  rotate: false
+  xy: 1, 419
+  size: 178, 214
+  orig: 178, 214
+  offset: 0, 0
+  index: -1
+deno_oresanjo/8
+  rotate: false
+  xy: 1, 1
+  size: 198, 201
+  orig: 198, 201
+  offset: 0, 0
+  index: -1
+deno_oresanjo/1
+  rotate: false
+  xy: 187, 647
+  size: 128, 245
+  orig: 128, 245
+  offset: 0, 0
+  index: -1
+deno_oresanjo/7
+  rotate: false
+  xy: 201, 1
+  size: 178, 201
+  orig: 178, 201
+  offset: 0, 0
+  index: -1
