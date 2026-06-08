@@ -1,0 +1,2 @@
+<h1>Kamen Rider Decade Retranslation (dcd_eng)</h1>
+A Mod of <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1970442101">Kamen Rider Decade Mod by 红色有角三倍速 and 树</a>, adding Kamen Rider Decade as a new playable character 
