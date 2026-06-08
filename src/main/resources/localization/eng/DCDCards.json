@@ -1,9 +1,9 @@
 ﻿{
 "Decade_Attack":{
 "NAME": "Punch",
-"DESCRIPTION": "Unarmed, deal !D! damage to one enemy",
+"DESCRIPTION": "Unarmed NL Deal !D! damage to one enemy",
 "EXTENDED_DESCRIPTION":[
-"Unarmed, deal !D! damage to one enemy, apply !M! Vulnerable ",
+"Unarmed NL Deal !D! damage to one enemy NL apply !M! Vulnerable ",
 "Limit reinforce",
 "Enhanced effect at KamenRide:Decade",
 "Unarmed, cause !D! point truly damage to one enemy"
