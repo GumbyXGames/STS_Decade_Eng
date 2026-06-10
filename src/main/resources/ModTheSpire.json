@@ -2,14 +2,13 @@
   "modid": "dcd_eng",
   "name": "Kamen Rider Decade Retranslated",
   "author_list": [
-    "树",
-    "GumbyXGames"
+    "GumbyXGames",
   ],
   "description": "Mod of Kamen Rider Decade Mode by 红色有角三倍速 and 树, adding Kamen Rider Decade as a new playable character",
   "dependencies": [
     "basemod"
   ],
-  "version": "0.0.1.1",
+  "version": "0.0.2",
   "sts_version": "08-11-2023",
   "mts_version": "3.15.0",
    "update_json": ""
