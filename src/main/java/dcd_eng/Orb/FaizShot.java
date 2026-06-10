@@ -43,13 +43,13 @@ public class FaizShot extends CustomOrb {
    }
 
    public void render(SpriteBatch sb) {
-      if (!SpecialFaizBox.FaizShot && !this.name.equals("SB-555C(off)")) {
-         this.name = "SB-555C(off)";
+      if (!SpecialFaizBox.FaizShot && !this.name.equals("SB-555C: Faiz Shot (Off)")) {
+         this.name = "SB-555C: Faiz Shot (Off)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555C_N.png");
       }
 
-      if (SpecialFaizBox.FaizShot && !this.name.equals("SB-555C(on)")) {
-         this.name = "SB-555C(on)";
+      if (SpecialFaizBox.FaizShot && !this.name.equals("SB-555C: Faiz Shot (On)")) {
+         this.name = "SB-555C: Faiz Shot (On)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555C.png");
       }
 

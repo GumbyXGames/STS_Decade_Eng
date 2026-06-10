@@ -1,29 +1,29 @@
 ﻿{
   "FaizPointer": {
-    "NAME": "SB-555L",
+    "NAME": "SB-555L: Faiz Pointer",
     "DESCRIPTION": [
-      "#y Passive: NL At the start of the round, gain 1 BriefStrength and BriefDexterity NL ",
+      "#y Passive: NL At the start of the round, gain 1 Brief Strength and Brief Dexterity NL ",
       "#y Active: NL Add 1 Crimson Smash to hand (3 Photon Stream to recharge)"
     ]
   },
   "FaizPhone": {
-    "NAME": "SB-555P",
+    "NAME": "SB-555P: Faiz Phone",
     "DESCRIPTION": [
-      "#y Passive: NL At the end of the round, deal 3 innate damage 3 times to a random enemy NL ",
+      "#y Passive: NL At the end of the round, deal 3 innate damage to a random enemy 3 times NL ",
       "#y Active: NL Deal 12 innate damage to all enemies (2 Photon Stream to recharge)"
     ]
   },
   "FaizShot": {
-    "NAME": "SB-555C",
+    "NAME": "SB-555C: Faiz Shot",
     "DESCRIPTION": [
-      "#y Passive: NL At the start of the round, gain 2 BriefStrength NL ",
+      "#y Passive: NL At the start of the round, gain 2 Brief Strength NL ",
       "#y Active: NL Add 1 Grand Impact to your hand (3 Photon Stream to recharge)"
     ]
   },
   "FaizEdge": {
-    "NAME": "SB-555H",
+    "NAME": "SB-555H: Faiz Edge",
     "DESCRIPTION": [
-      "#y Passive: NL At the start of the round, gain 1 BriefStrength and BriefDexterity, Armed NL ",
+      "#y Passive: NL At the start of the round, gain 1 Brief Strength and Brief Dexterity NL Equipped NL ",
       "#y Active: NL Add 1 Sparkle Cut to hand (3 Photon Stream to recharge)"
     ]
   }

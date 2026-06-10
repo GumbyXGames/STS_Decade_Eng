@@ -1,20 +1,20 @@
 {
   "FaizPointer": {
-    "NAME": "SB-555L",
+    "NAME": "SB-555L: Faiz Pointer",
     "DESCRIPTION": [
 		"#y被动:  NL 每回合开始给予1点临时力量和临时敏捷 NL ",
       	"#y主动:  NL 将1张深红电钻加入你的手牌(恢复需3点光子血液)"
     ]
   },
   "FaizPhone": {
-    "NAME": "SB-555P",
+    "NAME": "SB-555P: Faiz Phone",
     "DESCRIPTION": [
 		"#y被动:  NL 回合结束对随机敌人3次3点固定伤害 NL ",
       	"#y主动:  NL 对全体敌人造成12点固定伤害(恢复需2点光子血液)"
     ]
   },
   "FaizShot": {
-    "NAME": "SB-555C",
+    "NAME": "SB-555C: Faiz Shot",
     "DESCRIPTION": [
 		"#y被动:  NL 每回合开始给予2点临时力量 NL ",
       	"#y主动:  NL 将1张巨大冲击加入你的手牌(恢复需3点光子血液)"

@@ -47,13 +47,13 @@ public class FaizPointer extends CustomOrb {
    }
 
    public void render(SpriteBatch sb) {
-      if (!SpecialFaizBox.FaizPointer && !this.name.equals("SB-555P(off)")) {
-         this.name = "SB-555P(off)";
+      if (!SpecialFaizBox.FaizPointer && !this.name.equals("SB-555L: Faiz Pointer (Off)")) {
+         this.name = "SB-555L: Faiz Pointer (Off)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555L_N.png");
       }
 
-      if (SpecialFaizBox.FaizPointer && !this.name.equals("SB-555P(on)")) {
-         this.name = "SB-555P(on)";
+      if (SpecialFaizBox.FaizPointer && !this.name.equals("SB-555L: Faiz Pointer (On)")) {
+         this.name = "SB-555L: Faiz Pointer (On)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555L.png");
       }
 

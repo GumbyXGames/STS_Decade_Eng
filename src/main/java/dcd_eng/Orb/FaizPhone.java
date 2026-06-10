@@ -51,13 +51,13 @@ public class FaizPhone extends CustomOrb {
    }
 
    public void render(SpriteBatch sb) {
-      if (!SpecialFaizBox.FaizPhone && !this.name.equals("SB-555P(off)")) {
-         this.name = "SB-555P(off)";
+      if (!SpecialFaizBox.FaizPhone && !this.name.equals("SB-555P: Faiz Phone (Off)")) {
+         this.name = "SB-555P: Faiz Phone (Off)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555P_N.png");
       }
 
-      if (SpecialFaizBox.FaizPhone && !this.name.equals("SB-555P(on)")) {
-         this.name = "SB-555P(on)";
+      if (SpecialFaizBox.FaizPhone && !this.name.equals("SB-555P: Faiz Phone (On)")) {
+         this.name = "SB-555P: Faiz Phone (On)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555P.png");
       }
 

@@ -92,7 +92,7 @@
 },
 "KamenRide":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Choose one NL KamenRide Card and NL add it to your hand NL Exhaust "
+"DESCRIPTION": "Choose one NL KamenRide Card and NL Add it to your hand NL Exhaust "
 },
 "KamenRideDecade":{
 "NAME": "KamenRide",
@@ -239,7 +239,7 @@
 },
 "AutoVajin":{
 "NAME": "Auto Vajin",
-"DESCRIPTION": "Summon AutoVajin 3 rounds,if SB-555H is not in Cool gain additional 2 Dexterity ",
+"DESCRIPTION": "Summon AutoVajin 3 rounds NL If SB-555H: Faiz Edge is not in Cool gain additional 2 Dexterity ",
 "EXTENDED_DESCRIPTION":[
 "You already have AutoVajin"
 ]
@@ -601,39 +601,39 @@
 },
 "KamenRideFaiz":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Henshin into NL Kamen Rider Faiz NL Gain Driver",
-"UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Faiz, gain Driver",
+"DESCRIPTION": "Henshin into NL Kamen Rider Faiz NL Gain Faiz Case",
+"UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Faiz NL Gain Faiz Case",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade Violent Form will change its effect",
-"You need to use this at KamenRide: Decade",
-"You're henshin into Kamen Rider Faiz",
+"You need to use this as Kamen Rider Decade",
+"You are henshined into Kamen Rider Faiz",
 "Add Crimson Smash、Punching Unit、Sparkle Cut to the draw pile",
-"Innate NL add Crimson Smash、Punching Unit、 Sparkle Cut to the draw pile"
+"Innate NL Add Crimson Smash、Punching Unit、 Sparkle Cut to the draw pile"
 ]
 },
 "FaizPhone_s":{
 "EXTENDED_DESCRIPTION":[
-"SB-555P Faiz Phone",
+"SB-555P: Faiz Phone",
 "Faiz的翻盖手机,键入『555』并按动『Enter』键后插在腰带上即可变身,平时可作为普通手机使用."
 ]
 },
 "FaizPointer_s":{
 "EXTENDED_DESCRIPTION":[
-"SB-555L Faiz Pointer",
+"SB-555L: Faiz Pointer",
 "Faiz的手电筒型腿部锁定器,插入能量晶片后启动,安装在右脚上,便可准备发动必杀技.平时便是性能超高的手电筒."
 ]
 },
 "FaizShot_s":{
 "EXTENDED_DESCRIPTION":[
-"SB-555C Faiz Shot",
+"SB-555C: Faiz Shot",
 "Faiz的数码相机型拳套,插入能量晶片后启动,用于发动必杀技.平时便是像素最高达到120万画素的数码相机."
 ]
 },
 "FaizEdge_s":{
 "EXTENDED_DESCRIPTION":[
-"SB-555H Faiz Edge",
-"Faiz的能量剑,平时伪装成“SB-555V AutoVajin”的车把手,插入能量晶片后启动."
+"SB-555H: Faiz Edge",
+"Faiz的能量剑,平时伪装成“SB-555V: AutoVajin”的车把手,插入能量晶片后启动."
 ]
 },
 "CrimsonSmash":{
@@ -1296,8 +1296,8 @@
 },
 "KamenRideKiva":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Henshin into NL Kamen Rider  Kiva NL Add 1 UnknownWhistle to hand",
-"UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Kiva NL Add 1 UnknownWhistle to hand",
+"DESCRIPTION": "Henshin into NL Kamen Rider  Kiva NL Add 1 Unknown Whistle to hand",
+"UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Kiva NL Add 1 Unknown Whistle to hand",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade: Violent Form will change its effect",

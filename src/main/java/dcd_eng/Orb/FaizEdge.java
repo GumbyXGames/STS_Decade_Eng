@@ -47,13 +47,13 @@ public class FaizEdge extends CustomOrb {
    }
 
    public void render(SpriteBatch sb) {
-      if (!SpecialFaizBox.FaizEdge && !this.name.equals("SB-555H(off)")) {
-         this.name = "SB-555H(off)";
+      if (!SpecialFaizBox.FaizEdge && !this.name.equals("SB-555H: Faiz Edge (Off)")) {
+         this.name = "SB-555H: Faiz Edge (Off)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555H_N.png");
       }
 
-      if (SpecialFaizBox.FaizEdge && !this.name.equals("SB-555H(on)")) {
-         this.name = "SB-555H(on)";
+      if (SpecialFaizBox.FaizEdge && !this.name.equals("SB-555H: Faiz Edge (On)")) {
+         this.name = "SB-555H: Faiz Edge (On)";
          this.img = ImageMaster.loadImage("img/orbs/SB-555H.png");
       }
 
