@@ -2,9 +2,9 @@
   "modid": "dcd_eng",
   "name": "Kamen Rider Decade Retranslated",
   "author_list": [
-    "GumbyXGames",
+    "GumbyXGames"
   ],
-  "description": "Mod of Kamen Rider Decade Mode by 红色有角三倍速 and 树, adding Kamen Rider Decade as a new playable character",
+  "description": "A Mod of Kamen Rider Decade Mod by 红色有角三倍速 and 树 that edits the English translation of added cards so they are easier to read and understand. Game keywords and terminology has been updated to be inline with other English mods.",
   "dependencies": [
     "basemod"
   ],
