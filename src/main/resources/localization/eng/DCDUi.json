@@ -6,7 +6,7 @@
   },
   "SpecialFaizBox": {
     "EXTRA_TEXT": [
-      "FaizDriverBox",
+      "Faiz Case",
       "Left click to move frame NL ",
       "Left click to open, activate Gear, or Exhaust PhotonStream to recharge Gear NL ",
       " #rPhotonStream : NL ",
@@ -26,7 +26,7 @@
       "Faiz's punching weapon,Insert energy chip to active.now active,use it to add1 #rPunchingUnit to hand",
       "Currently inactive, Exhaust 3 PhotonStream ro recharge",
       "At end of Axel Form, Randomly break 1 enemy Block and deal 20 damage",
-      "My hands are full, I can't open the Faiz Box"
+      "My hands are full, I can't open the Faiz Case"
     ]
   },
   "SpecialHibikiTaiko": {
