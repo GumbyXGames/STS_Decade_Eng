@@ -140,15 +140,15 @@
 },
 "KamenRideKuuga":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Strength + !M! NL Regeneration +5 (Max 5) NL Henshin and draw 1 card ",
-"UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Regeneration +5 (Max 5) NL Henshin and draw 1 card ",
+"DESCRIPTION": "Strength + !M! NL Regen +5 (Max 5) NL Henshin and draw 1 card ",
+"UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Regen +5 (Max 5) NL Henshin and draw 1 card ",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "This effect will change at Decade Violent Form",
 "You can only play this card while henshined into Decade",
 "You are already henshined into Kuuga",
-"Gain 1 Strength NL 3 Regeneration",
-"Innate NL Gain 1 Strength NL 3 Regeneration"
+"Gain 1 Strength NL 3 Regen",
+"Innate NL Gain 1 Strength NL 3 Regen"
 ]
 },
 "FormRideDragon":{
@@ -187,12 +187,12 @@
 },
 "Kuuga_Rising":{
 "NAME": "Rising",
-"DESCRIPTION": "Limit. enhanced current KamenRideKuuga:Kuuga NL Exhaust ",
-"UPGRADE_DESCRIPTION": "Limit. enhanced current KamenRideKuuga:Kuuga ",
+"DESCRIPTION": "Limit. enhanced current KamenRide: Kuuga NL Exhaust ",
+"UPGRADE_DESCRIPTION": "Limit. enhanced current KamenRide: Kuuga ",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Kuuga",
-"Strength +2, Regeneration +3 NL Exhaust ",
-"Strength +2, Regeneration +3"
+"Strength +2, Regen +3 NL Exhaust ",
+"Strength +2, Regen +3"
 ]
 },
 "PegasusAttack":{
