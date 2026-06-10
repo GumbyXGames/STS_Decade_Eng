@@ -95,11 +95,11 @@
 "DESCRIPTION": "Choose one NL KamenRide Card and NL add it to your hand NL Exhaust "
 },
 "KamenRideDecade":{
-"NAME": "KamenRide: Decade",
+"NAME": "KamenRide",
 "DESCRIPTION": "Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Decade",
 "UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Decade",
 "EXTENDED_DESCRIPTION":[
-"You're already henshined into Kamen Rider Decade"
+"You are already henshined into Kamen Rider Decade"
 ]
 },
 "RideBooker":{
@@ -139,7 +139,7 @@
 "DESCRIPTION": "Prevent next life damage you received. NL Exhaust "
 },
 "KamenRideKuuga":{
-"NAME": "KamenRide: Kugga",
+"NAME": "KamenRide",
 "DESCRIPTION": "Strength + !M! NL Regeneration +5 (Max 5) NL Henshin and draw 1 card ",
 "UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Regeneration +5 (Max 5) NL Henshin and draw 1 card ",
 "EXTENDED_DESCRIPTION":[
@@ -253,14 +253,14 @@
 "DESCRIPTION": "Gain !B! Block, gain 1 AccurateBlock, NL Discard 1 card,if it is ArmedCard ,Add a copy of the ArmedCard into your draw pile."
 },
 "KamenRideAgito":{
-"NAME": "KamenRide: Agito",
+"NAME": "KamenRide",
 "DESCRIPTION": "Enter KamenRide: Agito ",
 "UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Agito ",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Change effect when use it at Decade Violent Form",
-"You can only play this card while at KamenRide: Decade",
-"You're already henshined into Kamen Rider Agito",
+"You can only play this card as Kamen Rider Decade",
+"You are already henshined into Kamen Rider Agito",
 "Strength +1, Dexterity +1",
 "Innate NL Strength +1, Dexterity +1"
 ]
@@ -269,7 +269,7 @@
 "NAME": "Agito",
 "DESCRIPTION": "Next Attack will double its damage NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-"You can only play this card while at KamenRide: Agito"
+"You can only play this card as Kamen Rider Agito"
 ]
 },
 "FormRideStorm":{
@@ -287,7 +287,7 @@
 "NL Lv8:Strength+1,Dexterity+2",
 "NL Lv9:add 1 Agito to hand",
 "NL Lv10:unlock Burning Form(incomplete)",
-"You can only play this card while at KamenRide: Agito",
+"You can only play this card as Kamen Rider Agito",
 "Gain !MDexterity NL Exhaust "
 ]
 },
@@ -313,7 +313,7 @@
 "NL Lv8:Strength+2,Dexterity+1",
 "NL Lv9:add 1 Agito to hand",
 "NL Lv10:unlock Burning Form(incomplete)",
-"You can only play this card while at KamenRide: Agito",
+"You can only play this card as Kamen Rider Agito",
 "Gain !MStrength NL Exhaust "
 ]
 },
@@ -456,7 +456,7 @@
 "You can't use it at KamenRide: Ryuki",
 "Choose Rising Dragon/Pegasus/TitanForm NL Exhaust ",
 "10 PhotonStream  enter to AxelForm 10 seconds NL Exhaust ",
-"Already at Form",
+"Already in Form",
 "Enter JackForm NL Exhaust ",
 "Already JackForm",//10
 "Limit. enter Cast On Form, add 1 Cast Off to hand NL Exhaust ",//11
@@ -467,14 +467,14 @@
 ]
 },
 "KamenRideRyuki":{
-"NAME": "KamenRide: Ryuki",
+"NAME": "KamenRide",
 "DESCRIPTION": "Strength + !M! NL Henshin into Kamen Rider Ryuki ",
 "UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Henshin into Kamen Rider Ryuki ",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade Violent Form will change its effect",
-"You can only play this card while at KamenRide: Decade",
-"You're already henshined into Kamen Rider Ryuki",
+"You can only play this card as Kamen Rider Decade",
+"You are already henshined into Kamen Rider Ryuki",
 "Dragreder summoned,extend it 2 rounds,or summon it 2 rounda, add 1 Replica to draw pile",
 "Innate NL Dragreder summoned,extend it 2 rounds,or summon it 2 rounda, add 1 Replica to draw pile"
 ]
@@ -600,14 +600,14 @@
 ]
 },
 "KamenRideFaiz":{
-"NAME": "KamenRide: Faiz",
+"NAME": "KamenRide",
 "DESCRIPTION": "Enter KamenRide: Faiz, gain Driver",
 "UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Faiz, gain Driver",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade Violent Form will change its effect",
 "You need to use this at KamenRide: Decade",
-"You're already at KamenRide: Faiz",
+"You're henshin into Kamen Rider Faiz",
 "Add Crimson Smash、Punching Unit、Sparkle Cut to the draw pile",
 "Innate NL add Crimson Smash、Punching Unit、 Sparkle Cut to the draw pile"
 ]
@@ -640,7 +640,7 @@
 "NAME": "Crimson Smash",
 "DESCRIPTION": "Deal 15 InnateDamage and  !D! true damage 5 times to one enemy NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-"You can only play this card while at KamenRide: Faiz",
+"You can only play this card as Kamen Rider Faiz",
 "Deal !D! true damage to one enemy 5 times NL Exhaust "
 ]
 },
@@ -648,7 +648,7 @@
 "NAME": "Punching Unit",
 "DESCRIPTION": "Deal 17 InnateDamage and  !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times) NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-"This card can only be used while henshined into Kamen Rider KamenRide: Faiz",
+"This card can only be used while henshined into Kamen Rider Faiz",
 "Deal !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times) NL Exhaust "
 ]
 },
@@ -656,7 +656,7 @@
 "NAME": "Sparkle Cut",
 "DESCRIPTION": "Deal 18 InnateDamage and  !D! damage stun enemy NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-"You can only play this card while at KamenRide: Faiz",
+"You can only play this card as Kamen Rider Faiz",
 "Deal !D! damage to one enemy and stun them NL Exhaust "
 ]
 },
@@ -664,22 +664,22 @@
 "NAME": "Axel Form",
 "DESCRIPTION": "Limit. 10 PhotonStream to limit enter AxelForm 10 second, apply 3 Vulnerable, Whenever you play a Driver, draw 1 cards NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-"You can only play this card while at KamenRide: Faiz",
-"Already at Axel Form",
+"You can only play this card as Kamen Rider Faiz",
+"Already in Axel Form",
 "Draw 5 cards, gain 5 energy NL Exhaust (played only once in a round)",
 "Played only once in a round",
 "Not enough PhotonStream"
 ]
 },
 "KamenRideBlade":{
-"NAME": "KamenRide: Blade",
+"NAME": "KamenRide",
 "DESCRIPTION": "Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Blade ",
 "UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Blade ",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade Violent Form will change its effect",
 "You may only use this card as Kamen Rider Decade",
-"You're already henshined into Kamen Rider Blade",
+"You are already henshined into Kamen Rider Blade",
 "RideBooker MaxUsage +1(Max 3)",
 "Innate RideBooker MaxUsage +1(Max 3)",
 "RideBooker usage is Max,can't use it"
@@ -816,14 +816,14 @@
 ]
 },
 "KamenRideHibiki":{
-"NAME": "KamenRide: Hibiki",
+"NAME": "KamenRide",
 "DESCRIPTION": "Strength + !M! NL Henshin into Kamen Rider Hibiki ",
 "UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Henshin into Kamen Rider Hibiki ",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade Violent Form will change its effect",
 "You may only use this card as Kamen Rider Decade",
-"You're already henshined into Kamen Rider Hibiki",
+"You are already henshined into Kamen Rider Hibiki",
 "Apply 5 RagingFlames ",
 "Innate NL apply 5 RagingFlames "
 ]
@@ -859,20 +859,20 @@
 "DESCRIPTION": "Limit. not at Hibiki KurenaiForm CP +10,already Hibiki KurenaiForm RagingFlames +10 NL Exhaust ",
 "UPGRADE_DESCRIPTION": "Limit. not at Hibiki KurenaiForm CP +10,already Hibiki KurenaiForm RagingFlames +10",
 "EXTENDED_DESCRIPTION":[
-"You can only play this card while at KamenRide: Hibiki",
+"You can only play this card as Kamen Rider Hibiki",
 "Apply 10 RagingFlames NL Exhaust ",
 "Apply 10 RagingFlames "
 ]
 },
 "KamenRideKabuto":{
-"NAME": "KamenRide: Kabuto",
+"NAME": "KamenRide",
 "DESCRIPTION": "Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Kabuto, add 1 PutOn to hand",
 "UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Kabuto, add 1 PutOn to hand",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade Violent Form will change its effect",
 "You may only use this card as Kamen Rider Decade",
-"You're already henshined into Kamen Rider Kabuto",
+"You are already henshined into Kamen Rider Kabuto",
 "Add 3 Photon to draw pile",
 "Innate add 3 Photon to draw pile"
 ]
@@ -1105,17 +1105,17 @@
 "NAME": "Violent Form",
 "DESCRIPTION": "Enter ViolentForm, gain Strength +1, Dexterity +1 NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-"You're already in ViolentForm！"
+"You are already in ViolentForm！"
 ]
 },
 "KamenRideDenO":{
-"NAME": "KamenRide: Den-O+",
+"NAME": "KamenRide",
 "DESCRIPTION": "Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Den-O ",
 "UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Den-O ",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "You may only use this card as Kamen Rider Decade",
-"You're already henshined into KamenRide:Den-O",
+"You are already henshined into KamenRide:Den-O",
 "Max hand cards+10",
 "Innate NL Max hand cards+10"
 ]
@@ -1295,14 +1295,14 @@
 ]
 },
 "KamenRideKiva":{
-"NAME": "KamenRide: Kiva",
+"NAME": "KamenRide",
 "DESCRIPTION": "Enter KamenRide: Kiva, add 1 UnknownWhistle to hand",
 "UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Kiva, add 1 UnknownWhistle to hand",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade: Violent Form will change its effect",
 "You may only use this card as Kamen Rider Decade",
-"You're already henshined into Kamen Rider Kiva"
+"You are already henshined into Kamen Rider Kiva"
 ]
 },
 "FormRideGaruru":{
@@ -1310,7 +1310,7 @@
 "DESCRIPTION": "Form. Limit. enter GaruruForm",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Kiva",
-"Already at GaruruForm",
+"Already in GaruruForm",
   "Consume half of your existing health and restore one quarter of its energy (at least 4 points of life are consumed, now",
   ", recovery",
   "energy)",
@@ -1322,7 +1322,7 @@
 "DESCRIPTION": "Form. Limit. enter BasshaaForm",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Kiva",
-"Already at BasshaaForm",
+"Already in BasshaaForm",
   "Consume half of your existing energy, give every point of energy !B! block",
   "Your energy is not enough!"
 ]
@@ -1332,7 +1332,7 @@
 "DESCRIPTION": "Form. Limit. enter DoggaForm",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Kiva",
-"Already at DoggaForm",
+"Already in DoggaForm",
   "Consume half of your existing block, and increase your Max HP by a quarter (consume at least 4 blocks, now consume",
   ",Increase Max HP ",
   ")",
@@ -1395,7 +1395,7 @@
 "NAME": "Unknown Whistle",
 "DESCRIPTION": "Choose one Whistle from Garuru/Basshaa/Dogga, enter corresponding Form for 3 rounds NL Exhaust NL Retain ",
 "EXTENDED_DESCRIPTION":[
-"You can only play this card while at KamenRide: Kiva"
+"You can only play this card as Kamen Rider Kiva"
 ]
 },
 
