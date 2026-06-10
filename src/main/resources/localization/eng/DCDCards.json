@@ -254,7 +254,7 @@
 },
 "KamenRideAgito":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Enter KamenRide: Agito ",
+"DESCRIPTION": "Henshin into NL Kamen Rider  Agito ",
 "UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Agito ",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
@@ -601,7 +601,7 @@
 },
 "KamenRideFaiz":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Enter KamenRide: Faiz, gain Driver",
+"DESCRIPTION": "Henshin into NL Kamen Rider Faiz NL Gain Driver",
 "UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Faiz, gain Driver",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
@@ -866,8 +866,8 @@
 },
 "KamenRideKabuto":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Kabuto, add 1 PutOn to hand",
-"UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Kabuto, add 1 PutOn to hand",
+"DESCRIPTION": "Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Kabuto NL Add 1 PutOn to hand",
+"UPGRADE_DESCRIPTION": "Innate NL Strength + !M! NL Dexterity + !M! NL Henshin into Kamen Rider Kabuto & Add 1 Put On to hand",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade Violent Form will change its effect",
@@ -905,7 +905,7 @@
 },
 "Kabuto_PutOn":{
 "NAME": "Put On",
-"DESCRIPTION": "Limit. enter MaskedForm, add 1 Cast Off, retain NL Exhaust ",
+"DESCRIPTION": "Limit NL Switch to MaskedForm NL Add 1 Cast Off to hand NL Retain NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Can't use Put On at MaskedForm",
 "Special Limit",
@@ -1296,8 +1296,8 @@
 },
 "KamenRideKiva":{
 "NAME": "KamenRide",
-"DESCRIPTION": "Enter KamenRide: Kiva, add 1 UnknownWhistle to hand",
-"UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Kiva, add 1 UnknownWhistle to hand",
+"DESCRIPTION": "Henshin into NL Kamen Rider  Kiva NL Add 1 UnknownWhistle to hand",
+"UPGRADE_DESCRIPTION": "Innate NL Henshin into Kamen Rider Kiva NL Add 1 UnknownWhistle to hand",
 "EXTENDED_DESCRIPTION":[
 "Effect change",
 "Using this card at Decade: Violent Form will change its effect",
