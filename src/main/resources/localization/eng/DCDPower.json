@@ -28,7 +28,7 @@
   "KamenRideKuugaPower": {
     "NAME": "KamenRide: Kuuga",
     "DESCRIPTIONS": [
-      "When you play Unarmed or Kuuga Attacks, apply #r SealEnergy, increase your Unarmed Damage by 2, SuperRegen doesn't reduce while in Mighty Form"
+      "When you play Unarmed or Kuuga Attacks, apply #r SealEnergy, increase your Unarmed Damage by 2, Regeneration doesn't decrease while in Mighty Form"
     ]
   },
   "KuugaSpecialPower": {
@@ -40,7 +40,7 @@
     ]
   },
   "SuperRegenPower": {
-    "NAME": "Super Regen",
+    "NAME": "Regeneration",
     "DESCRIPTIONS": [
       "Heal #g at end of every round",
       " Hp",
@@ -76,7 +76,7 @@
   "RisingMightyPower": {
     "NAME": "Rising Mighty Form",
     "DESCRIPTIONS": [
-      "Attack will apply #rSealEnergy +1,RisingMighty SuperRegen wont decline,Unarmed Attacks will apply 1 #r "
+      "Attack will apply #rSealEnergy +1,RisingMighty Regeneration will not decrease,Unarmed Attacks will apply 1 #r "
     ]
   },
   "RisingDragonPower": {

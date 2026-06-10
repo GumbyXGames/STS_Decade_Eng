@@ -19,7 +19,7 @@
 		"blademode",
 		"blademode"
 	],
-	"DESCRIPTION": " Strength + #r1 ,add 3 Wipe Sword to draw pile"
+	"DESCRIPTION": " Strength + #r1 NL add 3 Wipe Sword to draw pile"
 },{
 	"PROPER_NAME": "Gun Mode",
 	"NAMES": [
@@ -35,12 +35,12 @@
 	],
 	"DESCRIPTION": "You can play this card when the mark on it matches your current Status."
 },{
-	"PROPER_NAME": "Super Regen",
+	"PROPER_NAME": "Regeneration",
 	"NAMES": [
 		"superregen",
 		"superregen"
 	],
-	"DESCRIPTION": "At end of every round ,heal Hp"
+	"DESCRIPTION": "At end of every round, Heal HP"
 },{
 	"PROPER_NAME": "Seal Energy",
 	"NAMES": [
