@@ -6,7 +6,7 @@
 
     <groupId>dcd_eng</groupId>
     <artifactId>dcd_eng</artifactId>
-    <version>v0.0.1</version>
+    <version>v0.0.1.1</version>
     <packaging>jar</packaging>
 
     <name>dcd_eng</name>
@@ -17,8 +17,55 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <SlayTheSpire.version>12-18-2022</SlayTheSpire.version>
         <ModTheSpire.version>3.30.0</ModTheSpire.version>
-        <Steam.path>${user.home}/Library/Application Support/Steam/steamapps</Steam.path>
+        <!-- <steam.path>${user.home}/Library/Application Support/Steam/steamapps</Steam.path> -->
+        <steam.windows>C:/Program Files (x86)/steam/steamapps</steam.windows>
+        <steam.linux>${user.home}/.local/share/Steam/steamapps</steam.linux>
+        <steam.mac>${user.home}/Library/Application Support/Steam/steamapps</steam.mac>
     </properties>
+
+    <profiles>
+        <profile>
+            <id>linux</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+                <os>
+                    <family>unix</family>
+                </os>
+            </activation>
+            <properties>
+                <steam.path>${steam.linux}</steam.path>
+                <sts.path>common/SlayTheSpire/</sts.path>
+                <mod.path>common/SlayTheSpire/mods/</mod.path>
+            </properties>
+        </profile>
+
+        <profile>
+            <id>windows</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <steam.path>${steam.windows}</steam.path>
+                <sts.path>common/SlayTheSpire/</sts.path>
+                <mod.path>common/SlayTheSpire/mods/</mod.path>
+            </properties>
+        </profile>
+
+        <profile>
+            <id>mac</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+                <os>
+                    <family>mac</family>
+                </os>
+            </activation>
+            <properties>
+                <steam.path>${steam.mac}</steam.path>
+                <sts.path>common/SlayTheSpire/SlayTheSpire.app/Contents/Resources/</sts.path>
+                <mod.path>common/SlayTheSpire/SlayTheSpire.app/Contents/Resources/mods/</mod.path>
+            </properties>
+        </profile>
+    </profiles>
 
     <dependencies>
         <dependency>
@@ -26,26 +73,27 @@
             <artifactId>slaythespire</artifactId>
             <version>2022-12-18</version>
             <scope>system</scope>
-            <systemPath>${Steam.path}/common/SlayTheSpire/SlayTheSpire.app/Contents/Resources/desktop-1.0.jar</systemPath>
+            <systemPath>${steam.path}/${sts.path}/desktop-1.0.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>basemod</groupId>
             <artifactId>basemod</artifactId>
             <version>5.52.3</version>
             <scope>system</scope>
-            <systemPath>${Steam.path}/workshop/content/646570/1605833019/BaseMod.jar</systemPath>
+            <systemPath>${steam.path}/workshop/content/646570/1605833019/BaseMod.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>com.evacipated.cardcrawl</groupId>
             <artifactId>ModTheSpire</artifactId>
             <version>3.30.0</version>
             <scope>system</scope>
-            <systemPath>${Steam.path}/workshop/content/646570/1605060445/ModTheSpire.jar</systemPath>
+            <systemPath>${steam.path}/workshop/content/646570/1605060445/ModTheSpire.jar</systemPath>
         </dependency>
     </dependencies>
 
     <build>
         <finalName>${project.artifactId}</finalName>
+
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -65,7 +113,8 @@
                         <phase>package</phase>
                         <configuration>
                             <target>
-                                <copy file="target/${project.artifactId}.jar" tofile="${Steam.path}/common/SlayTheSpire/SlayTheSpire.app/Contents/Resources/mods/${project.artifactId}.jar"/>
+                                <!-- <copy file="target/${project.artifactId}.jar" tofile="${steam.path}/common/SlayTheSpire/SlayTheSpire.app/Contents/Resources/mods/${project.artifactId}.jar"/> -->
+                                <copy file="target/${project.artifactId}.jar" tofile="${steam.path}/${mod.path}/${project.artifactId}.jar"/>
                             </target>
                         </configuration>
                         <goals>

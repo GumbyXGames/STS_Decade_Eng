@@ -1,30 +1,30 @@
 ﻿{
 "Decade_Attack":{
 "NAME": "Punch",
-"DESCRIPTION": "Unarmed NL Deal !D! damage to one enemy",
+"DESCRIPTION": "Unarmed NL Deal !D! damage NL to one enemy",
 "EXTENDED_DESCRIPTION":[
 "Unarmed NL Deal !D! damage to one enemy NL apply !M! Vulnerable ",
 "Limit reinforce",
 "Enhanced effect at KamenRide:Decade",
-"Unarmed, cause !D! point truly damage to one enemy"
+"Unarmed NL Deal !D! point truly damage to one enemy"
 ]
 },
 "Decade_Defend":{
 "NAME": "Roll",
-"DESCRIPTION": "Gain !B! Block and one Roll. "
+"DESCRIPTION": "Gain !B! Block NL and one Roll. "
 },
 "FinalAttackRide":{
 "NAME": "Final Attack Ride",
-"DESCRIPTION": "Deal !D! damage twice(different effects will be applied according to the KamenRide), Exhaust ",
+"DESCRIPTION": "Deal !D! damage twice(different effects will be applied according to the KamenRide) Exhaust ",
 "EXTENDED_DESCRIPTION":[
-"Deal !D! ",//0
-"Damage twice to one enemy, every played card in this battle will add,damage+1, Exhaust ",//1
+"Deal !D! damage",//0
+"Attack one enemy twice NL Deal +1 damage for every played card in this battle NL Exhaust ",//1
 "(+",//2
 ")",//3
-"Deal !D! damage 1 time for every SealEnergy, then remove all SealEnergy, Exhaust ",//4
+"Deal !D! damage 1 time for every SealEnergy, then remove all SealEnergy NL Exhaust ",//4
 "Enemy SealEnergy is not high enough",//5
-"Deal !D! damage 2 times, if SealEnergy 3 or more deal damage 1.5 times,  all SealEnergy, Exhaust ",//6
-"Deal !D! damage, deal addition damage equal to damage you received,damage+1, Remove all SealEnergy, Exhaust ",//7
+"Deal !D! damage 2 times, if SealEnergy 3 or more deal damage 1.5 times,  all SealEnergy NL Exhaust ",//6
+"Deal !D! damage, deal addition damage equal to damage you received,damage+1, Remove all SealEnergy NL Exhaust ",//7
 "Splash Dragon",//8
 "Calamity Titan",//8
 "Mighty Form",//10
@@ -33,25 +33,25 @@
 "Rising Mighty Kick",//13
 "Rising Blast Pegasus",//14
 "Rising Splash Dragon",//15
-"Deal triple !D! true damage to all enemies, Exhaust ",//16
-"Deal !D! damage twice, if enemy has 3 or more SealEnergy,cause double damage, Remove all SealEnergy, Exhaust ",//17
-"Deal !D! damage(damage you received and Block will affect this card), Remove all SealEnergy, Exhaust ",//18
+"Deal triple !D! true damage to all enemies NL Exhaust ",//16
+"Deal !D! damage twice, if enemy has 3 or more SealEnergy,cause double damage, Remove all SealEnergy NL Exhaust ",//17
+"Deal !D! damage(damage you received and Block will affect this card), Remove all SealEnergy NL Exhaust ",//18
 "Halberd Spin",//19
-"Deal !D! damage 2 times to one enemy, plus one more time for every 3 StormPower, Exhaust all StormPower, Exhaust ",//20
+"Deal !D! damage 2 times to one enemy, plus one more time for every 3 StormPower NL Exhaust all StormPower NL Exhaust ",//20
 "Dimension Kick",//21
 "Rider Kick",//22
 "Saber Slash",//23
-"Deal !D! damage twice to one enemy, Exhaust ",//24
+"Deal !D! damage twice to one enemy NL Exhaust ",//24
 "Trinity Kick",//25
-"Deal !D! damage twice to one enemy,enter Decade, Exhaust ",//26
-"Deal !D! true damage twice to all enemies, Exhaust ",//27
+"Deal !D! damage twice to one enemy,enter Decade NL Exhaust ",//26
+"Deal !D! true damage twice to all enemies NL Exhaust ",//27
 "Dragon Rider Kick",//28
-"Deal !D! damage to one enemy,Exhaust all DragonFire each increase damage+6, Exhaust ",//29
+"Deal !D! damage to one enemy,Exhaust all DragonFire each increase damage+6 NL Exhaust ",//29
 "Special effect",//30
 "When Dragreder is summoned: Exhaust DragonFire, if Fatal to Minion, raise your MAX HP 10",//31
 "Crimson Smash",//32
-"Deal 5 Innate damage 3 times to one enemy,and deal  !D! truly damage 5 times, Exhaust ",//33
-"AxelForm end with 5 InnateDamage and !D! truly damage 5 times to one random enemy, Exhaust ",//34
+"Deal 5 Innate damage 3 times to one enemy,and deal  !D! truly damage 5 times NL Exhaust ",//33
+"AxelForm end with 5 InnateDamage and !D! truly damage 5 times to one random enemy NL Exhaust ",//34
 "Axel Crimson Smash",//35
 "You must use EnhanceSlash or EnhanceKick before you use Blade FinalAttack",//36
 "Slash(blade)",//37
@@ -66,16 +66,16 @@
 "Deal !D! damage to one enemy, increase damage by 4 for every Thunder ",//46
 "Deal !D! damage to one enemy",//47
 "Ongeki Da Kaenrenda",//48
-"Exhaust 10 CP deal !D! damage10 to all enemies(damage based on CP divide 3),only use has fever, Exhaust ",//49
+"Exhaust 10 CP deal !D! damage10 to all enemies(damage based on CP divide 3) only use has fever NL Exhaust ",//49
 "Your CP is not 10！",//50
-"Deal !D! damage to one enemy,has PhotonAccelerate:Power/Swift, gain 1 Photon,PhotonAccelerate:Swift gain 1 Intangible, Exhaust ",//51
+"Deal !D! damage to one enemy,has PhotonAccelerate:Power/Swift, gain 1 Photon,PhotonAccelerate:Swift gain 1 Intangible NL Exhaust ",//51
 "Double Rising Calamity Titan",//52
-"Deal !D! damage 2 times to one enemy(increase damage by the amount you received),Remove all SealEnergy, Exhaust ",//53
+"Deal !D! damage 2 times to one enemy(increase damage by the amount you received),Remove all SealEnergy NL Exhaust ",//53
 "Special Limit",//54
 "If chosen from RideBooker,Exhaust all usable times",//55
 "Extreme Slash:Part2!",//56
 "Exhaust all non-CardPile at hand, deal !D! to one enemy(+",//57
-")damage twice (increase damage by 1 for every Exhausted card), Exhaust ",//58
+")damage twice (increase damage by 1 for every Exhausted card) NL Exhaust ",//58
 "Darkness Moon Break",//59
 "Deal damage equal to its Block, deal !D! to all enemies(+",//60
 ")damage, increase bamage by 1 for each Laceration",//61
@@ -92,7 +92,7 @@
 },
 "KamenRide":{
 "NAME": "Kamen Ride",
-"DESCRIPTION": "Choose one KamenRide Card and add it to your hand, Exhaust "
+"DESCRIPTION": "Choose one KamenRide Card and add it to your hand NL Exhaust "
 },
 "KamenRideDecade":{
 "NAME": "Kamen Ride",
@@ -112,7 +112,7 @@
 },
 "Decade_Slash":{
 "NAME": "Slash",
-"DESCRIPTION": "Armed, deal !D! damage 5 times to one enemy, Exhaust "
+"DESCRIPTION": "Armed, deal !D! damage 5 times to one enemy NL Exhaust "
 },
 "RideBooker_Shoot":{
 "NAME": "Shot",
@@ -136,7 +136,7 @@
 },
 "Decade_Illusion":{
 "NAME": "Illusion",
-"DESCRIPTION": "Prevent next life damage you received., Exhaust "
+"DESCRIPTION": "Prevent next life damage you received. NL Exhaust "
 },
 "KamenRideKuuga":{
 "NAME": "Kamen Ride",
@@ -157,7 +157,7 @@
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Kuuga ",
 "Form, Limit. enter RisingDragonForm, Dexterity + !M! ",
-"Gain 2 Side, Exhaust "
+"Gain 2 Side NL Exhaust "
 ]
 },
 "FormRideTitan":{
@@ -166,7 +166,7 @@
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Kuuga",
 "Form, Limit. enter RisingTitanForm, Dexterity + !M!, gain Barricade ",
-"Gain Barricade, Exhaust "
+"Gain Barricade NL Exhaust "
 ]
 },
 "FormRidePegasus":{
@@ -180,24 +180,24 @@
 },
 "PegasusDefend":{
 "NAME": "Super Sense",
-"DESCRIPTION": "Completely avoid next damage once., Exhaust ",
+"DESCRIPTION": "Completely avoid next damage once. NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while in Pegasus Form"
 ]
 },
 "Kuuga_Rising":{
 "NAME": "Rising",
-"DESCRIPTION": "Limit. enhanced current KamenRideKuuga:Kuuga, Exhaust ",
+"DESCRIPTION": "Limit. enhanced current KamenRideKuuga:Kuuga NL Exhaust ",
 "UPGRADE_DESCRIPTION": "Limit. enhanced current KamenRideKuuga:Kuuga ",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Kuuga",
-"Strength +2, SuperRegen +3, Exhaust ",
+"Strength +2, SuperRegen +3 NL Exhaust ",
 "Strength +2, SuperRegen +3"
 ]
 },
 "PegasusAttack":{
 "NAME": "Rising Blast Pegasus",
-"DESCRIPTION": "Deal !D! damage 3 times to all enemies., Exhaust ",
+"DESCRIPTION": "Deal !D! damage 3 times to all enemies. NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card in Rising Pegasus Form"
 ]
@@ -205,14 +205,14 @@
 "TimeVent":{
 "NAME": "Time Vent",
 "DESCRIPTION": "Every time you restart, gain Strength +2, Dexterity +2, remove ",
-"UPGRADE_DESCRIPTION": "Every time you restart,gain Strength +2, Dexterity +2, Exhaust ",
+"UPGRADE_DESCRIPTION": "Every time you restart,gain Strength +2, Dexterity +2 NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "This battle already used TimeVent"
 ]
 },
 "NMDAZYYGL":{
 "NAME": "You are my master!",
-"DESCRIPTION": "Make a Minion target to defeat, Exhaust ",
+"DESCRIPTION": "Make a Minion target to defeat NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can't use it to a BOSS",
 "It's so cute that you must kill them brutally"
@@ -267,7 +267,7 @@
 },
 "AgitoPower":{
 "NAME": "Agito",
-"DESCRIPTION": "Next Attack will double its damage, Exhaust ",
+"DESCRIPTION": "Next Attack will double its damage NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at KamenRide: Agito"
 ]
@@ -288,12 +288,12 @@
 "NL Lv9:add 1 Agito to hand",
 "NL Lv10:unlock Burning Form(incomplete)",
 "You can only play this card while at KamenRide: Agito",
-"Gain !MDexterity, Exhaust "
+"Gain !MDexterity NL Exhaust "
 ]
 },
 "StormSpecialCard":{
 "NAME": "Storm That Beyond Spirit",
-"DESCRIPTION": "Next attack will deal additional damage that Strength affect 2 times, Exhaust ",
+"DESCRIPTION": "Next attack will deal additional damage that Strength affect 2 times NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while in Storm Form"
 ]
@@ -314,12 +314,12 @@
 "NL Lv9:add 1 Agito to hand",
 "NL Lv10:unlock Burning Form(incomplete)",
 "You can only play this card while at KamenRide: Agito",
-"Gain !MStrength, Exhaust "
+"Gain !MStrength NL Exhaust "
 ]
 },
 "FlameSpecialCard":{
 "NAME": "Flame That Beyond Sense",
-"DESCRIPTION": "Next attack damage will be replaced by damage that Dexterity affect 3 times, use other card will cancel effect, Exhaust ",
+"DESCRIPTION": "Next attack damage will be replaced by damage that Dexterity affect 3 times, use other card will cancel effect NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while in Flame Form"
 ]
@@ -359,8 +359,8 @@
 },
 "UnarmedAttack9":{
 "NAME": "Unstoppable!",
-"DESCRIPTION": "Unarmed, every 1 Strength, increase MaxHp 2%  damage to one enemy, Exhaust ",
-"UPGRADE_DESCRIPTION": "Unarmed, every 1 Strength or 1 Dexterity, increase MaxHp 2%  damage to one enemy, Exhaust "
+"DESCRIPTION": "Unarmed, every 1 Strength, increase MaxHp 2%  damage to one enemy NL Exhaust ",
+"UPGRADE_DESCRIPTION": "Unarmed, every 1 Strength or 1 Dexterity, increase MaxHp 2%  damage to one enemy NL Exhaust "
 },
 "PrometheusPower":{
 "NAME": "Prometheus Power",
@@ -446,24 +446,24 @@
 },
 "FormRide":{
 "NAME": "Form Ride",
-"DESCRIPTION": "Change your Form according to your current KamenRide, Exhaust ",
+"DESCRIPTION": "Change your Form according to your current KamenRide NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at a KamenRide Status",
-"Choose 1 FormCard,cost 0, Exhaust ",
-"Choose Dragon/Pegasus/TitanForm, Exhaust ",
-"Choose Flame/StormForm, Exhaust ",
+"Choose 1 FormCard,cost 0 NL Exhaust ",
+"Choose Dragon/Pegasus/TitanForm NL Exhaust ",
+"Choose Flame/StormForm NL Exhaust ",
 "No Form to change",
 "You can't use it at KamenRide: Ryuki",
-"Choose Rising Dragon/Pegasus/TitanForm, Exhaust ",
-"10 PhotonStream  enter to AxelForm 10 seconds, Exhaust ",
+"Choose Rising Dragon/Pegasus/TitanForm NL Exhaust ",
+"10 PhotonStream  enter to AxelForm 10 seconds NL Exhaust ",
 "Already at Form",
-"Enter JackForm, Exhaust ",
+"Enter JackForm NL Exhaust ",
 "Already JackForm",//10
-"Limit. enter Cast On Form, add 1 Cast Off to hand, Exhaust ",//11
-"Limit. eliminate MaskedForm, discard all card,according to cards type cast, Exhaust ",//12
+"Limit. enter Cast On Form, add 1 Cast Off to hand NL Exhaust ",//11
+"Limit. eliminate MaskedForm, discard all card,according to cards type cast NL Exhaust ",//12
 "Special effect",//13
-"Attacks: draw cards equal to discard NL skills:deal double damage equal to discard NL Ability: add 1 PutOn to hand NL Status: gain Strength equal to discaed NL Cursed:, Exhaust it, receive damage equal to discard 3 times, add 3 Photon to card pile",//14
-"Choose Garuru/Basshaa/DoggaForm, Exhaust "//15
+"Attacks: draw cards equal to discard NL skills:deal double damage equal to discard NL Ability: add 1 PutOn to hand NL Status: gain Strength equal to discaed NL Cursed: NL Exhaust it, receive damage equal to discard 3 times, add 3 Photon to card pile",//14
+"Choose Garuru/Basshaa/DoggaForm NL Exhaust "//15
 ]
 },
 "KamenRideRyuki":{
@@ -525,12 +525,12 @@
 "NAME": "Strike Vent",
 "DESCRIPTION": "Deal !D! damage to one enemy and Sputtering others",
 "EXTENDED_DESCRIPTION":[
-", Exhaust ",
+" NL Exhaust ",
 "Deal !D! damage to one enemy,Sputtering",
 "Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire ",
-"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire, Exhaust 2 Fire Wall, gain Block equal to damage",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire NL Exhaust 2 Fire Wall, gain Block equal to damage",
 "Half damage to others, attacked every 1 enemy, additional gain 2 DragonFire ",
-"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire, Exhaust 2 Fire Wall, gain Block equal to damage",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire NL Exhaust 2 Fire Wall, gain Block equal to damage",
 "Limit Enhance",
 "Basic damage +3 at KamenRide: Ryuki",
 "EnhanceFatal",//8
@@ -541,14 +541,14 @@
 },
 "DragClaw_s":{
 "NAME": "Strike Vent",
-"DESCRIPTION": "Deal !D! damage to one enemy and Sputtering others, Exhaust ",
+"DESCRIPTION": "Deal !D! damage to one enemy and Sputtering others NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-", Exhaust ",
+" NL Exhaust ",
 "Deal !D! damage to one enemy,Sputtering",
 "Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire ",
-"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire, Exhaust 2 Fire Wall gain  Block  equal to damage",
+"Half damage to others, attacked every 1 enemy, additional gain 1 DragonFire NL Exhaust 2 Fire Wall gain  Block  equal to damage",
 "Half damage to others, attacked every 1 enemy, additional gain 2 DragonFire ",
-"Half damage to others, attacked every 1 enemy, additional gain 2 DragonFire, Exhaust 2 Fire Wall gain  Block  equal to damage",
+"Half damage to others, attacked every 1 enemy, additional gain 2 DragonFire NL Exhaust 2 Fire Wall gain  Block  equal to damage",
 "Limit Enhance",
 "Basic damage +3 at KamenRide: Ryuki",
 "EnhanceFatal",//8
@@ -561,7 +561,7 @@
 "NAME": "Guard Vent",
 "DESCRIPTION": "Apply !M! DragShield ",
 "EXTENDED_DESCRIPTION":[
-", Exhaust ",
+" NL Exhaust ",
 "Limit Enhance",
 "Fire Wall+1 at KamenRide: Ryuki",
 "EnhanceFatal",//3
@@ -572,9 +572,9 @@
 },
 "DragShield_s":{
 "NAME": "Guard Vent",
-"DESCRIPTION": "Apply !M! DragShield, Exhaust ",
+"DESCRIPTION": "Apply !M! DragShield NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
-", Exhaust ",
+" NL Exhaust ",
 "Limit Enhance",
 "Fire Wall+1 at KamenRide: Ryuki",
 "EnhanceFatal",//3
@@ -585,7 +585,7 @@
 },
 "Dragreder":{
 "NAME": "Advent",
-"DESCRIPTION": "Summon Dragreder for !M! rounds NL, Exhaust ",
+"DESCRIPTION": "Summon Dragreder for !M! rounds NL NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Already summoned Dragreder",
 "Limit Enhance",
@@ -594,7 +594,7 @@
 },
 "MirrorWorld":{
 "NAME": "Mirror World",
-"DESCRIPTION": "Apply mirrorworld, Exhaust ",
+"DESCRIPTION": "Apply mirrorworld NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Already has Mirror World"
 ]
@@ -638,35 +638,35 @@
 },
 "CrimsonSmash":{
 "NAME": "Crimson Smash",
-"DESCRIPTION": "Deal 15 InnateDamage and  !D! true damage 5 times to one enemy, Exhaust ",
+"DESCRIPTION": "Deal 15 InnateDamage and  !D! true damage 5 times to one enemy NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at KamenRide: Faiz",
-"Deal !D! true damage to one enemy 5 times, Exhaust "
+"Deal !D! true damage to one enemy 5 times NL Exhaust "
 ]
 },
 "PunchingUnit":{
 "NAME": "Punching Unit",
-"DESCRIPTION": "Deal 17 InnateDamage and  !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times), Exhaust ",
+"DESCRIPTION": "Deal 17 InnateDamage and  !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times) NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "This card can only be used while in KamenRide: KamenRide: Faiz",
-"Deal !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times), Exhaust "
+"Deal !D! damage to one enemy(eliminate all Block additional deal damage equal to Block 3 times) NL Exhaust "
 ]
 },
 "SparkleCut":{
 "NAME": "Sparkle Cut",
-"DESCRIPTION": "Deal 18 InnateDamage and  !D! damage stun enemy, Exhaust ",
+"DESCRIPTION": "Deal 18 InnateDamage and  !D! damage stun enemy NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at KamenRide: Faiz",
-"Deal !D! damage to one enemy and stun them, Exhaust "
+"Deal !D! damage to one enemy and stun them NL Exhaust "
 ]
 },
 "FormRideAxel":{
 "NAME": "Axel Form",
-"DESCRIPTION": "Limit. 10 PhotonStream to limit enter AxelForm 10 second, apply 3 Vulnerable, Whenever you play a Driver, draw 1 cards, Exhaust ",
+"DESCRIPTION": "Limit. 10 PhotonStream to limit enter AxelForm 10 second, apply 3 Vulnerable, Whenever you play a Driver, draw 1 cards NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at KamenRide: Faiz",
 "Already at Axel Form",
-"Draw 5 cards, gain 5 energy, Exhaust (played only once in a round)",
+"Draw 5 cards, gain 5 energy NL Exhaust (played only once in a round)",
 "Played only once in a round",
 "Not enough PhotonStream"
 ]
@@ -723,7 +723,7 @@
 },
 "Blade_Slash":{
 "NAME": "Enhance Slash",
-"DESCRIPTION": "Armed card damage+2, Exhaust ",
+"DESCRIPTION": "Armed card damage+2 NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: Armed cards have a probability chance to be played twice (only 1 EnhanceStatus at a time)"
@@ -731,7 +731,7 @@
 },
 "Blade_Beat":{
 "NAME": "Enhance Punch",
-"DESCRIPTION": "Unarmed cards damage+2, Exhaust ",
+"DESCRIPTION": "Unarmed cards damage+2 NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: Unarmed cards have a probability chance of stunning the enemy (only 1 EnhanceStatus at a time)"
@@ -739,7 +739,7 @@
 },
 "Blade_Kick":{
 "NAME": "Enhance Kick ",
-"DESCRIPTION": "Next Final Attack deals double damage (some Final Attacks are not included), Exhaust ",
+"DESCRIPTION": "Next Final Attack deals double damage (some Final Attacks are not included) NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: if no Final Attack is in your hand, add 1 to your hand (only 1 EnhanceStatus at a time)"
@@ -747,7 +747,7 @@
 },
 "Blade_Mach":{
 "NAME": "Mach Speed",
-"DESCRIPTION": "Dexterity +2, draw 1 card, Exhaust ",
+"DESCRIPTION": "Dexterity +2, draw 1 card NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: When you play this card, for the rest of the turn  draw 1 card when you play a Skill"
@@ -755,7 +755,7 @@
 },
 "Blade_Metal":{
 "NAME": "Metallicize",
-"DESCRIPTION": "At the end of your turn, gain !M! Block metallicize, Exhaust ",
+"DESCRIPTION": "At the end of your turn, gain !M! Block metallicize NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: Gain 1 Strength and 1 Dexterity "
@@ -763,7 +763,7 @@
 },
 "Blade_Slash_s":{
 "NAME": "Enhance Slash",
-"DESCRIPTION": "Armed card damage+2,if 2 or more will add non-derivative same-named card to hand, Exhaust ",
+"DESCRIPTION": "Armed card damage+2,if 2 or more will add non-derivative same-named card to hand NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: Armed cards have a probability chance to be played twice (only 1 EnhanceStatus at a time)"
@@ -771,7 +771,7 @@
 },
 "Blade_Beat_s":{
 "NAME": "Enhance Punch",
-"DESCRIPTION": "Unarmed cards damage+2,if 2 or more will add non-derivative same-named card to hand, Exhaust ",
+"DESCRIPTION": "Unarmed cards damage+2,if 2 or more will add non-derivative same-named card to hand NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: Unarmed cards have a probability chance of stunning the enemy (only 1 EnhanceStatus at a time))"
@@ -779,7 +779,7 @@
 },
 "Blade_Kick_s":{
 "NAME": "KickEnhance",
-"DESCRIPTION": "Next Final Attack deal double damage (some Final are not included), Exhaust ",
+"DESCRIPTION": "Next Final Attack deal double damage (some Final are not included) NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: if no Final Attackis in your hand,add 1 to hand(only 1 EnhanceStatus at a time)"
@@ -787,7 +787,7 @@
 },
 "Blade_Mach_s":{
 "NAME": "Mach",
-"DESCRIPTION": "Dexterity +2,draw 1 card,if 16 Dexterity or more will add non-derivative same-named card to hand, Exhaust ",
+"DESCRIPTION": "Dexterity +2,draw 1 card,if 16 Dexterity or more will add non-derivative same-named card to hand NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: When you play this card, for the rest of the turn  draw 1 card when you play a Skill"
@@ -795,7 +795,7 @@
 },
 "Blade_Metal_s":{
 "NAME": "Metal",
-"DESCRIPTION": "Apply 5 metallicize, if 35 metallicize or more will add non-derivative same-named card to hand, Exhaust ",
+"DESCRIPTION": "Apply 5 metallicize, if 35 metallicize or more will add non-derivative same-named card to hand NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Limit Enhance",
 "Enhance at KamenRide: Blade: Gain 1 Strength and Dexterity"
@@ -803,14 +803,14 @@
 },
 "Blade_Thunder":{
 "NAME": "Thunder",
-"DESCRIPTION": "Deal !D! damage to one enemy,apply 1 Thunder, Max 6, Exhaust "
+"DESCRIPTION": "Deal !D! damage to one enemy,apply 1 Thunder, Max 6 NL Exhaust "
 },
 "FormRideJack":{
 "NAME": "JackForm",
 "DESCRIPTION": "Form. Limit. enter JackForm ",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at KamenRide: Blade",
-"RideBooker usage recover, Exhaust (only once in a round)",
+"RideBooker usage recover NL Exhaust (only once in a round)",
 "RideBooker usage already recovered",
 "You may only use this card once per round!"
 ]
@@ -856,11 +856,11 @@
 },
 "Hibiki_FEVER":{
 "NAME": "FEVER",
-"DESCRIPTION": "Limit. not at Hibiki KurenaiForm CP +10,already Hibiki KurenaiForm RagingFlames +10, Exhaust ",
+"DESCRIPTION": "Limit. not at Hibiki KurenaiForm CP +10,already Hibiki KurenaiForm RagingFlames +10 NL Exhaust ",
 "UPGRADE_DESCRIPTION": "Limit. not at Hibiki KurenaiForm CP +10,already Hibiki KurenaiForm RagingFlames +10",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at KamenRide: Hibiki",
-"Apply 10 RagingFlames, Exhaust ",
+"Apply 10 RagingFlames NL Exhaust ",
 "Apply 10 RagingFlames "
 ]
 },
@@ -895,7 +895,7 @@
 },
 "Kabuto_ClockUp":{
 "NAME": "Clock Up",
-"DESCRIPTION": "Shuffle ALL your cards into your draw pile.NL then draw 3 cards.They cost 0 this round, Exhaust ",
+"DESCRIPTION": "Shuffle ALL your cards into your draw pile.NL then draw 3 cards.They cost 0 this round NL Exhaust ",
 "UPGRADE_DESCRIPTION": "Shuffle ALL your cards into your draw pile.NL then draw 3 cards.They cost 0 this round",
 "EXTENDED_DESCRIPTION":[
 "Can't use it at KamenRide Status",
@@ -905,7 +905,7 @@
 },
 "Kabuto_PutOn":{
 "NAME": "Put On",
-"DESCRIPTION": "Limit. enter MaskedForm, add 1 Cast Off, retain, Exhaust ",
+"DESCRIPTION": "Limit. enter MaskedForm, add 1 Cast Off, retain NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "Can't use Put On at MaskedForm",
 "Special Limit",
@@ -915,7 +915,7 @@
 },
 "Kabuto_CastOff":{
 "NAME": "Cast Off",
-"DESCRIPTION": "Limit. eliminate MaskedForm, discard all hand carda, according to different type, retain, Exhaust ",
+"DESCRIPTION": "Limit. eliminate MaskedForm, discard all hand carda, according to different type, retain NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You may only use this card at Masked Form Stauts",
 "Special effect",//
@@ -1050,18 +1050,18 @@
 },
 "AttackRide":{
 "NAME": "AttackRide",
-"DESCRIPTION": "According to different KamenRide  choose 1 Attacks, cost -1, Exhaust ",
-"UPGRADE_DESCRIPTION": "According to different KamenRide  choose 1 Upgraded Attacks, cost -1, Exhaust ",
+"DESCRIPTION": "According to different KamenRide  choose 1 Attacks, cost -1 NL Exhaust ",
+"UPGRADE_DESCRIPTION": "According to different KamenRide  choose 1 Upgraded Attacks, cost -1 NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at a KamenRide Status",
-"Choose 1 Attacks from all Form Attacks to hand,cost -1, Exhaust ",//1
-"Choose Dragon Rod/Pegasus Bowgun/Titan Sword to hand,cost -1, Exhaust ",//2
-"Choose FlameSaber/StormHalberd to hand,cost -1, Exhaust ",//3
-"Choose  DragSaber to hand cost -1, Exhaust ",//4
-"Choose Edge/Phone/Shot to hand,cost -1, Exhaust ",//5
-"Add 1 ＢlayRouzer to hand,cost -1, Exhaust ",//6
-"Add 1 Ongekibou(hibiki) to hand,cost -1, Exhaust ",//7
-"Add 1 KunaiGun to hand,cost -1, Exhaust ",//8
+"Choose 1 Attacks from all Form Attacks to hand,cost -1 NL Exhaust ",//1
+"Choose Dragon Rod/Pegasus Bowgun/Titan Sword to hand,cost -1 NL Exhaust ",//2
+"Choose FlameSaber/StormHalberd to hand,cost -1 NL Exhaust ",//3
+"Choose  DragSaber to hand cost -1 NL Exhaust ",//4
+"Choose Edge/Phone/Shot to hand,cost -1 NL Exhaust ",//5
+"Add 1 ＢlayRouzer to hand,cost -1 NL Exhaust ",//6
+"Add 1 Ongekibou(hibiki) to hand,cost -1 NL Exhaust ",//7
+"Add 1 KunaiGun to hand,cost -1 NL Exhaust ",//8
 "Armed, deal !D! damage to one enemy(every 1 received life damage, damage+ 2),receive !M! ture damage,apply 1 SealEnergy",//9
 "Armed, deal !D! damage to one enemy !M! times(every 5 SealEnergy,times +1),apply !M! SealEnergy",//10
 "Armed, deal !D! true damage to all enemiea, apply 1 SealEnergy",//11
@@ -1103,7 +1103,7 @@
 },
 "DecadeViolentEmotion":{
 "NAME": "Violent Form",
-"DESCRIPTION": "Enter ViolentForm, gain Strength +1, Dexterity +1, Exhaust ",
+"DESCRIPTION": "Enter ViolentForm, gain Strength +1, Dexterity +1 NL Exhaust ",
 "EXTENDED_DESCRIPTION":[
 "You're already in ViolentForm！"
 ]
@@ -1124,9 +1124,9 @@
 "NAME": "",
 "DESCRIPTION": "",
 "EXTENDED_DESCRIPTION":[
-"Deal !D! true damage 5 times to one enemy, Exhaust ",
-"Deal !D! damage to one enemy(eliminate Block, deal damage triple to Block), Exhaust ",
-"Deal !D! damage to one enemy,stun enemy, Exhaust ",
+"Deal !D! true damage 5 times to one enemy NL Exhaust ",
+"Deal !D! damage to one enemy(eliminate Block, deal damage triple to Block) NL Exhaust ",
+"Deal !D! damage to one enemy,stun enemy NL Exhaust ",
 "Den-O  count+2,50% gain 1 Strength, add 1 random card(3 to 1),apply 3 overawe to all enemies ",//3
 "Den-O  count+2,50% gain 1 Dexterity, add 1 random card(3 to 1),gain  Block equal to all enemies summon attack ",//4
 "Den-O  count+2,50% gain 1 Strength, add 1 random card(3 to 1),50% eliminate  1 buff to random enemy",//5
@@ -1232,7 +1232,7 @@
 "Max hand card+10 in this battle",
 "All hand cards cost 0",
 "Exhaust all non-card pile card,every discard gain1Strength and Dexterity",
-"Gain Strength and Dexterity equal to, Exhaust pile   ",
+"Gain Strength and Dexterity equal to Exhaust pile   ",
 "5 effect loop "
 ]
 },
@@ -1262,7 +1262,7 @@
 },
 "RideBooker_Skill_1":{
 "NAME": "Power of Justice",
-"DESCRIPTION": "Add 1 random card to RideBooker, Exhaust "
+"DESCRIPTION": "Add 1 random card to RideBooker NL Exhaust "
 },
 "RideBooker_Skill_2":{
 "NAME": "This One Is For You!",
@@ -1393,7 +1393,7 @@
 },
 "UnknownWhistle":{
 "NAME": "Unknown Whistle",
-"DESCRIPTION": "Choose one Whistle from Garuru/Basshaa/Dogga, enter corresponding Form for 3 rounds, Exhaust, Retain ",
+"DESCRIPTION": "Choose one Whistle from Garuru/Basshaa/Dogga, enter corresponding Form for 3 rounds NL Exhaust NL Retain ",
 "EXTENDED_DESCRIPTION":[
 "You can only play this card while at KamenRide: Kiva"
 ]
@@ -1429,7 +1429,7 @@
 },
 "Decade_SpecialSkill":{
 "NAME": "Collect",
-"DESCRIPTION": "Increase the card rewardafter victory by 1, Exhaust "
+"DESCRIPTION": "Increase the card rewardafter victory by 1 NL Exhaust "
 }
 
 }

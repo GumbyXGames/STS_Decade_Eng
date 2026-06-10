@@ -372,7 +372,7 @@ public class Decade extends CustomPlayer {
       } else if (Settings.language == GameLanguage.ZHT) {
          flavor = "仲唔多谢帝骑哥？";
       } else {
-         flavor = "Decade,from Kamen Rider Decade.";
+         flavor = "Tsukasa Kadoya from Kamen Rider Decade.";
       }
 
       return new CharSelectInfo(title, flavor, 70, 70, 0, 99, 5, this, this.getStartingRelics(), this.getStartingDeck(), false);
